@@ -74,5 +74,5 @@ if __name__ == "__main__":
     print(b)
 
     chocolates, exchange_rate = golden_section_exchange_search(
-        compute_utility, 0, 500, 100, max_iterations=50)
+        compute_utility, 0, 10000, 100, max_iterations=50)
     print(chocolates, exchange_rate)
