@@ -1,0 +1,9 @@
+# Backend
+
+## Setup
+Go to backend, copy  the .env.local example, rename to .env, and add ANTHROPIC_API_KEY
+
+alternatively export it in the terminal session
+```bash
+export ANTHROPIC_API_KEY="your key"
+```
