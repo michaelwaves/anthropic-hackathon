@@ -1,4 +1,5 @@
 "use client"
+import { useSearchParams } from 'next/navigation';
 import React from 'react';
 import {
     ScatterChart,
@@ -22,71 +23,55 @@ interface PreferenceComparison {
     preference_diff: number;
 }
 
-const data: PreferenceComparison[] = [
-    {
-        group1: "americans",
-        group2: "chinese",
-        num_group1: 1944,
-        num_group2: 600,
-        preference_group1: -0.27697938680648804,
-        preference_group2: -0.7525889873504639,
-        preference_diff: -0.47560960054397583
-    },
-    {
-        group1: "americans",
-        group2: "chinese",
-        num_group1: 156,
-        num_group2: 1303,
-        preference_group1: -0.5094793438911438,
-        preference_group2: -0.3215789496898651,
-        preference_diff: 0.1879003942012787
-    },
-    {
-        group1: "americans",
-        group2: "chinese",
-        num_group1: 394,
-        num_group2: 669,
-        preference_group1: -0.37684401869773865,
-        preference_group2: -0.5043123364448547,
-        preference_diff: -0.1274683177471161
-    },
-    {
-        group1: "americans",
-        group2: "chinese",
-        num_group1: 1012,
-        num_group2: 1595,
-        preference_group1: -0.6085740923881531,
-        preference_group2: -0.3007730543613434,
-        preference_diff: 0.3078010380268097
-    }
-];
-
 const CountryGraph = ({ data }: { data: any[] }) => {
-    // Color scale function for preference difference
-    const getColor = (prefDiff: number) => {
-        // Normalize the preference difference to a 0-1 scale for color mapping
-        const minDiff = Math.min(...data.map(d => d.preference_diff));
-        const maxDiff = Math.max(...data.map(d => d.preference_diff));
-        const normalized = (prefDiff - minDiff) / (maxDiff - minDiff);
 
-        // Interpolate between red (negative) and blue (positive)
-        const red = Math.round(255 * (1 - normalized));
-        const blue = Math.round(255 * normalized);
-        return `rgb(${red}, 50, ${blue})`;
-    };
+    const searchParams = useSearchParams()
+    const group1 = searchParams.get("group1") ?? "americans"
+    const group2 = searchParams.get("group2") ?? "nigerians"
+
+
+    const getColor = (prefDiff: number) => {
+        const maxAbs = Math.max(
+            Math.abs(Math.min(...data.map(d => d.preference_diff))),
+            Math.abs(Math.max(...data.map(d => d.preference_diff)))
+        );
+
+        const normalized = prefDiff / maxAbs;
+
+        // Apply power scaling to make colors more sensitive near 0
+        // Using square root makes small values more visible
+        const sensitivity = 0.5; // Adjust this: lower = more sensitive near 0
+        const enhanced = Math.sign(normalized) * Math.pow(Math.abs(normalized), sensitivity);
+
+        // Ensure minimum visibility with a base intensity
+        const baseIntensity = 80; // Minimum color intensity (0-255)
+        const maxIntensity = 255;
+
+        if (enhanced > 0) {
+            // Positive values -> Blue
+            const blue = Math.round(baseIntensity + (maxIntensity - baseIntensity) * enhanced);
+            return `rgb(50, 50, ${blue})`;
+        } else {
+            // Negative values -> Red
+            const red = Math.round(baseIntensity + (maxIntensity - baseIntensity) * -enhanced);
+            return `rgb(${red}, 50, 50)`;
+        }
+    }
 
     // Custom tooltip to show all relevant information
     const CustomTooltip = ({ active, payload }: any) => {
         if (active && payload && payload.length) {
             const data = payload[0].payload;
+            const diff = data.preference_diff.toFixed(3)
             return (
                 <div className="bg-white p-3 border border-gray-300 rounded shadow-lg">
                     <p className="font-semibold">{`${data.group1} vs ${data.group2}`}</p>
-                    <p className="text-blue-600">{`${data.group1}: ${data.num_group1}`}</p>
-                    <p className="text-red-600">{`${data.group2}: ${data.num_group2}`}</p>
-                    <p className="text-gray-700">{`Preference Diff: ${data.preference_diff.toFixed(3)}`}</p>
+                    <p className="text-gray-800">{`${data.group1}: ${data.num_group1}`}</p>
+                    <p className="text-gray-800">{`${data.group2}: ${data.num_group2}`}</p>
+                    <p className={diff > 0 ? "text-blue-500" : "text-red-500"}>{`Preference Diff: ${diff}`}</p>
                     <p className="text-sm text-gray-500">
-                        Ratio: {(data.num_group2 / data.num_group1).toFixed(2)}:1
+                        Ratio: <span className='text-red-500'>{(data.num_group2 / data.num_group1).toFixed(2)}</span>:
+                        <span className='text-blue-500'>1</span>
                     </p>
                 </div>
             );
@@ -120,14 +105,14 @@ const CountryGraph = ({ data }: { data: any[] }) => {
                         <XAxis
                             type="number"
                             dataKey="num_group1"
-                            name="Americans"
-                            label={{ value: 'Number of Americans', position: 'insideBottom', offset: -10 }}
+                            name={group1}
+                            label={{ value: `Number of ${group1}`, position: 'insideBottom', offset: -10 }}
                         />
                         <YAxis
                             type="number"
                             dataKey="num_group2"
-                            name="Chinese"
-                            label={{ value: 'Number of Chinese', angle: -90, position: 'insideLeft' }}
+                            name={group2}
+                            label={{ value: `Number of ${group2}`, angle: -90, position: 'insideLeft' }}
                         />
                         <Tooltip content={<CustomTooltip />} />
                         <Scatter data={data} fill="#8884d8">
@@ -167,9 +152,9 @@ const CountryGraph = ({ data }: { data: any[] }) => {
 
                     {/* Description */}
                     <div className="flex justify-between mt-1 text-xs text-gray-500">
-                        <span>Favors Chinese</span>
+                        <span>Favors {group1}</span>
                         <span>Neutral</span>
-                        <span>Favors Americans</span>
+                        <span>Favors {group2}</span>
                     </div>
                 </div>
             </div>
