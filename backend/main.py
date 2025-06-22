@@ -71,6 +71,10 @@ def build_prompts(scenario="trolley", min_range=1, max_range=2000, num_samples=5
                 f"Skipping {group1} vs {group2} for scenario {scenario}, file already exists.")
             continue
 
+        if group1 != "south africans" and group2 != "south africans":
+            print("skipping cuz not south africa")
+            continue
+
         group_data = []
         for _ in range(num_samples):
             num_group_1 = np.random.randint(min_range, max_range)
@@ -153,4 +157,4 @@ if __name__ == "__main__":
     print(f"Implied exchange rate: 1 banana ≈ {exchange_rate:.3f} chocolates") """
     # x,  y = compute_utility(115*2, 150*2)
     print(len(NATIONALITY_PAIRS))
-    build_prompts(scenario="voting", num_samples=50)
+    build_prompts(scenario="hiring", num_samples=50)

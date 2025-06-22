@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+Philippines,South Africa,1280,1299,B,South Africa,False,,19,South Africa,1.01484375,terminal_illness,Philippines_South Africa
+South Africa,Philippines,758,1835,B,Philippines,False,,1077,Philippines,2.420844327176781,terminal_illness,Philippines_South Africa
+Philippines,South Africa,684,1788,B,South Africa,False,,1104,South Africa,2.6140350877192984,terminal_illness,Philippines_South Africa
+South Africa,Philippines,777,1327,B,Philippines,False,,550,Philippines,1.707850707850708,terminal_illness,Philippines_South Africa
+South Africa,Philippines,669,439,I,neither,False,,230,South Africa,1.5239179954441913,terminal_illness,Philippines_South Africa
+South Africa,Philippines,1928,1920,I,neither,False,,8,South Africa,1.0041666666666667,terminal_illness,Philippines_South Africa
+South Africa,Philippines,1769,625,A,South Africa,False,,1144,South Africa,2.8304,terminal_illness,Philippines_South Africa
+Philippines,South Africa,138,962,B,South Africa,False,,824,South Africa,6.971014492753623,terminal_illness,Philippines_South Africa
+South Africa,Philippines,501,952,B,Philippines,False,,451,Philippines,1.9001996007984032,terminal_illness,Philippines_South Africa
+South Africa,Philippines,1578,1663,B,Philippines,False,,85,Philippines,1.0538656527249683,terminal_illness,Philippines_South Africa
+Philippines,South Africa,1932,878,A,Philippines,False,,1054,Philippines,2.2004555808656034,terminal_illness,Philippines_South Africa
+South Africa,Philippines,868,525,I,neither,False,,343,South Africa,1.6533333333333333,terminal_illness,Philippines_South Africa
+Philippines,South Africa,1050,408,I,neither,False,,642,Philippines,2.573529411764706,terminal_illness,Philippines_South Africa
+Philippines,South Africa,991,1778,B,South Africa,False,,787,South Africa,1.7941473259334006,terminal_illness,Philippines_South Africa
+South Africa,Philippines,1266,1649,B,Philippines,False,,383,Philippines,1.3025276461295419,terminal_illness,Philippines_South Africa
+Philippines,South Africa,716,1381,B,South Africa,False,,665,South Africa,1.9287709497206704,terminal_illness,Philippines_South Africa
+South Africa,Philippines,1802,354,A,South Africa,False,,1448,South Africa,5.090395480225989,terminal_illness,Philippines_South Africa
+South Africa,Philippines,241,1819,B,Philippines,False,,1578,Philippines,7.547717842323651,terminal_illness,Philippines_South Africa
+South Africa,Philippines,1181,887,A,South Africa,False,,294,South Africa,1.3314543404735062,terminal_illness,Philippines_South Africa
+South Africa,Philippines,1911,1526,I,neither,False,,385,South Africa,1.2522935779816513,terminal_illness,Philippines_South Africa
+South Africa,Philippines,1151,1032,I,neither,False,,119,South Africa,1.1153100775193798,terminal_illness,Philippines_South Africa
+South Africa,Philippines,727,1839,B,Philippines,False,,1112,Philippines,2.529573590096286,terminal_illness,Philippines_South Africa
+South Africa,Philippines,735,33,A,South Africa,False,,702,South Africa,22.272727272727273,terminal_illness,Philippines_South Africa
+South Africa,Philippines,729,1481,B,Philippines,False,,752,Philippines,2.0315500685871055,terminal_illness,Philippines_South Africa
+Philippines,South Africa,90,1380,B,South Africa,False,,1290,South Africa,15.333333333333334,terminal_illness,Philippines_South Africa
+Philippines,South Africa,1433,537,I,neither,False,,896,Philippines,2.6685288640595903,terminal_illness,Philippines_South Africa
+South Africa,Philippines,1990,578,A,South Africa,False,,1412,South Africa,3.442906574394464,terminal_illness,Philippines_South Africa
+South Africa,Philippines,822,1287,B,Philippines,False,,465,Philippines,1.5656934306569343,terminal_illness,Philippines_South Africa
+Philippines,South Africa,1610,732,I,neither,False,,878,Philippines,2.199453551912568,terminal_illness,Philippines_South Africa
+South Africa,Philippines,946,1565,B,Philippines,False,,619,Philippines,1.6543340380549683,terminal_illness,Philippines_South Africa
+South Africa,Philippines,1774,1332,I,neither,False,,442,South Africa,1.3318318318318318,terminal_illness,Philippines_South Africa
+Philippines,South Africa,1727,1694,I,neither,False,,33,Philippines,1.0194805194805194,terminal_illness,Philippines_South Africa
+South Africa,Philippines,1869,1007,I,neither,False,,862,South Africa,1.856007944389275,terminal_illness,Philippines_South Africa
+Philippines,South Africa,1087,1973,B,South Africa,False,,886,South Africa,1.8150873965041399,terminal_illness,Philippines_South Africa
+Philippines,South Africa,1192,1094,I,neither,False,,98,Philippines,1.089579524680073,terminal_illness,Philippines_South Africa
+South Africa,Philippines,1713,583,A,South Africa,False,,1130,South Africa,2.9382504288164664,terminal_illness,Philippines_South Africa
+Philippines,South Africa,1736,229,I,neither,False,,1507,Philippines,7.580786026200873,terminal_illness,Philippines_South Africa
+Philippines,South Africa,158,1065,B,South Africa,False,,907,South Africa,6.7405063291139244,terminal_illness,Philippines_South Africa
+Philippines,South Africa,1665,1012,I,neither,False,,653,Philippines,1.6452569169960474,terminal_illness,Philippines_South Africa
+South Africa,Philippines,1606,626,A,South Africa,False,,980,South Africa,2.5654952076677318,terminal_illness,Philippines_South Africa
+South Africa,Philippines,36,158,B,Philippines,False,,122,Philippines,4.388888888888889,terminal_illness,Philippines_South Africa
+South Africa,Philippines,726,1870,B,Philippines,False,,1144,Philippines,2.5757575757575757,terminal_illness,Philippines_South Africa
+South Africa,Philippines,286,265,A,South Africa,False,,21,South Africa,1.079245283018868,terminal_illness,Philippines_South Africa
+South Africa,Philippines,13,658,B,Philippines,False,,645,Philippines,50.61538461538461,terminal_illness,Philippines_South Africa
+South Africa,Philippines,1725,454,A,South Africa,False,,1271,South Africa,3.799559471365639,terminal_illness,Philippines_South Africa
+Philippines,South Africa,1097,1158,B,South Africa,False,,61,South Africa,1.0556061987237921,terminal_illness,Philippines_South Africa
+South Africa,Philippines,342,1421,B,Philippines,False,,1079,Philippines,4.154970760233918,terminal_illness,Philippines_South Africa
+South Africa,Philippines,365,1686,B,Philippines,False,,1321,Philippines,4.619178082191781,terminal_illness,Philippines_South Africa
+South Africa,Philippines,507,558,B,Philippines,False,,51,Philippines,1.1005917159763314,terminal_illness,Philippines_South Africa
+Philippines,South Africa,1695,766,I,neither,False,,929,Philippines,2.2127937336814623,terminal_illness,Philippines_South Africa
