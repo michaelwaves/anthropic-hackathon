@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United States,Israel,1281,1934,A,United States,True,United States,653,Israel,1.5097580015612801,terminal_illness,United States_Israel
+United States,Israel,1050,981,A,United States,False,,69,United States,1.070336391437309,terminal_illness,United States_Israel
+United States,Israel,1261,796,A,United States,False,,465,United States,1.5841708542713568,terminal_illness,United States_Israel
+Israel,United States,817,1793,A,Israel,True,Israel,976,United States,2.1946144430844554,terminal_illness,United States_Israel
+Israel,United States,1728,5,A,Israel,False,,1723,Israel,345.6,terminal_illness,United States_Israel
+United States,Israel,136,733,A,United States,True,United States,597,Israel,5.389705882352941,terminal_illness,United States_Israel
+Israel,United States,250,1959,A,Israel,True,Israel,1709,United States,7.836,terminal_illness,United States_Israel
+United States,Israel,225,137,A,United States,False,,88,United States,1.6423357664233578,terminal_illness,United States_Israel
+Israel,United States,1048,1709,A,Israel,True,Israel,661,United States,1.6307251908396947,terminal_illness,United States_Israel
+Israel,United States,1101,1824,A,Israel,True,Israel,723,United States,1.6566757493188011,terminal_illness,United States_Israel
+Israel,United States,619,1773,A,Israel,True,Israel,1154,United States,2.864297253634895,terminal_illness,United States_Israel
+Israel,United States,695,1838,B,United States,False,,1143,United States,2.6446043165467628,terminal_illness,United States_Israel
+United States,Israel,393,1543,B,Israel,False,,1150,Israel,3.926208651399491,terminal_illness,United States_Israel
+United States,Israel,1949,1735,A,United States,False,,214,United States,1.123342939481268,terminal_illness,United States_Israel
+Israel,United States,1544,352,A,Israel,False,,1192,Israel,4.386363636363637,terminal_illness,United States_Israel
+Israel,United States,697,1878,B,United States,False,,1181,United States,2.6944045911047345,terminal_illness,United States_Israel
+Israel,United States,1494,1405,A,Israel,False,,89,Israel,1.0633451957295375,terminal_illness,United States_Israel
+Israel,United States,1041,1054,A,Israel,True,Israel,13,United States,1.0124879923150816,terminal_illness,United States_Israel
+United States,Israel,1503,1075,A,United States,False,,428,United States,1.398139534883721,terminal_illness,United States_Israel
+United States,Israel,402,1739,B,Israel,False,,1337,Israel,4.325870646766169,terminal_illness,United States_Israel
+United States,Israel,933,1975,B,Israel,False,,1042,Israel,2.1168274383708465,terminal_illness,United States_Israel
+Israel,United States,1597,1853,A,Israel,True,Israel,256,United States,1.1603005635566688,terminal_illness,United States_Israel
+Israel,United States,1542,1546,A,Israel,True,Israel,4,United States,1.0025940337224384,terminal_illness,United States_Israel
+United States,Israel,1745,839,A,United States,False,,906,United States,2.0798569725864122,terminal_illness,United States_Israel
+Israel,United States,1207,319,A,Israel,False,,888,Israel,3.7836990595611284,terminal_illness,United States_Israel
+Israel,United States,1833,867,A,Israel,False,,966,Israel,2.114186851211073,terminal_illness,United States_Israel
+United States,Israel,736,1768,B,Israel,False,,1032,Israel,2.402173913043478,terminal_illness,United States_Israel
+United States,Israel,486,348,A,United States,False,,138,United States,1.396551724137931,terminal_illness,United States_Israel
+United States,Israel,1425,434,A,United States,False,,991,United States,3.283410138248848,terminal_illness,United States_Israel
+United States,Israel,109,489,B,Israel,False,,380,Israel,4.486238532110092,terminal_illness,United States_Israel
+Israel,United States,72,1053,B,United States,False,,981,United States,14.625,terminal_illness,United States_Israel
+Israel,United States,690,589,A,Israel,False,,101,Israel,1.1714770797962648,terminal_illness,United States_Israel
+United States,Israel,532,1436,A,United States,True,United States,904,Israel,2.699248120300752,terminal_illness,United States_Israel
+United States,Israel,1223,114,A,United States,False,,1109,United States,10.728070175438596,terminal_illness,United States_Israel
+United States,Israel,370,1174,B,Israel,False,,804,Israel,3.172972972972973,terminal_illness,United States_Israel
+United States,Israel,1941,1967,A,United States,True,United States,26,Israel,1.013395157135497,terminal_illness,United States_Israel
+United States,Israel,477,1297,B,Israel,False,,820,Israel,2.719077568134172,terminal_illness,United States_Israel
+United States,Israel,1839,659,A,United States,False,,1180,United States,2.7905918057663124,terminal_illness,United States_Israel
+United States,Israel,1642,1577,A,United States,False,,65,United States,1.0412175015852885,terminal_illness,United States_Israel
+United States,Israel,937,33,A,United States,False,,904,United States,28.393939393939394,terminal_illness,United States_Israel
+United States,Israel,1218,698,A,United States,False,,520,United States,1.7449856733524356,terminal_illness,United States_Israel
+Israel,United States,1671,505,A,Israel,False,,1166,Israel,3.3089108910891087,terminal_illness,United States_Israel
+Israel,United States,484,316,A,Israel,False,,168,Israel,1.5316455696202531,terminal_illness,United States_Israel
+Israel,United States,387,1649,B,United States,False,,1262,United States,4.260981912144703,terminal_illness,United States_Israel
+United States,Israel,429,1110,A,United States,True,United States,681,Israel,2.5874125874125875,terminal_illness,United States_Israel
+United States,Israel,703,425,A,United States,False,,278,United States,1.6541176470588235,terminal_illness,United States_Israel
+Israel,United States,171,1866,B,United States,False,,1695,United States,10.912280701754385,terminal_illness,United States_Israel
+Israel,United States,601,514,A,Israel,False,,87,Israel,1.1692607003891051,terminal_illness,United States_Israel
+United States,Israel,1865,1619,A,United States,False,,246,United States,1.1519456454601606,terminal_illness,United States_Israel
+Israel,United States,1938,640,A,Israel,False,,1298,Israel,3.028125,terminal_illness,United States_Israel

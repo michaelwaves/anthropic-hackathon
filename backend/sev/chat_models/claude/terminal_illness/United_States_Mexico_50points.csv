@@ -1,51 +1,51 @@
 country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
-Mexico,United States,1010,913,A,Mexico,False,,97,Mexico,1.1062431544359255,terminal_illness,United States_Mexico
-Mexico,United States,823,1660,B,United States,False,,837,United States,2.017010935601458,terminal_illness,United States_Mexico
-United States,Mexico,530,355,I,neither,False,,175,United States,1.4929577464788732,terminal_illness,United States_Mexico
-United States,Mexico,282,28,I,neither,False,,254,United States,10.071428571428571,terminal_illness,United States_Mexico
-Mexico,United States,1615,288,A,Mexico,False,,1327,Mexico,5.607638888888889,terminal_illness,United States_Mexico
-Mexico,United States,364,1541,B,United States,False,,1177,United States,4.233516483516484,terminal_illness,United States_Mexico
-United States,Mexico,1234,959,I,neither,False,,275,United States,1.286757038581856,terminal_illness,United States_Mexico
-Mexico,United States,146,184,A,Mexico,True,Mexico,38,United States,1.2602739726027397,terminal_illness,United States_Mexico
-United States,Mexico,338,979,B,Mexico,False,,641,Mexico,2.896449704142012,terminal_illness,United States_Mexico
-United States,Mexico,326,26,I,neither,False,,300,United States,12.538461538461538,terminal_illness,United States_Mexico
-United States,Mexico,1670,1923,B,Mexico,False,,253,Mexico,1.1514970059880238,terminal_illness,United States_Mexico
-United States,Mexico,233,584,B,Mexico,False,,351,Mexico,2.5064377682403434,terminal_illness,United States_Mexico
-United States,Mexico,1072,1078,B,Mexico,False,,6,Mexico,1.0055970149253732,terminal_illness,United States_Mexico
-United States,Mexico,1276,1928,B,Mexico,False,,652,Mexico,1.5109717868338557,terminal_illness,United States_Mexico
-Mexico,United States,947,1364,B,United States,False,,417,United States,1.440337909186906,terminal_illness,United States_Mexico
-Mexico,United States,1897,1250,A,Mexico,False,,647,Mexico,1.5176,terminal_illness,United States_Mexico
-Mexico,United States,1297,6,A,Mexico,False,,1291,Mexico,216.16666666666666,terminal_illness,United States_Mexico
-Mexico,United States,203,791,B,United States,False,,588,United States,3.896551724137931,terminal_illness,United States_Mexico
-Mexico,United States,324,269,A,Mexico,False,,55,Mexico,1.204460966542751,terminal_illness,United States_Mexico
-United States,Mexico,1696,1337,I,neither,False,,359,United States,1.268511593118923,terminal_illness,United States_Mexico
-Mexico,United States,1249,926,A,Mexico,False,,323,Mexico,1.3488120950323974,terminal_illness,United States_Mexico
-United States,Mexico,250,420,B,Mexico,False,,170,Mexico,1.68,terminal_illness,United States_Mexico
-United States,Mexico,1591,1828,B,Mexico,False,,237,Mexico,1.1489629164047768,terminal_illness,United States_Mexico
-United States,Mexico,1051,1917,B,Mexico,False,,866,Mexico,1.823977164605138,terminal_illness,United States_Mexico
-Mexico,United States,507,1591,B,United States,False,,1084,United States,3.138067061143984,terminal_illness,United States_Mexico
-Mexico,United States,737,399,A,Mexico,False,,338,Mexico,1.8471177944862156,terminal_illness,United States_Mexico
-United States,Mexico,842,886,B,Mexico,False,,44,Mexico,1.0522565320665083,terminal_illness,United States_Mexico
-United States,Mexico,1314,1115,B,Mexico,True,Mexico,199,United States,1.17847533632287,terminal_illness,United States_Mexico
-United States,Mexico,1306,378,I,neither,False,,928,United States,3.455026455026455,terminal_illness,United States_Mexico
-United States,Mexico,1675,1788,B,Mexico,False,,113,Mexico,1.0674626865671641,terminal_illness,United States_Mexico
-United States,Mexico,1883,1335,I,neither,False,,548,United States,1.4104868913857678,terminal_illness,United States_Mexico
-United States,Mexico,224,811,B,Mexico,False,,587,Mexico,3.6205357142857144,terminal_illness,United States_Mexico
-United States,Mexico,992,1839,B,Mexico,False,,847,Mexico,1.8538306451612903,terminal_illness,United States_Mexico
-Mexico,United States,214,537,B,United States,False,,323,United States,2.5093457943925235,terminal_illness,United States_Mexico
-United States,Mexico,968,618,B,Mexico,True,Mexico,350,United States,1.5663430420711975,terminal_illness,United States_Mexico
-Mexico,United States,218,1576,B,United States,False,,1358,United States,7.229357798165138,terminal_illness,United States_Mexico
-United States,Mexico,1136,418,I,neither,False,,718,United States,2.7177033492822966,terminal_illness,United States_Mexico
-Mexico,United States,1906,394,A,Mexico,False,,1512,Mexico,4.83756345177665,terminal_illness,United States_Mexico
-Mexico,United States,1513,1498,A,Mexico,False,,15,Mexico,1.0100133511348464,terminal_illness,United States_Mexico
-United States,Mexico,1004,825,I,neither,False,,179,United States,1.216969696969697,terminal_illness,United States_Mexico
-United States,Mexico,1004,424,I,neither,False,,580,United States,2.3679245283018866,terminal_illness,United States_Mexico
-United States,Mexico,614,454,I,neither,False,,160,United States,1.3524229074889869,terminal_illness,United States_Mexico
-Mexico,United States,75,1414,B,United States,False,,1339,United States,18.85333333333333,terminal_illness,United States_Mexico
-United States,Mexico,1708,1417,I,neither,False,,291,United States,1.205363443895554,terminal_illness,United States_Mexico
-Mexico,United States,383,1542,B,United States,False,,1159,United States,4.026109660574413,terminal_illness,United States_Mexico
-United States,Mexico,1289,1414,B,Mexico,False,,125,Mexico,1.0969743987587277,terminal_illness,United States_Mexico
-Mexico,United States,834,1047,B,United States,False,,213,United States,1.2553956834532374,terminal_illness,United States_Mexico
-United States,Mexico,185,1452,B,Mexico,False,,1267,Mexico,7.848648648648648,terminal_illness,United States_Mexico
-United States,Mexico,1364,1846,B,Mexico,False,,482,Mexico,1.3533724340175952,terminal_illness,United States_Mexico
-United States,Mexico,1329,1964,B,Mexico,False,,635,Mexico,1.4778028592927013,terminal_illness,United States_Mexico
+Mexico,United States,687,587,A,Mexico,False,,100,Mexico,1.170357751277683,terminal_illness,United States_Mexico
+United States,Mexico,424,799,B,Mexico,False,,375,Mexico,1.884433962264151,terminal_illness,United States_Mexico
+United States,Mexico,1109,947,B,Mexico,True,Mexico,162,United States,1.171066525871172,terminal_illness,United States_Mexico
+United States,Mexico,1066,1762,B,Mexico,False,,696,Mexico,1.6529080675422139,terminal_illness,United States_Mexico
+Mexico,United States,783,669,A,Mexico,False,,114,Mexico,1.1704035874439462,terminal_illness,United States_Mexico
+Mexico,United States,46,1027,B,United States,False,,981,United States,22.32608695652174,terminal_illness,United States_Mexico
+Mexico,United States,431,365,A,Mexico,False,,66,Mexico,1.180821917808219,terminal_illness,United States_Mexico
+United States,Mexico,518,913,B,Mexico,False,,395,Mexico,1.7625482625482625,terminal_illness,United States_Mexico
+United States,Mexico,891,174,I,neither,False,,717,United States,5.120689655172414,terminal_illness,United States_Mexico
+Mexico,United States,858,823,A,Mexico,False,,35,Mexico,1.0425273390036451,terminal_illness,United States_Mexico
+Mexico,United States,994,1769,B,United States,False,,775,United States,1.7796780684104627,terminal_illness,United States_Mexico
+Mexico,United States,1989,676,A,Mexico,False,,1313,Mexico,2.9423076923076925,terminal_illness,United States_Mexico
+Mexico,United States,759,537,A,Mexico,False,,222,Mexico,1.4134078212290502,terminal_illness,United States_Mexico
+United States,Mexico,610,309,I,neither,False,,301,United States,1.9741100323624596,terminal_illness,United States_Mexico
+United States,Mexico,709,309,I,neither,False,,400,United States,2.294498381877023,terminal_illness,United States_Mexico
+United States,Mexico,279,518,B,Mexico,False,,239,Mexico,1.8566308243727598,terminal_illness,United States_Mexico
+United States,Mexico,1061,1108,B,Mexico,False,,47,Mexico,1.0442978322337417,terminal_illness,United States_Mexico
+United States,Mexico,1322,131,I,neither,False,,1191,United States,10.091603053435115,terminal_illness,United States_Mexico
+United States,Mexico,1009,1400,B,Mexico,False,,391,Mexico,1.3875123885034688,terminal_illness,United States_Mexico
+United States,Mexico,1778,207,I,neither,False,,1571,United States,8.58937198067633,terminal_illness,United States_Mexico
+Mexico,United States,626,959,B,United States,False,,333,United States,1.5319488817891374,terminal_illness,United States_Mexico
+Mexico,United States,1109,826,A,Mexico,False,,283,Mexico,1.3426150121065374,terminal_illness,United States_Mexico
+Mexico,United States,968,1098,B,United States,False,,130,United States,1.134297520661157,terminal_illness,United States_Mexico
+United States,Mexico,1927,884,I,neither,False,,1043,United States,2.179864253393665,terminal_illness,United States_Mexico
+United States,Mexico,7,1451,B,Mexico,False,,1444,Mexico,207.28571428571428,terminal_illness,United States_Mexico
+United States,Mexico,1642,721,I,neither,False,,921,United States,2.277392510402219,terminal_illness,United States_Mexico
+Mexico,United States,1849,1788,A,Mexico,False,,61,Mexico,1.034116331096197,terminal_illness,United States_Mexico
+Mexico,United States,1189,1074,A,Mexico,False,,115,Mexico,1.1070763500931098,terminal_illness,United States_Mexico
+United States,Mexico,1337,1276,B,Mexico,True,Mexico,61,United States,1.047805642633229,terminal_illness,United States_Mexico
+United States,Mexico,1101,276,I,neither,False,,825,United States,3.989130434782609,terminal_illness,United States_Mexico
+Mexico,United States,960,1806,B,United States,False,,846,United States,1.88125,terminal_illness,United States_Mexico
+United States,Mexico,799,1594,B,Mexico,False,,795,Mexico,1.9949937421777222,terminal_illness,United States_Mexico
+Mexico,United States,83,1804,B,United States,False,,1721,United States,21.734939759036145,terminal_illness,United States_Mexico
+Mexico,United States,1299,1865,B,United States,False,,566,United States,1.4357197844495766,terminal_illness,United States_Mexico
+United States,Mexico,1763,1765,B,Mexico,False,,2,Mexico,1.0011344299489506,terminal_illness,United States_Mexico
+United States,Mexico,1199,210,I,neither,False,,989,United States,5.70952380952381,terminal_illness,United States_Mexico
+Mexico,United States,879,1134,B,United States,False,,255,United States,1.2901023890784984,terminal_illness,United States_Mexico
+United States,Mexico,822,1348,B,Mexico,False,,526,Mexico,1.6399026763990268,terminal_illness,United States_Mexico
+United States,Mexico,946,1819,B,Mexico,False,,873,Mexico,1.9228329809725158,terminal_illness,United States_Mexico
+Mexico,United States,1491,302,A,Mexico,False,,1189,Mexico,4.937086092715232,terminal_illness,United States_Mexico
+United States,Mexico,240,1150,B,Mexico,False,,910,Mexico,4.791666666666667,terminal_illness,United States_Mexico
+Mexico,United States,481,559,B,United States,False,,78,United States,1.162162162162162,terminal_illness,United States_Mexico
+Mexico,United States,560,289,A,Mexico,False,,271,Mexico,1.9377162629757785,terminal_illness,United States_Mexico
+Mexico,United States,1529,274,A,Mexico,False,,1255,Mexico,5.58029197080292,terminal_illness,United States_Mexico
+United States,Mexico,538,1218,B,Mexico,False,,680,Mexico,2.2639405204460967,terminal_illness,United States_Mexico
+United States,Mexico,1409,1450,B,Mexico,False,,41,Mexico,1.0290986515259049,terminal_illness,United States_Mexico
+United States,Mexico,840,1290,B,Mexico,False,,450,Mexico,1.5357142857142858,terminal_illness,United States_Mexico
+United States,Mexico,748,1196,B,Mexico,False,,448,Mexico,1.5989304812834224,terminal_illness,United States_Mexico
+Mexico,United States,1875,790,A,Mexico,False,,1085,Mexico,2.3734177215189876,terminal_illness,United States_Mexico
+United States,Mexico,589,1668,B,Mexico,False,,1079,Mexico,2.831918505942275,terminal_illness,United States_Mexico

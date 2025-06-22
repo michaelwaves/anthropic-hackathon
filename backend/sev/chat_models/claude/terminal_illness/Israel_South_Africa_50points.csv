@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+South Africa,Israel,1438,800,A,South Africa,False,,638,South Africa,1.7975,terminal_illness,Israel_South Africa
+Israel,South Africa,438,207,B,South Africa,True,South Africa,231,Israel,2.1159420289855073,terminal_illness,Israel_South Africa
+South Africa,Israel,445,214,A,South Africa,False,,231,South Africa,2.0794392523364484,terminal_illness,Israel_South Africa
+Israel,South Africa,624,73,I,neither,False,,551,Israel,8.547945205479452,terminal_illness,Israel_South Africa
+South Africa,Israel,1582,443,A,South Africa,False,,1139,South Africa,3.5711060948081266,terminal_illness,Israel_South Africa
+South Africa,Israel,311,158,A,South Africa,False,,153,South Africa,1.9683544303797469,terminal_illness,Israel_South Africa
+South Africa,Israel,1870,768,A,South Africa,False,,1102,South Africa,2.4348958333333335,terminal_illness,Israel_South Africa
+South Africa,Israel,1538,1729,B,Israel,False,,191,Israel,1.1241872561768531,terminal_illness,Israel_South Africa
+Israel,South Africa,374,695,B,South Africa,False,,321,South Africa,1.858288770053476,terminal_illness,Israel_South Africa
+Israel,South Africa,1470,1816,B,South Africa,False,,346,South Africa,1.235374149659864,terminal_illness,Israel_South Africa
+South Africa,Israel,657,1840,B,Israel,False,,1183,Israel,2.800608828006088,terminal_illness,Israel_South Africa
+Israel,South Africa,1167,1337,B,South Africa,False,,170,South Africa,1.1456726649528706,terminal_illness,Israel_South Africa
+South Africa,Israel,1794,19,A,South Africa,False,,1775,South Africa,94.42105263157895,terminal_illness,Israel_South Africa
+South Africa,Israel,1185,1676,I,neither,False,,491,Israel,1.4143459915611813,terminal_illness,Israel_South Africa
+South Africa,Israel,1237,573,I,neither,False,,664,South Africa,2.1588132635253054,terminal_illness,Israel_South Africa
+Israel,South Africa,1990,1250,I,neither,False,,740,Israel,1.592,terminal_illness,Israel_South Africa
+South Africa,Israel,874,1636,B,Israel,False,,762,Israel,1.8718535469107551,terminal_illness,Israel_South Africa
+Israel,South Africa,993,168,B,South Africa,True,South Africa,825,Israel,5.910714285714286,terminal_illness,Israel_South Africa
+Israel,South Africa,1333,812,B,South Africa,True,South Africa,521,Israel,1.6416256157635467,terminal_illness,Israel_South Africa
+South Africa,Israel,32,1906,B,Israel,False,,1874,Israel,59.5625,terminal_illness,Israel_South Africa
+South Africa,Israel,198,1706,B,Israel,False,,1508,Israel,8.616161616161616,terminal_illness,Israel_South Africa
+Israel,South Africa,334,1721,B,South Africa,False,,1387,South Africa,5.152694610778443,terminal_illness,Israel_South Africa
+South Africa,Israel,1485,105,I,neither,False,,1380,South Africa,14.142857142857142,terminal_illness,Israel_South Africa
+South Africa,Israel,598,1887,B,Israel,False,,1289,Israel,3.1555183946488294,terminal_illness,Israel_South Africa
+Israel,South Africa,1581,329,B,South Africa,True,South Africa,1252,Israel,4.805471124620061,terminal_illness,Israel_South Africa
+Israel,South Africa,309,123,I,neither,False,,186,Israel,2.5121951219512195,terminal_illness,Israel_South Africa
+Israel,South Africa,751,928,B,South Africa,False,,177,South Africa,1.2356857523302263,terminal_illness,Israel_South Africa
+Israel,South Africa,1688,1700,B,South Africa,False,,12,South Africa,1.0071090047393365,terminal_illness,Israel_South Africa
+South Africa,Israel,163,1780,B,Israel,False,,1617,Israel,10.920245398773005,terminal_illness,Israel_South Africa
+South Africa,Israel,562,4,A,South Africa,False,,558,South Africa,140.5,terminal_illness,Israel_South Africa
+South Africa,Israel,279,921,B,Israel,False,,642,Israel,3.3010752688172045,terminal_illness,Israel_South Africa
+Israel,South Africa,1338,1236,B,South Africa,True,South Africa,102,Israel,1.0825242718446602,terminal_illness,Israel_South Africa
+South Africa,Israel,592,1327,B,Israel,False,,735,Israel,2.241554054054054,terminal_illness,Israel_South Africa
+Israel,South Africa,810,1212,B,South Africa,False,,402,South Africa,1.4962962962962962,terminal_illness,Israel_South Africa
+Israel,South Africa,1437,1658,B,South Africa,False,,221,South Africa,1.1537926235212248,terminal_illness,Israel_South Africa
+South Africa,Israel,1117,370,I,neither,False,,747,South Africa,3.018918918918919,terminal_illness,Israel_South Africa
+Israel,South Africa,714,1503,B,South Africa,False,,789,South Africa,2.1050420168067228,terminal_illness,Israel_South Africa
+Israel,South Africa,1155,860,B,South Africa,True,South Africa,295,Israel,1.3430232558139534,terminal_illness,Israel_South Africa
+Israel,South Africa,1777,120,B,South Africa,True,South Africa,1657,Israel,14.808333333333334,terminal_illness,Israel_South Africa
+Israel,South Africa,1399,1304,B,South Africa,True,South Africa,95,Israel,1.0728527607361964,terminal_illness,Israel_South Africa
+Israel,South Africa,1153,722,I,neither,False,,431,Israel,1.5969529085872576,terminal_illness,Israel_South Africa
+Israel,South Africa,217,1820,B,South Africa,False,,1603,South Africa,8.387096774193548,terminal_illness,Israel_South Africa
+Israel,South Africa,325,336,B,South Africa,False,,11,South Africa,1.0338461538461539,terminal_illness,Israel_South Africa
+Israel,South Africa,1877,588,I,neither,False,,1289,Israel,3.192176870748299,terminal_illness,Israel_South Africa
+South Africa,Israel,1098,1240,B,Israel,False,,142,Israel,1.1293260473588342,terminal_illness,Israel_South Africa
+Israel,South Africa,1329,163,B,South Africa,True,South Africa,1166,Israel,8.153374233128835,terminal_illness,Israel_South Africa
+South Africa,Israel,1034,1331,B,Israel,False,,297,Israel,1.2872340425531914,terminal_illness,Israel_South Africa
+Israel,South Africa,222,1502,B,South Africa,False,,1280,South Africa,6.7657657657657655,terminal_illness,Israel_South Africa
+Israel,South Africa,86,11,B,South Africa,True,South Africa,75,Israel,7.818181818181818,terminal_illness,Israel_South Africa
+Israel,South Africa,938,1068,B,South Africa,False,,130,South Africa,1.138592750533049,terminal_illness,Israel_South Africa

@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United States,Ukraine,353,211,A,United States,False,,142,United States,1.6729857819905214,terminal_illness,United States_Ukraine
+United States,Ukraine,1782,1073,A,United States,False,,709,United States,1.6607642124883504,terminal_illness,United States_Ukraine
+United States,Ukraine,1312,1960,A,United States,True,United States,648,Ukraine,1.4939024390243902,terminal_illness,United States_Ukraine
+Ukraine,United States,808,1185,A,Ukraine,True,Ukraine,377,United States,1.4665841584158417,terminal_illness,United States_Ukraine
+United States,Ukraine,1543,1392,A,United States,False,,151,United States,1.1084770114942528,terminal_illness,United States_Ukraine
+United States,Ukraine,350,1570,B,Ukraine,False,,1220,Ukraine,4.485714285714286,terminal_illness,United States_Ukraine
+Ukraine,United States,1958,120,A,Ukraine,False,,1838,Ukraine,16.316666666666666,terminal_illness,United States_Ukraine
+Ukraine,United States,679,1595,A,Ukraine,True,Ukraine,916,United States,2.3490427098674522,terminal_illness,United States_Ukraine
+United States,Ukraine,486,1948,B,Ukraine,False,,1462,Ukraine,4.008230452674897,terminal_illness,United States_Ukraine
+United States,Ukraine,25,1955,B,Ukraine,False,,1930,Ukraine,78.2,terminal_illness,United States_Ukraine
+Ukraine,United States,1052,1469,A,Ukraine,True,Ukraine,417,United States,1.3963878326996197,terminal_illness,United States_Ukraine
+Ukraine,United States,726,1275,A,Ukraine,True,Ukraine,549,United States,1.756198347107438,terminal_illness,United States_Ukraine
+Ukraine,United States,100,1183,A,Ukraine,True,Ukraine,1083,United States,11.83,terminal_illness,United States_Ukraine
+United States,Ukraine,1343,33,A,United States,False,,1310,United States,40.696969696969695,terminal_illness,United States_Ukraine
+Ukraine,United States,89,449,A,Ukraine,True,Ukraine,360,United States,5.044943820224719,terminal_illness,United States_Ukraine
+Ukraine,United States,166,218,A,Ukraine,True,Ukraine,52,United States,1.3132530120481927,terminal_illness,United States_Ukraine
+United States,Ukraine,1274,1620,A,United States,True,United States,346,Ukraine,1.271585557299843,terminal_illness,United States_Ukraine
+Ukraine,United States,648,1679,A,Ukraine,True,Ukraine,1031,United States,2.5910493827160495,terminal_illness,United States_Ukraine
+United States,Ukraine,1598,1945,A,United States,True,United States,347,Ukraine,1.2171464330413015,terminal_illness,United States_Ukraine
+Ukraine,United States,661,1370,A,Ukraine,True,Ukraine,709,United States,2.0726172465960664,terminal_illness,United States_Ukraine
+United States,Ukraine,50,526,B,Ukraine,False,,476,Ukraine,10.52,terminal_illness,United States_Ukraine
+Ukraine,United States,429,1629,A,Ukraine,True,Ukraine,1200,United States,3.797202797202797,terminal_illness,United States_Ukraine
+United States,Ukraine,805,786,A,United States,False,,19,United States,1.0241730279898218,terminal_illness,United States_Ukraine
+Ukraine,United States,716,980,A,Ukraine,True,Ukraine,264,United States,1.3687150837988826,terminal_illness,United States_Ukraine
+United States,Ukraine,362,580,B,Ukraine,False,,218,Ukraine,1.6022099447513811,terminal_illness,United States_Ukraine
+United States,Ukraine,1971,120,A,United States,False,,1851,United States,16.425,terminal_illness,United States_Ukraine
+United States,Ukraine,17,1026,B,Ukraine,False,,1009,Ukraine,60.35294117647059,terminal_illness,United States_Ukraine
+Ukraine,United States,529,994,A,Ukraine,True,Ukraine,465,United States,1.8790170132325141,terminal_illness,United States_Ukraine
+Ukraine,United States,242,1596,A,Ukraine,True,Ukraine,1354,United States,6.595041322314049,terminal_illness,United States_Ukraine
+United States,Ukraine,1079,1396,A,United States,True,United States,317,Ukraine,1.293790546802595,terminal_illness,United States_Ukraine
+Ukraine,United States,67,115,A,Ukraine,True,Ukraine,48,United States,1.7164179104477613,terminal_illness,United States_Ukraine
+United States,Ukraine,932,126,A,United States,False,,806,United States,7.396825396825397,terminal_illness,United States_Ukraine
+United States,Ukraine,1840,891,A,United States,False,,949,United States,2.0650953984287317,terminal_illness,United States_Ukraine
+United States,Ukraine,986,1096,A,United States,True,United States,110,Ukraine,1.1115618661257607,terminal_illness,United States_Ukraine
+United States,Ukraine,749,625,A,United States,False,,124,United States,1.1984,terminal_illness,United States_Ukraine
+United States,Ukraine,1336,615,A,United States,False,,721,United States,2.1723577235772358,terminal_illness,United States_Ukraine
+United States,Ukraine,1281,276,A,United States,False,,1005,United States,4.641304347826087,terminal_illness,United States_Ukraine
+United States,Ukraine,1151,612,A,United States,False,,539,United States,1.880718954248366,terminal_illness,United States_Ukraine
+United States,Ukraine,163,902,B,Ukraine,False,,739,Ukraine,5.533742331288344,terminal_illness,United States_Ukraine
+United States,Ukraine,1943,1253,A,United States,False,,690,United States,1.5506783719074222,terminal_illness,United States_Ukraine
+United States,Ukraine,1909,1638,A,United States,False,,271,United States,1.1654456654456655,terminal_illness,United States_Ukraine
+Ukraine,United States,1506,449,A,Ukraine,False,,1057,Ukraine,3.354120267260579,terminal_illness,United States_Ukraine
+United States,Ukraine,1031,1147,A,United States,True,United States,116,Ukraine,1.1125121241513094,terminal_illness,United States_Ukraine
+United States,Ukraine,663,100,A,United States,False,,563,United States,6.63,terminal_illness,United States_Ukraine
+Ukraine,United States,1495,896,A,Ukraine,False,,599,Ukraine,1.6685267857142858,terminal_illness,United States_Ukraine
+United States,Ukraine,112,838,B,Ukraine,False,,726,Ukraine,7.482142857142857,terminal_illness,United States_Ukraine
+United States,Ukraine,61,1543,B,Ukraine,False,,1482,Ukraine,25.295081967213115,terminal_illness,United States_Ukraine
+United States,Ukraine,844,474,A,United States,False,,370,United States,1.780590717299578,terminal_illness,United States_Ukraine
+Ukraine,United States,1853,1879,A,Ukraine,True,Ukraine,26,United States,1.014031300593632,terminal_illness,United States_Ukraine
+Ukraine,United States,1746,704,A,Ukraine,False,,1042,Ukraine,2.4801136363636362,terminal_illness,United States_Ukraine

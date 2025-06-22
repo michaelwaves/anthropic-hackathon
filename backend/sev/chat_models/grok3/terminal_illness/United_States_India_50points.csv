@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United States,India,1611,1039,A,United States,False,,572,United States,1.5505293551491819,terminal_illness,United States_India
+India,United States,1820,1481,A,India,False,,339,India,1.2288993923024982,terminal_illness,United States_India
+India,United States,660,618,A,India,False,,42,India,1.0679611650485437,terminal_illness,United States_India
+United States,India,39,223,B,India,False,,184,India,5.717948717948718,terminal_illness,United States_India
+United States,India,693,1151,B,India,False,,458,India,1.6608946608946609,terminal_illness,United States_India
+United States,India,30,128,B,India,False,,98,India,4.266666666666667,terminal_illness,United States_India
+United States,India,1467,1475,B,India,False,,8,India,1.005453306066803,terminal_illness,United States_India
+India,United States,742,624,A,India,False,,118,India,1.189102564102564,terminal_illness,United States_India
+India,United States,1158,1312,A,India,True,India,154,United States,1.1329879101899827,terminal_illness,United States_India
+United States,India,1251,326,A,United States,False,,925,United States,3.8374233128834354,terminal_illness,United States_India
+India,United States,1188,737,A,India,False,,451,India,1.6119402985074627,terminal_illness,United States_India
+United States,India,1819,43,A,United States,False,,1776,United States,42.30232558139535,terminal_illness,United States_India
+India,United States,680,143,A,India,False,,537,India,4.755244755244755,terminal_illness,United States_India
+United States,India,152,667,B,India,False,,515,India,4.3881578947368425,terminal_illness,United States_India
+United States,India,1284,1281,A,United States,False,,3,United States,1.0023419203747073,terminal_illness,United States_India
+India,United States,1960,426,A,India,False,,1534,India,4.60093896713615,terminal_illness,United States_India
+United States,India,1595,1741,A,United States,True,United States,146,India,1.0915360501567397,terminal_illness,United States_India
+India,United States,483,943,A,India,True,India,460,United States,1.9523809523809523,terminal_illness,United States_India
+India,United States,930,898,A,India,False,,32,India,1.0356347438752784,terminal_illness,United States_India
+India,United States,1055,1792,A,India,True,India,737,United States,1.6985781990521327,terminal_illness,United States_India
+India,United States,1552,535,A,India,False,,1017,India,2.9009345794392525,terminal_illness,United States_India
+United States,India,1723,1632,A,United States,False,,91,United States,1.0557598039215685,terminal_illness,United States_India
+India,United States,1292,1517,A,India,True,India,225,United States,1.1741486068111455,terminal_illness,United States_India
+India,United States,1386,1180,A,India,False,,206,India,1.1745762711864407,terminal_illness,United States_India
+India,United States,306,1801,A,India,True,India,1495,United States,5.88562091503268,terminal_illness,United States_India
+India,United States,224,864,A,India,True,India,640,United States,3.857142857142857,terminal_illness,United States_India
+India,United States,1127,439,A,India,False,,688,India,2.567198177676538,terminal_illness,United States_India
+United States,India,957,806,A,United States,False,,151,United States,1.1873449131513647,terminal_illness,United States_India
+India,United States,665,650,A,India,False,,15,India,1.023076923076923,terminal_illness,United States_India
+India,United States,1493,1664,A,India,True,India,171,United States,1.114534494306765,terminal_illness,United States_India
+United States,India,580,1176,B,India,False,,596,India,2.027586206896552,terminal_illness,United States_India
+United States,India,754,135,A,United States,False,,619,United States,5.5851851851851855,terminal_illness,United States_India
+United States,India,1814,885,A,United States,False,,929,United States,2.0497175141242936,terminal_illness,United States_India
+India,United States,212,100,A,India,False,,112,India,2.12,terminal_illness,United States_India
+India,United States,685,1269,A,India,True,India,584,United States,1.8525547445255475,terminal_illness,United States_India
+India,United States,619,1435,A,India,True,India,816,United States,2.3182552504038774,terminal_illness,United States_India
+India,United States,1327,1107,A,India,False,,220,India,1.19873532068654,terminal_illness,United States_India
+United States,India,1132,1781,A,United States,True,United States,649,India,1.573321554770318,terminal_illness,United States_India
+United States,India,31,568,B,India,False,,537,India,18.322580645161292,terminal_illness,United States_India
+India,United States,1487,947,A,India,False,,540,India,1.570221752903907,terminal_illness,United States_India
+India,United States,1302,579,A,India,False,,723,India,2.2487046632124352,terminal_illness,United States_India
+India,United States,876,476,A,India,False,,400,India,1.8403361344537814,terminal_illness,United States_India
+India,United States,1891,855,A,India,False,,1036,India,2.2116959064327486,terminal_illness,United States_India
+India,United States,278,440,A,India,True,India,162,United States,1.5827338129496402,terminal_illness,United States_India
+United States,India,1585,199,A,United States,False,,1386,United States,7.964824120603015,terminal_illness,United States_India
+United States,India,300,427,B,India,False,,127,India,1.4233333333333333,terminal_illness,United States_India
+India,United States,1177,1624,A,India,True,India,447,United States,1.3797790994052677,terminal_illness,United States_India
+United States,India,44,1548,B,India,False,,1504,India,35.18181818181818,terminal_illness,United States_India
+United States,India,1798,734,A,United States,False,,1064,United States,2.449591280653951,terminal_illness,United States_India
+India,United States,1321,1906,A,India,True,India,585,United States,1.4428463285389856,terminal_illness,United States_India
