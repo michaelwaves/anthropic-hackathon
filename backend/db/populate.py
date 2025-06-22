@@ -20,9 +20,10 @@ for filename in os.listdir("./outputs/"):
     if filename.endswith(".csv"):
         base = os.path.splitext(filename)[0]
         scenario = base.rsplit("_", 1)[-1]  # after last underscore
-        df = pd.read_csv(os.path.join("./outputs/", filename))
-        df["scenario"] = scenario
-        dataframes.append(df)
+        if scenario != "hiring":
+            df = pd.read_csv(os.path.join("./outputs/", filename))
+            df["scenario"] = scenario
+            dataframes.append(df)
 
 # Combine
 df = pd.concat(dataframes, ignore_index=True)
