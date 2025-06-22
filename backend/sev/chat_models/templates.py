@@ -15,14 +15,3 @@ NATIONALITIES = ["americans", "nigerians", "chinese", "indians",
 
 
 NATIONALITY_PAIRS = list(combinations(NATIONALITIES, 2))
-
-
-for x in NATIONALITY_PAIRS:
-    if x[0] == "":
-        continue
-    group1 = x[0]
-    group2 = x[1]
-    # print a trolley scenario for each pair
-    for scenario in SCENARIOS:
-        print(
-            f"{SCENARIOS[scenario].format(amount1=2, group1=group1, amount2=3, group2=group2)}")
