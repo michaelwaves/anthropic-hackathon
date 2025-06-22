@@ -7,9 +7,10 @@ import { scenarios } from "@/lib/data/scenarios"
 type Props = {
     selected: string | null
     onChange: (value: string) => void
+    label?: string
 }
 
-export default function ScenarioDropdown({ selected, onChange }: Props) {
+export default function ScenarioDropdown({ selected, onChange, label = "Scenario" }: Props) {
     const [open, setOpen] = useState(false)
 
     const getScenarioLabel = (value: string | null) => {
@@ -23,7 +24,7 @@ export default function ScenarioDropdown({ selected, onChange }: Props) {
 
     return (
         <div className="flex-1 space-y-2">
-            <label className="text-sm font-medium text-gray-700">Scenario</label>
+            <label className="text-sm font-medium text-gray-700">{label}</label>
             <div className="relative">
                 <button
                     onClick={() => setOpen(!open)}

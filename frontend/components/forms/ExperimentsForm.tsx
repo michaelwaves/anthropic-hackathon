@@ -3,6 +3,8 @@
 import { useState } from "react"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
+import ScenarioDropdown from "../navigation/ScenarioDropdown"
+import { scenarios } from "@/lib/data/scenarios"
 
 export default function ExperimentsForm() {
     const [scenario, setScenario] = useState("")
@@ -28,6 +30,28 @@ export default function ExperimentsForm() {
         .replace("{amount1}", amount1)
         .replace("{amount2}", amount2)
 
+    const handleSubmit = async () => {
+        const messages1 = [
+            {
+                "role": "user",
+                "content": filledScenario
+            },
+            {
+                "role": "assistant",
+                "content": `${amount1} ${group1}`
+            }
+        ]
+        const messages2 = [
+            {
+                "role": "user",
+                "content": filledScenario
+            },
+            {
+                "role": "assistant",
+                "content": `${amount2} ${group2}`
+            }
+        ]
+    }
     return (
         <div className="max-w-3xl mx-auto px-4 py-12 space-y-8">
             <div className="text-center space-y-2">
@@ -36,9 +60,12 @@ export default function ExperimentsForm() {
                     Build and compare ethical dilemmas using group and amount variables.
                 </p>
             </div>
-
+            <ScenarioDropdown selected={scenario} onChange={(v) => setScenario(
+                scenarios.filter((s) => s.value == v)[0].description)}
+                label="Start from Template?"
+            />
             <div className="space-y-2">
-                <p className="text-sm font-medium">Scenario Template</p>
+                <p className="text-sm font-medium">Custom Template</p>
                 <Textarea
                     placeholder="e.g. Should we save {amount1} {group1} or {amount2} {group2}?"
                     rows={3}
@@ -91,6 +118,16 @@ export default function ExperimentsForm() {
                     {filledScenario}
                 </div>
             )}
+            {/* Action Button */}
+            <div className="flex justify-center">
+                <button
+                    onClick={handleSubmit}
+                    disabled={!group1 || !group2}
+                    className="px-6 py-2 bg-blue-600 text-white rounded-md font-medium hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 disabled:opacity-50 disabled:cursor-not-allowed"
+                >
+                    View Data
+                </button>
+            </div>
         </div>
     )
 }
