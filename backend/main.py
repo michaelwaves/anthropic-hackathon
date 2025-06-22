@@ -75,6 +75,10 @@ def build_prompts(scenario="trolley", min_range=1, max_range=2000, num_samples=5
             print("skipping cuz not south africa")
             continue
 
+        if group1 != "south africans" and group2 != "south africans":
+            print("skipping cuz not south africa")
+            continue
+
         group_data = []
         for _ in range(num_samples):
             num_group_1 = np.random.randint(min_range, max_range)
