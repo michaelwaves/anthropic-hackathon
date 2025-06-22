@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+Pakistan,United States,794,468,A,Pakistan,False,,326,Pakistan,1.6965811965811965,terminal_illness,United States_Pakistan
+Pakistan,United States,1902,346,A,Pakistan,False,,1556,Pakistan,5.497109826589595,terminal_illness,United States_Pakistan
+Pakistan,United States,1959,1446,A,Pakistan,False,,513,Pakistan,1.3547717842323652,terminal_illness,United States_Pakistan
+Pakistan,United States,1337,235,A,Pakistan,False,,1102,Pakistan,5.68936170212766,terminal_illness,United States_Pakistan
+United States,Pakistan,1767,987,A,United States,False,,780,United States,1.790273556231003,terminal_illness,United States_Pakistan
+Pakistan,United States,1057,729,A,Pakistan,False,,328,Pakistan,1.4499314128943759,terminal_illness,United States_Pakistan
+United States,Pakistan,1146,1943,A,United States,True,United States,797,Pakistan,1.6954624781849912,terminal_illness,United States_Pakistan
+United States,Pakistan,1221,1313,A,United States,True,United States,92,Pakistan,1.0753480753480753,terminal_illness,United States_Pakistan
+Pakistan,United States,79,1810,A,Pakistan,True,Pakistan,1731,United States,22.911392405063292,terminal_illness,United States_Pakistan
+Pakistan,United States,784,806,A,Pakistan,True,Pakistan,22,United States,1.028061224489796,terminal_illness,United States_Pakistan
+Pakistan,United States,225,900,A,Pakistan,True,Pakistan,675,United States,4.0,terminal_illness,United States_Pakistan
+Pakistan,United States,194,1694,A,Pakistan,True,Pakistan,1500,United States,8.731958762886597,terminal_illness,United States_Pakistan
+Pakistan,United States,1705,1894,A,Pakistan,True,Pakistan,189,United States,1.110850439882698,terminal_illness,United States_Pakistan
+United States,Pakistan,1817,742,A,United States,False,,1075,United States,2.4487870619946093,terminal_illness,United States_Pakistan
+United States,Pakistan,753,1186,A,United States,True,United States,433,Pakistan,1.5750332005312084,terminal_illness,United States_Pakistan
+Pakistan,United States,1642,1645,A,Pakistan,True,Pakistan,3,United States,1.0018270401948843,terminal_illness,United States_Pakistan
+Pakistan,United States,505,1013,A,Pakistan,True,Pakistan,508,United States,2.005940594059406,terminal_illness,United States_Pakistan
+United States,Pakistan,84,389,B,Pakistan,False,,305,Pakistan,4.630952380952381,terminal_illness,United States_Pakistan
+United States,Pakistan,1333,1216,A,United States,False,,117,United States,1.096217105263158,terminal_illness,United States_Pakistan
+Pakistan,United States,1493,1335,A,Pakistan,False,,158,Pakistan,1.1183520599250936,terminal_illness,United States_Pakistan
+United States,Pakistan,1305,411,A,United States,False,,894,United States,3.1751824817518246,terminal_illness,United States_Pakistan
+United States,Pakistan,1314,1019,A,United States,False,,295,United States,1.2894995093228656,terminal_illness,United States_Pakistan
+United States,Pakistan,817,1859,A,United States,True,United States,1042,Pakistan,2.2753977968176256,terminal_illness,United States_Pakistan
+United States,Pakistan,967,1555,A,United States,True,United States,588,Pakistan,1.608066184074457,terminal_illness,United States_Pakistan
+Pakistan,United States,1302,749,A,Pakistan,False,,553,Pakistan,1.7383177570093458,terminal_illness,United States_Pakistan
+United States,Pakistan,430,1309,A,United States,True,United States,879,Pakistan,3.0441860465116277,terminal_illness,United States_Pakistan
+Pakistan,United States,1239,527,A,Pakistan,False,,712,Pakistan,2.351043643263757,terminal_illness,United States_Pakistan
+Pakistan,United States,1457,427,A,Pakistan,False,,1030,Pakistan,3.4121779859484778,terminal_illness,United States_Pakistan
+United States,Pakistan,200,1886,A,United States,True,United States,1686,Pakistan,9.43,terminal_illness,United States_Pakistan
+United States,Pakistan,980,1053,A,United States,True,United States,73,Pakistan,1.0744897959183672,terminal_illness,United States_Pakistan
+Pakistan,United States,465,134,A,Pakistan,False,,331,Pakistan,3.470149253731343,terminal_illness,United States_Pakistan
+Pakistan,United States,240,1133,A,Pakistan,True,Pakistan,893,United States,4.720833333333333,terminal_illness,United States_Pakistan
+Pakistan,United States,1381,735,A,Pakistan,False,,646,Pakistan,1.8789115646258503,terminal_illness,United States_Pakistan
+United States,Pakistan,581,764,A,United States,True,United States,183,Pakistan,1.314974182444062,terminal_illness,United States_Pakistan
+Pakistan,United States,1001,450,A,Pakistan,False,,551,Pakistan,2.2244444444444444,terminal_illness,United States_Pakistan
+United States,Pakistan,43,1746,B,Pakistan,False,,1703,Pakistan,40.604651162790695,terminal_illness,United States_Pakistan
+United States,Pakistan,140,546,A,United States,True,United States,406,Pakistan,3.9,terminal_illness,United States_Pakistan
+Pakistan,United States,1047,839,A,Pakistan,False,,208,Pakistan,1.2479141835518475,terminal_illness,United States_Pakistan
+United States,Pakistan,1324,1427,A,United States,True,United States,103,Pakistan,1.0777945619335347,terminal_illness,United States_Pakistan
+United States,Pakistan,1670,1947,A,United States,True,United States,277,Pakistan,1.165868263473054,terminal_illness,United States_Pakistan
+Pakistan,United States,1625,1743,A,Pakistan,True,Pakistan,118,United States,1.0726153846153845,terminal_illness,United States_Pakistan
+United States,Pakistan,1158,1946,A,United States,True,United States,788,Pakistan,1.680483592400691,terminal_illness,United States_Pakistan
+Pakistan,United States,405,130,A,Pakistan,False,,275,Pakistan,3.1153846153846154,terminal_illness,United States_Pakistan
+United States,Pakistan,934,980,A,United States,True,United States,46,Pakistan,1.0492505353319057,terminal_illness,United States_Pakistan
+Pakistan,United States,692,1165,A,Pakistan,True,Pakistan,473,United States,1.6835260115606936,terminal_illness,United States_Pakistan
+United States,Pakistan,1760,1443,A,United States,False,,317,United States,1.2196812196812197,terminal_illness,United States_Pakistan
+United States,Pakistan,530,1301,A,United States,True,United States,771,Pakistan,2.4547169811320755,terminal_illness,United States_Pakistan
+United States,Pakistan,1573,1285,A,United States,False,,288,United States,1.2241245136186771,terminal_illness,United States_Pakistan
+United States,Pakistan,1287,405,A,United States,False,,882,United States,3.1777777777777776,terminal_illness,United States_Pakistan
+Pakistan,United States,1013,317,A,Pakistan,False,,696,Pakistan,3.195583596214511,terminal_illness,United States_Pakistan

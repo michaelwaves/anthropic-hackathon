@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United States,Philippines,603,967,A,United States,True,United States,364,Philippines,1.6036484245439468,terminal_illness,United States_Philippines
+United States,Philippines,661,1168,A,United States,True,United States,507,Philippines,1.767019667170953,terminal_illness,United States_Philippines
+United States,Philippines,1754,734,A,United States,False,,1020,United States,2.3896457765667574,terminal_illness,United States_Philippines
+Philippines,United States,1282,1451,A,Philippines,True,Philippines,169,United States,1.1318252730109204,terminal_illness,United States_Philippines
+Philippines,United States,1620,624,A,Philippines,False,,996,Philippines,2.5961538461538463,terminal_illness,United States_Philippines
+Philippines,United States,1332,690,A,Philippines,False,,642,Philippines,1.9304347826086956,terminal_illness,United States_Philippines
+United States,Philippines,1838,1570,A,United States,False,,268,United States,1.1707006369426751,terminal_illness,United States_Philippines
+United States,Philippines,1122,730,A,United States,False,,392,United States,1.536986301369863,terminal_illness,United States_Philippines
+United States,Philippines,486,95,A,United States,False,,391,United States,5.11578947368421,terminal_illness,United States_Philippines
+Philippines,United States,1307,99,A,Philippines,False,,1208,Philippines,13.202020202020202,terminal_illness,United States_Philippines
+United States,Philippines,148,1200,B,Philippines,False,,1052,Philippines,8.108108108108109,terminal_illness,United States_Philippines
+Philippines,United States,73,391,A,Philippines,True,Philippines,318,United States,5.3561643835616435,terminal_illness,United States_Philippines
+United States,Philippines,370,217,A,United States,False,,153,United States,1.705069124423963,terminal_illness,United States_Philippines
+Philippines,United States,1666,659,A,Philippines,False,,1007,Philippines,2.528072837632777,terminal_illness,United States_Philippines
+United States,Philippines,1207,1644,A,United States,True,United States,437,Philippines,1.3620546810273406,terminal_illness,United States_Philippines
+United States,Philippines,571,1655,B,Philippines,False,,1084,Philippines,2.8984238178633976,terminal_illness,United States_Philippines
+Philippines,United States,966,1091,A,Philippines,True,Philippines,125,United States,1.129399585921325,terminal_illness,United States_Philippines
+Philippines,United States,1768,1907,A,Philippines,True,Philippines,139,United States,1.0786199095022624,terminal_illness,United States_Philippines
+United States,Philippines,987,712,A,United States,False,,275,United States,1.3862359550561798,terminal_illness,United States_Philippines
+United States,Philippines,630,291,A,United States,False,,339,United States,2.1649484536082473,terminal_illness,United States_Philippines
+United States,Philippines,1595,588,A,United States,False,,1007,United States,2.7125850340136055,terminal_illness,United States_Philippines
+United States,Philippines,1157,165,A,United States,False,,992,United States,7.012121212121212,terminal_illness,United States_Philippines
+Philippines,United States,1295,1531,A,Philippines,True,Philippines,236,United States,1.1822393822393822,terminal_illness,United States_Philippines
+Philippines,United States,561,322,A,Philippines,False,,239,Philippines,1.7422360248447204,terminal_illness,United States_Philippines
+United States,Philippines,1486,815,A,United States,False,,671,United States,1.8233128834355827,terminal_illness,United States_Philippines
+Philippines,United States,136,896,A,Philippines,True,Philippines,760,United States,6.588235294117647,terminal_illness,United States_Philippines
+United States,Philippines,338,118,A,United States,False,,220,United States,2.864406779661017,terminal_illness,United States_Philippines
+Philippines,United States,602,1107,A,Philippines,True,Philippines,505,United States,1.8388704318936877,terminal_illness,United States_Philippines
+Philippines,United States,587,554,A,Philippines,False,,33,Philippines,1.05956678700361,terminal_illness,United States_Philippines
+Philippines,United States,83,758,A,Philippines,True,Philippines,675,United States,9.132530120481928,terminal_illness,United States_Philippines
+Philippines,United States,639,154,A,Philippines,False,,485,Philippines,4.14935064935065,terminal_illness,United States_Philippines
+Philippines,United States,1250,408,A,Philippines,False,,842,Philippines,3.0637254901960786,terminal_illness,United States_Philippines
+Philippines,United States,1233,521,A,Philippines,False,,712,Philippines,2.3666026871401153,terminal_illness,United States_Philippines
+United States,Philippines,337,1169,B,Philippines,False,,832,Philippines,3.4688427299703264,terminal_illness,United States_Philippines
+Philippines,United States,188,1383,A,Philippines,True,Philippines,1195,United States,7.3563829787234045,terminal_illness,United States_Philippines
+Philippines,United States,6,1310,B,United States,False,,1304,United States,218.33333333333334,terminal_illness,United States_Philippines
+Philippines,United States,130,1168,A,Philippines,True,Philippines,1038,United States,8.984615384615385,terminal_illness,United States_Philippines
+United States,Philippines,677,1464,B,Philippines,False,,787,Philippines,2.1624815361890692,terminal_illness,United States_Philippines
+Philippines,United States,1957,313,A,Philippines,False,,1644,Philippines,6.252396166134186,terminal_illness,United States_Philippines
+Philippines,United States,1221,1568,A,Philippines,True,Philippines,347,United States,1.2841932841932842,terminal_illness,United States_Philippines
+United States,Philippines,1905,947,A,United States,False,,958,United States,2.0116156282998943,terminal_illness,United States_Philippines
+Philippines,United States,1055,986,A,Philippines,False,,69,Philippines,1.0699797160243407,terminal_illness,United States_Philippines
+United States,Philippines,1028,1180,A,United States,True,United States,152,Philippines,1.1478599221789882,terminal_illness,United States_Philippines
+United States,Philippines,1232,43,A,United States,False,,1189,United States,28.651162790697676,terminal_illness,United States_Philippines
+United States,Philippines,1269,898,A,United States,False,,371,United States,1.413140311804009,terminal_illness,United States_Philippines
+Philippines,United States,1785,572,A,Philippines,False,,1213,Philippines,3.120629370629371,terminal_illness,United States_Philippines
+United States,Philippines,1872,380,A,United States,False,,1492,United States,4.926315789473684,terminal_illness,United States_Philippines
+Philippines,United States,431,1620,A,Philippines,True,Philippines,1189,United States,3.7587006960556844,terminal_illness,United States_Philippines
+Philippines,United States,1957,511,A,Philippines,False,,1446,Philippines,3.8297455968688845,terminal_illness,United States_Philippines
+United States,Philippines,1887,783,A,United States,False,,1104,United States,2.4099616858237547,terminal_illness,United States_Philippines

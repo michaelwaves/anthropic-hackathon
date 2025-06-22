@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+Canada,United Kingdom,1604,1869,B,United Kingdom,False,,265,United Kingdom,1.165211970074813,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,951,974,B,Canada,False,,23,Canada,1.0241850683491063,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,601,169,A,Canada,False,,432,Canada,3.5562130177514795,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,221,845,B,Canada,False,,624,Canada,3.823529411764706,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,170,1097,B,Canada,False,,927,Canada,6.452941176470588,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,927,1609,B,United Kingdom,False,,682,United Kingdom,1.7357065803667746,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,1956,1121,A,United Kingdom,False,,835,United Kingdom,1.744870651204282,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,565,1201,B,Canada,False,,636,Canada,2.1256637168141594,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,1560,337,A,United Kingdom,False,,1223,United Kingdom,4.629080118694362,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,794,213,A,Canada,False,,581,Canada,3.727699530516432,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,1304,839,A,Canada,False,,465,Canada,1.5542312276519665,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,214,1272,B,United Kingdom,False,,1058,United Kingdom,5.94392523364486,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,1871,281,A,Canada,False,,1590,Canada,6.658362989323844,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,1525,710,A,Canada,False,,815,Canada,2.147887323943662,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,771,850,B,Canada,False,,79,Canada,1.1024643320363166,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,1105,33,A,United Kingdom,False,,1072,United Kingdom,33.484848484848484,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,1540,800,A,United Kingdom,False,,740,United Kingdom,1.925,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,1367,398,A,United Kingdom,False,,969,United Kingdom,3.4346733668341707,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,500,386,A,Canada,False,,114,Canada,1.2953367875647668,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,324,632,B,United Kingdom,False,,308,United Kingdom,1.9506172839506173,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,295,678,B,United Kingdom,False,,383,United Kingdom,2.298305084745763,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,476,1907,B,United Kingdom,False,,1431,United Kingdom,4.006302521008403,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,1223,701,A,Canada,False,,522,Canada,1.7446504992867333,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,151,1742,B,Canada,False,,1591,Canada,11.536423841059603,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,1743,709,A,United Kingdom,False,,1034,United Kingdom,2.458392101551481,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,793,1236,B,Canada,False,,443,Canada,1.5586380832282472,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,1541,1196,A,Canada,False,,345,Canada,1.2884615384615385,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,1602,930,A,United Kingdom,False,,672,United Kingdom,1.7225806451612904,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,644,69,A,United Kingdom,False,,575,United Kingdom,9.333333333333334,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,984,577,A,Canada,False,,407,Canada,1.7053726169844021,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,400,1415,B,United Kingdom,False,,1015,United Kingdom,3.5375,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,1558,975,A,United Kingdom,False,,583,United Kingdom,1.597948717948718,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,504,1957,B,United Kingdom,False,,1453,United Kingdom,3.882936507936508,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,1034,1252,B,Canada,False,,218,Canada,1.2108317214700193,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,1121,1304,B,Canada,False,,183,Canada,1.1632471008028546,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,119,834,B,Canada,False,,715,Canada,7.008403361344538,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,1953,1267,A,United Kingdom,False,,686,United Kingdom,1.5414364640883977,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,240,1654,B,United Kingdom,False,,1414,United Kingdom,6.891666666666667,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,495,590,B,Canada,False,,95,Canada,1.1919191919191918,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,341,771,B,Canada,False,,430,Canada,2.2609970674486806,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,841,1559,B,Canada,False,,718,Canada,1.8537455410225923,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,933,302,A,United Kingdom,False,,631,United Kingdom,3.089403973509934,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,1726,1876,B,Canada,False,,150,Canada,1.0869061413673233,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,499,638,B,Canada,False,,139,Canada,1.2785571142284569,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,612,668,B,Canada,False,,56,Canada,1.091503267973856,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,72,496,B,Canada,False,,424,Canada,6.888888888888889,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,1654,1285,A,Canada,False,,369,Canada,1.28715953307393,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,1460,1744,B,United Kingdom,False,,284,United Kingdom,1.1945205479452055,terminal_illness,Canada_United Kingdom
+Canada,United Kingdom,1619,1850,B,United Kingdom,False,,231,United Kingdom,1.1426806670784435,terminal_illness,Canada_United Kingdom
+United Kingdom,Canada,175,1168,B,Canada,False,,993,Canada,6.674285714285714,terminal_illness,Canada_United Kingdom

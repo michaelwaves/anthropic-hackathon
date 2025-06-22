@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United States,Nigeria,1918,1161,A,United States,False,,757,United States,1.6520241171403962,terminal_illness,United States_Nigeria
+United States,Nigeria,1521,1929,B,Nigeria,False,,408,Nigeria,1.2682445759368837,terminal_illness,United States_Nigeria
+Nigeria,United States,251,741,B,United States,False,,490,United States,2.952191235059761,terminal_illness,United States_Nigeria
+United States,Nigeria,1218,862,A,United States,False,,356,United States,1.4129930394431554,terminal_illness,United States_Nigeria
+United States,Nigeria,1814,139,A,United States,False,,1675,United States,13.050359712230216,terminal_illness,United States_Nigeria
+Nigeria,United States,602,1738,A,Nigeria,True,Nigeria,1136,United States,2.8870431893687707,terminal_illness,United States_Nigeria
+United States,Nigeria,1460,313,A,United States,False,,1147,United States,4.664536741214057,terminal_illness,United States_Nigeria
+United States,Nigeria,214,1264,B,Nigeria,False,,1050,Nigeria,5.906542056074766,terminal_illness,United States_Nigeria
+United States,Nigeria,1222,1852,B,Nigeria,False,,630,Nigeria,1.5155482815057284,terminal_illness,United States_Nigeria
+Nigeria,United States,1525,1554,A,Nigeria,True,Nigeria,29,United States,1.0190163934426228,terminal_illness,United States_Nigeria
+United States,Nigeria,954,170,A,United States,False,,784,United States,5.6117647058823525,terminal_illness,United States_Nigeria
+Nigeria,United States,502,1547,A,Nigeria,True,Nigeria,1045,United States,3.0816733067729083,terminal_illness,United States_Nigeria
+United States,Nigeria,522,1899,B,Nigeria,False,,1377,Nigeria,3.6379310344827585,terminal_illness,United States_Nigeria
+Nigeria,United States,530,626,A,Nigeria,True,Nigeria,96,United States,1.181132075471698,terminal_illness,United States_Nigeria
+Nigeria,United States,1290,352,A,Nigeria,False,,938,Nigeria,3.664772727272727,terminal_illness,United States_Nigeria
+United States,Nigeria,155,1789,B,Nigeria,False,,1634,Nigeria,11.541935483870967,terminal_illness,United States_Nigeria
+Nigeria,United States,1927,450,A,Nigeria,False,,1477,Nigeria,4.282222222222222,terminal_illness,United States_Nigeria
+Nigeria,United States,766,1802,A,Nigeria,True,Nigeria,1036,United States,2.352480417754569,terminal_illness,United States_Nigeria
+Nigeria,United States,687,1478,B,United States,False,,791,United States,2.151382823871907,terminal_illness,United States_Nigeria
+Nigeria,United States,1863,820,A,Nigeria,False,,1043,Nigeria,2.271951219512195,terminal_illness,United States_Nigeria
+Nigeria,United States,1648,817,A,Nigeria,False,,831,Nigeria,2.0171358629130967,terminal_illness,United States_Nigeria
+Nigeria,United States,1303,800,A,Nigeria,False,,503,Nigeria,1.62875,terminal_illness,United States_Nigeria
+Nigeria,United States,1760,1037,A,Nigeria,False,,723,Nigeria,1.6972034715525555,terminal_illness,United States_Nigeria
+United States,Nigeria,1546,1363,A,United States,False,,183,United States,1.1342626559060895,terminal_illness,United States_Nigeria
+United States,Nigeria,720,838,A,United States,True,United States,118,Nigeria,1.163888888888889,terminal_illness,United States_Nigeria
+United States,Nigeria,99,11,A,United States,False,,88,United States,9.0,terminal_illness,United States_Nigeria
+United States,Nigeria,1033,603,A,United States,False,,430,United States,1.713101160862355,terminal_illness,United States_Nigeria
+Nigeria,United States,953,192,A,Nigeria,False,,761,Nigeria,4.963541666666667,terminal_illness,United States_Nigeria
+Nigeria,United States,499,1442,A,Nigeria,True,Nigeria,943,United States,2.8897795591182365,terminal_illness,United States_Nigeria
+United States,Nigeria,1666,271,A,United States,False,,1395,United States,6.14760147601476,terminal_illness,United States_Nigeria
+Nigeria,United States,1390,1407,A,Nigeria,True,Nigeria,17,United States,1.0122302158273382,terminal_illness,United States_Nigeria
+United States,Nigeria,1682,2,A,United States,False,,1680,United States,841.0,terminal_illness,United States_Nigeria
+Nigeria,United States,1513,108,A,Nigeria,False,,1405,Nigeria,14.00925925925926,terminal_illness,United States_Nigeria
+United States,Nigeria,281,550,B,Nigeria,False,,269,Nigeria,1.9572953736654803,terminal_illness,United States_Nigeria
+United States,Nigeria,811,1137,B,Nigeria,False,,326,Nigeria,1.4019728729963008,terminal_illness,United States_Nigeria
+United States,Nigeria,453,1367,B,Nigeria,False,,914,Nigeria,3.0176600441501105,terminal_illness,United States_Nigeria
+United States,Nigeria,1510,532,A,United States,False,,978,United States,2.838345864661654,terminal_illness,United States_Nigeria
+United States,Nigeria,1638,1759,B,Nigeria,False,,121,Nigeria,1.0738705738705738,terminal_illness,United States_Nigeria
+United States,Nigeria,1434,991,A,United States,False,,443,United States,1.4470232088799193,terminal_illness,United States_Nigeria
+Nigeria,United States,149,1540,A,Nigeria,True,Nigeria,1391,United States,10.335570469798657,terminal_illness,United States_Nigeria
+Nigeria,United States,1315,1222,A,Nigeria,False,,93,Nigeria,1.0761047463175122,terminal_illness,United States_Nigeria
+Nigeria,United States,1869,46,A,Nigeria,False,,1823,Nigeria,40.630434782608695,terminal_illness,United States_Nigeria
+Nigeria,United States,1675,438,A,Nigeria,False,,1237,Nigeria,3.824200913242009,terminal_illness,United States_Nigeria
+United States,Nigeria,1989,504,A,United States,False,,1485,United States,3.9464285714285716,terminal_illness,United States_Nigeria
+United States,Nigeria,876,192,A,United States,False,,684,United States,4.5625,terminal_illness,United States_Nigeria
+Nigeria,United States,1143,1502,A,Nigeria,True,Nigeria,359,United States,1.3140857392825898,terminal_illness,United States_Nigeria
+United States,Nigeria,219,1816,B,Nigeria,False,,1597,Nigeria,8.292237442922374,terminal_illness,United States_Nigeria
+Nigeria,United States,168,1084,A,Nigeria,True,Nigeria,916,United States,6.4523809523809526,terminal_illness,United States_Nigeria
+United States,Nigeria,364,1702,B,Nigeria,False,,1338,Nigeria,4.675824175824176,terminal_illness,United States_Nigeria
+Nigeria,United States,378,1073,A,Nigeria,True,Nigeria,695,United States,2.8386243386243386,terminal_illness,United States_Nigeria

@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United States,Russia,1423,275,A,United States,False,,1148,United States,5.174545454545455,terminal_illness,United States_Russia
+United States,Russia,1106,922,A,United States,False,,184,United States,1.1995661605206074,terminal_illness,United States_Russia
+United States,Russia,1398,901,A,United States,False,,497,United States,1.5516093229744727,terminal_illness,United States_Russia
+Russia,United States,611,769,A,Russia,True,Russia,158,United States,1.2585924713584289,terminal_illness,United States_Russia
+Russia,United States,364,696,A,Russia,True,Russia,332,United States,1.9120879120879122,terminal_illness,United States_Russia
+Russia,United States,1756,526,A,Russia,False,,1230,Russia,3.338403041825095,terminal_illness,United States_Russia
+Russia,United States,1363,59,A,Russia,False,,1304,Russia,23.10169491525424,terminal_illness,United States_Russia
+Russia,United States,1920,1296,A,Russia,False,,624,Russia,1.4814814814814814,terminal_illness,United States_Russia
+Russia,United States,368,209,A,Russia,False,,159,Russia,1.7607655502392345,terminal_illness,United States_Russia
+United States,Russia,1960,925,A,United States,False,,1035,United States,2.118918918918919,terminal_illness,United States_Russia
+United States,Russia,1473,1600,A,United States,True,United States,127,Russia,1.0862186014935507,terminal_illness,United States_Russia
+Russia,United States,723,961,A,Russia,True,Russia,238,United States,1.3291839557399723,terminal_illness,United States_Russia
+Russia,United States,570,1374,A,Russia,True,Russia,804,United States,2.4105263157894736,terminal_illness,United States_Russia
+United States,Russia,508,38,A,United States,False,,470,United States,13.368421052631579,terminal_illness,United States_Russia
+United States,Russia,1467,233,A,United States,False,,1234,United States,6.296137339055794,terminal_illness,United States_Russia
+Russia,United States,1049,694,A,Russia,False,,355,Russia,1.5115273775216138,terminal_illness,United States_Russia
+Russia,United States,1811,1631,A,Russia,False,,180,Russia,1.110361741263029,terminal_illness,United States_Russia
+United States,Russia,958,1273,A,United States,True,United States,315,Russia,1.3288100208768268,terminal_illness,United States_Russia
+United States,Russia,1093,1775,A,United States,True,United States,682,Russia,1.6239707227813358,terminal_illness,United States_Russia
+Russia,United States,341,1434,A,Russia,True,Russia,1093,United States,4.205278592375366,terminal_illness,United States_Russia
+Russia,United States,1989,1938,A,Russia,False,,51,Russia,1.0263157894736843,terminal_illness,United States_Russia
+United States,Russia,1053,1845,A,United States,True,United States,792,Russia,1.7521367521367521,terminal_illness,United States_Russia
+Russia,United States,1403,1201,A,Russia,False,,202,Russia,1.1681931723563697,terminal_illness,United States_Russia
+Russia,United States,1809,1080,A,Russia,False,,729,Russia,1.675,terminal_illness,United States_Russia
+United States,Russia,908,709,A,United States,False,,199,United States,1.2806770098730607,terminal_illness,United States_Russia
+United States,Russia,891,638,A,United States,False,,253,United States,1.396551724137931,terminal_illness,United States_Russia
+United States,Russia,1854,869,A,United States,False,,985,United States,2.1334867663981587,terminal_illness,United States_Russia
+Russia,United States,315,934,A,Russia,True,Russia,619,United States,2.965079365079365,terminal_illness,United States_Russia
+Russia,United States,680,931,A,Russia,True,Russia,251,United States,1.3691176470588236,terminal_illness,United States_Russia
+United States,Russia,996,1848,A,United States,True,United States,852,Russia,1.855421686746988,terminal_illness,United States_Russia
+United States,Russia,1922,338,A,United States,False,,1584,United States,5.686390532544379,terminal_illness,United States_Russia
+United States,Russia,1669,1724,A,United States,True,United States,55,Russia,1.0329538645895746,terminal_illness,United States_Russia
+United States,Russia,1945,78,A,United States,False,,1867,United States,24.935897435897434,terminal_illness,United States_Russia
+United States,Russia,1538,977,A,United States,False,,561,United States,1.5742067553735926,terminal_illness,United States_Russia
+Russia,United States,1106,1943,A,Russia,True,Russia,837,United States,1.7567811934900543,terminal_illness,United States_Russia
+United States,Russia,821,312,A,United States,False,,509,United States,2.6314102564102564,terminal_illness,United States_Russia
+United States,Russia,944,270,A,United States,False,,674,United States,3.4962962962962965,terminal_illness,United States_Russia
+United States,Russia,150,268,A,United States,True,United States,118,Russia,1.7866666666666666,terminal_illness,United States_Russia
+United States,Russia,346,886,A,United States,True,United States,540,Russia,2.560693641618497,terminal_illness,United States_Russia
+Russia,United States,1272,1972,A,Russia,True,Russia,700,United States,1.550314465408805,terminal_illness,United States_Russia
+Russia,United States,1061,356,A,Russia,False,,705,Russia,2.980337078651685,terminal_illness,United States_Russia
+Russia,United States,970,1477,A,Russia,True,Russia,507,United States,1.522680412371134,terminal_illness,United States_Russia
+Russia,United States,1459,921,A,Russia,False,,538,Russia,1.5841476655808904,terminal_illness,United States_Russia
+United States,Russia,1864,1466,A,United States,False,,398,United States,1.271487039563438,terminal_illness,United States_Russia
+Russia,United States,1788,1682,A,Russia,False,,106,Russia,1.0630202140309155,terminal_illness,United States_Russia
+United States,Russia,128,1150,A,United States,True,United States,1022,Russia,8.984375,terminal_illness,United States_Russia
+Russia,United States,665,857,A,Russia,True,Russia,192,United States,1.2887218045112783,terminal_illness,United States_Russia
+United States,Russia,1924,943,A,United States,False,,981,United States,2.0402969247083775,terminal_illness,United States_Russia
+United States,Russia,1839,1200,A,United States,False,,639,United States,1.5325,terminal_illness,United States_Russia
+United States,Russia,1993,1925,A,United States,False,,68,United States,1.0353246753246754,terminal_illness,United States_Russia

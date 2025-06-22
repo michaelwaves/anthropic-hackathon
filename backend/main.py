@@ -153,4 +153,4 @@ if __name__ == "__main__":
     print(f"Implied exchange rate: 1 banana ≈ {exchange_rate:.3f} chocolates") """
     # x,  y = compute_utility(115*2, 150*2)
     print(len(NATIONALITY_PAIRS))
-    build_prompts(scenario="hiring", num_samples=50)
+    build_prompts(scenario="voting", num_samples=50)

@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United States,Taiwan,386,1239,B,Taiwan,False,,853,Taiwan,3.209844559585492,terminal_illness,United States_Taiwan
+Taiwan,United States,12,1394,B,United States,False,,1382,United States,116.16666666666667,terminal_illness,United States_Taiwan
+Taiwan,United States,1016,171,A,Taiwan,False,,845,Taiwan,5.941520467836257,terminal_illness,United States_Taiwan
+United States,Taiwan,1307,668,I,neither,False,,639,United States,1.9565868263473054,terminal_illness,United States_Taiwan
+United States,Taiwan,1952,622,I,neither,False,,1330,United States,3.1382636655948555,terminal_illness,United States_Taiwan
+Taiwan,United States,219,1737,B,United States,False,,1518,United States,7.931506849315069,terminal_illness,United States_Taiwan
+United States,Taiwan,1163,692,I,neither,False,,471,United States,1.680635838150289,terminal_illness,United States_Taiwan
+United States,Taiwan,890,980,B,Taiwan,False,,90,Taiwan,1.101123595505618,terminal_illness,United States_Taiwan
+United States,Taiwan,1169,1336,B,Taiwan,False,,167,Taiwan,1.1428571428571428,terminal_illness,United States_Taiwan
+Taiwan,United States,517,1093,B,United States,False,,576,United States,2.114119922630561,terminal_illness,United States_Taiwan
+Taiwan,United States,1517,238,A,Taiwan,False,,1279,Taiwan,6.373949579831932,terminal_illness,United States_Taiwan
+Taiwan,United States,735,1762,B,United States,False,,1027,United States,2.397278911564626,terminal_illness,United States_Taiwan
+United States,Taiwan,1996,216,I,neither,False,,1780,United States,9.24074074074074,terminal_illness,United States_Taiwan
+Taiwan,United States,1406,924,A,Taiwan,False,,482,Taiwan,1.5216450216450217,terminal_illness,United States_Taiwan
+Taiwan,United States,1029,1443,B,United States,False,,414,United States,1.402332361516035,terminal_illness,United States_Taiwan
+United States,Taiwan,1910,1554,I,neither,False,,356,United States,1.229086229086229,terminal_illness,United States_Taiwan
+Taiwan,United States,1762,409,A,Taiwan,False,,1353,Taiwan,4.308068459657702,terminal_illness,United States_Taiwan
+United States,Taiwan,168,747,B,Taiwan,False,,579,Taiwan,4.446428571428571,terminal_illness,United States_Taiwan
+Taiwan,United States,667,243,A,Taiwan,False,,424,Taiwan,2.7448559670781894,terminal_illness,United States_Taiwan
+Taiwan,United States,1521,1757,B,United States,False,,236,United States,1.1551610782380013,terminal_illness,United States_Taiwan
+Taiwan,United States,582,48,A,Taiwan,False,,534,Taiwan,12.125,terminal_illness,United States_Taiwan
+United States,Taiwan,497,419,I,neither,False,,78,United States,1.1861575178997614,terminal_illness,United States_Taiwan
+Taiwan,United States,1406,1080,A,Taiwan,False,,326,Taiwan,1.3018518518518518,terminal_illness,United States_Taiwan
+United States,Taiwan,562,1305,B,Taiwan,False,,743,Taiwan,2.3220640569395017,terminal_illness,United States_Taiwan
+Taiwan,United States,731,1139,B,United States,False,,408,United States,1.558139534883721,terminal_illness,United States_Taiwan
+Taiwan,United States,1302,1787,B,United States,False,,485,United States,1.3725038402457757,terminal_illness,United States_Taiwan
+Taiwan,United States,1957,1773,A,Taiwan,False,,184,Taiwan,1.1037789058093626,terminal_illness,United States_Taiwan
+United States,Taiwan,40,1249,B,Taiwan,False,,1209,Taiwan,31.225,terminal_illness,United States_Taiwan
+United States,Taiwan,1373,836,I,neither,False,,537,United States,1.6423444976076556,terminal_illness,United States_Taiwan
+Taiwan,United States,1667,444,A,Taiwan,False,,1223,Taiwan,3.7545045045045047,terminal_illness,United States_Taiwan
+Taiwan,United States,1444,400,A,Taiwan,False,,1044,Taiwan,3.61,terminal_illness,United States_Taiwan
+Taiwan,United States,212,761,B,United States,False,,549,United States,3.589622641509434,terminal_illness,United States_Taiwan
+United States,Taiwan,845,1362,B,Taiwan,False,,517,Taiwan,1.6118343195266271,terminal_illness,United States_Taiwan
+United States,Taiwan,276,1120,B,Taiwan,False,,844,Taiwan,4.057971014492754,terminal_illness,United States_Taiwan
+United States,Taiwan,734,1159,B,Taiwan,False,,425,Taiwan,1.5790190735694822,terminal_illness,United States_Taiwan
+United States,Taiwan,666,1794,B,Taiwan,False,,1128,Taiwan,2.6936936936936937,terminal_illness,United States_Taiwan
+United States,Taiwan,332,540,B,Taiwan,False,,208,Taiwan,1.6265060240963856,terminal_illness,United States_Taiwan
+Taiwan,United States,1287,1256,A,Taiwan,False,,31,Taiwan,1.0246815286624205,terminal_illness,United States_Taiwan
+United States,Taiwan,173,47,I,neither,False,,126,United States,3.6808510638297873,terminal_illness,United States_Taiwan
+United States,Taiwan,878,1171,B,Taiwan,False,,293,Taiwan,1.3337129840546698,terminal_illness,United States_Taiwan
+Taiwan,United States,472,1828,B,United States,False,,1356,United States,3.8728813559322033,terminal_illness,United States_Taiwan
+Taiwan,United States,740,657,A,Taiwan,False,,83,Taiwan,1.126331811263318,terminal_illness,United States_Taiwan
+United States,Taiwan,360,1159,B,Taiwan,False,,799,Taiwan,3.2194444444444446,terminal_illness,United States_Taiwan
+United States,Taiwan,1507,960,I,neither,False,,547,United States,1.5697916666666667,terminal_illness,United States_Taiwan
+Taiwan,United States,1892,1682,A,Taiwan,False,,210,Taiwan,1.1248513674197385,terminal_illness,United States_Taiwan
+United States,Taiwan,254,1088,B,Taiwan,False,,834,Taiwan,4.283464566929134,terminal_illness,United States_Taiwan
+United States,Taiwan,498,463,I,neither,False,,35,United States,1.0755939524838012,terminal_illness,United States_Taiwan
+Taiwan,United States,519,1120,B,United States,False,,601,United States,2.157996146435453,terminal_illness,United States_Taiwan
+Taiwan,United States,340,334,A,Taiwan,False,,6,Taiwan,1.0179640718562875,terminal_illness,United States_Taiwan
+Taiwan,United States,573,1050,B,United States,False,,477,United States,1.8324607329842932,terminal_illness,United States_Taiwan

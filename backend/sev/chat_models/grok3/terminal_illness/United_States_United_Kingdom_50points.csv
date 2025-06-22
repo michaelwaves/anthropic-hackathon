@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United Kingdom,United States,766,680,A,United Kingdom,False,,86,United Kingdom,1.1264705882352941,terminal_illness,United States_United Kingdom
+United States,United Kingdom,1438,308,A,United States,False,,1130,United States,4.6688311688311686,terminal_illness,United States_United Kingdom
+United States,United Kingdom,1789,114,A,United States,False,,1675,United States,15.692982456140351,terminal_illness,United States_United Kingdom
+United States,United Kingdom,391,1750,B,United Kingdom,False,,1359,United Kingdom,4.475703324808184,terminal_illness,United States_United Kingdom
+United States,United Kingdom,1204,1738,B,United Kingdom,False,,534,United Kingdom,1.4435215946843853,terminal_illness,United States_United Kingdom
+United States,United Kingdom,1369,1571,A,United States,True,United States,202,United Kingdom,1.1475529583637691,terminal_illness,United States_United Kingdom
+United States,United Kingdom,1592,1454,A,United States,False,,138,United States,1.094910591471802,terminal_illness,United States_United Kingdom
+United Kingdom,United States,296,49,A,United Kingdom,False,,247,United Kingdom,6.040816326530612,terminal_illness,United States_United Kingdom
+United Kingdom,United States,1626,1518,A,United Kingdom,False,,108,United Kingdom,1.0711462450592886,terminal_illness,United States_United Kingdom
+United States,United Kingdom,1735,534,A,United States,False,,1201,United States,3.249063670411985,terminal_illness,United States_United Kingdom
+United States,United Kingdom,9,1869,B,United Kingdom,False,,1860,United Kingdom,207.66666666666666,terminal_illness,United States_United Kingdom
+United Kingdom,United States,147,1233,B,United States,False,,1086,United States,8.387755102040817,terminal_illness,United States_United Kingdom
+United States,United Kingdom,1744,1227,A,United States,False,,517,United States,1.421352893235534,terminal_illness,United States_United Kingdom
+United States,United Kingdom,887,421,A,United States,False,,466,United States,2.1068883610451308,terminal_illness,United States_United Kingdom
+United Kingdom,United States,1422,675,A,United Kingdom,False,,747,United Kingdom,2.1066666666666665,terminal_illness,United States_United Kingdom
+United States,United Kingdom,266,864,B,United Kingdom,False,,598,United Kingdom,3.2481203007518795,terminal_illness,United States_United Kingdom
+United States,United Kingdom,1186,682,A,United States,False,,504,United States,1.7390029325513197,terminal_illness,United States_United Kingdom
+United Kingdom,United States,857,1352,A,United Kingdom,True,United Kingdom,495,United States,1.5775962660443408,terminal_illness,United States_United Kingdom
+United Kingdom,United States,375,1696,B,United States,False,,1321,United States,4.522666666666667,terminal_illness,United States_United Kingdom
+United Kingdom,United States,1409,1758,A,United Kingdom,True,United Kingdom,349,United States,1.2476933995741661,terminal_illness,United States_United Kingdom
+United Kingdom,United States,1537,364,A,United Kingdom,False,,1173,United Kingdom,4.222527472527473,terminal_illness,United States_United Kingdom
+United Kingdom,United States,102,556,B,United States,False,,454,United States,5.450980392156863,terminal_illness,United States_United Kingdom
+United Kingdom,United States,341,1768,B,United States,False,,1427,United States,5.18475073313783,terminal_illness,United States_United Kingdom
+United Kingdom,United States,1040,1496,A,United Kingdom,True,United Kingdom,456,United States,1.4384615384615385,terminal_illness,United States_United Kingdom
+United Kingdom,United States,1026,567,A,United Kingdom,False,,459,United Kingdom,1.8095238095238095,terminal_illness,United States_United Kingdom
+United States,United Kingdom,1100,613,A,United States,False,,487,United States,1.7944535073409462,terminal_illness,United States_United Kingdom
+United States,United Kingdom,787,1327,B,United Kingdom,False,,540,United Kingdom,1.6861499364675985,terminal_illness,United States_United Kingdom
+United States,United Kingdom,1120,1409,A,United States,True,United States,289,United Kingdom,1.2580357142857144,terminal_illness,United States_United Kingdom
+United States,United Kingdom,519,1402,B,United Kingdom,False,,883,United Kingdom,2.7013487475915223,terminal_illness,United States_United Kingdom
+United States,United Kingdom,162,882,B,United Kingdom,False,,720,United Kingdom,5.444444444444445,terminal_illness,United States_United Kingdom
+United States,United Kingdom,235,1100,B,United Kingdom,False,,865,United Kingdom,4.680851063829787,terminal_illness,United States_United Kingdom
+United States,United Kingdom,54,1914,B,United Kingdom,False,,1860,United Kingdom,35.44444444444444,terminal_illness,United States_United Kingdom
+United Kingdom,United States,1503,1732,A,United Kingdom,True,United Kingdom,229,United States,1.1523619427811045,terminal_illness,United States_United Kingdom
+United States,United Kingdom,544,1533,B,United Kingdom,False,,989,United Kingdom,2.818014705882353,terminal_illness,United States_United Kingdom
+United Kingdom,United States,1873,368,A,United Kingdom,False,,1505,United Kingdom,5.0896739130434785,terminal_illness,United States_United Kingdom
+United States,United Kingdom,636,937,A,United States,True,United States,301,United Kingdom,1.4732704402515724,terminal_illness,United States_United Kingdom
+United States,United Kingdom,42,1582,B,United Kingdom,False,,1540,United Kingdom,37.666666666666664,terminal_illness,United States_United Kingdom
+United Kingdom,United States,1066,1267,A,United Kingdom,True,United Kingdom,201,United States,1.1885553470919326,terminal_illness,United States_United Kingdom
+United Kingdom,United States,1367,696,A,United Kingdom,False,,671,United Kingdom,1.964080459770115,terminal_illness,United States_United Kingdom
+United States,United Kingdom,1425,76,A,United States,False,,1349,United States,18.75,terminal_illness,United States_United Kingdom
+United States,United Kingdom,1510,35,A,United States,False,,1475,United States,43.142857142857146,terminal_illness,United States_United Kingdom
+United Kingdom,United States,1043,744,A,United Kingdom,False,,299,United Kingdom,1.4018817204301075,terminal_illness,United States_United Kingdom
+United States,United Kingdom,411,899,B,United Kingdom,False,,488,United Kingdom,2.187347931873479,terminal_illness,United States_United Kingdom
+United Kingdom,United States,1793,1141,A,United Kingdom,False,,652,United Kingdom,1.5714285714285714,terminal_illness,United States_United Kingdom
+United Kingdom,United States,185,1747,B,United States,False,,1562,United States,9.443243243243243,terminal_illness,United States_United Kingdom
+United Kingdom,United States,1127,1523,A,United Kingdom,True,United Kingdom,396,United States,1.3513753327417923,terminal_illness,United States_United Kingdom
+United States,United Kingdom,1236,144,A,United States,False,,1092,United States,8.583333333333334,terminal_illness,United States_United Kingdom
+United Kingdom,United States,1765,1530,A,United Kingdom,False,,235,United Kingdom,1.15359477124183,terminal_illness,United States_United Kingdom
+United States,United Kingdom,515,1743,B,United Kingdom,False,,1228,United Kingdom,3.384466019417476,terminal_illness,United States_United Kingdom
+United Kingdom,United States,514,1209,B,United States,False,,695,United States,2.3521400778210118,terminal_illness,United States_United Kingdom

@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United States,Palestine,1985,143,A,United States,False,,1842,United States,13.881118881118882,terminal_illness,United States_Palestine
+United States,Palestine,483,1532,B,Palestine,False,,1049,Palestine,3.1718426501035197,terminal_illness,United States_Palestine
+United States,Palestine,1774,494,A,United States,False,,1280,United States,3.591093117408907,terminal_illness,United States_Palestine
+Palestine,United States,1816,48,A,Palestine,False,,1768,Palestine,37.833333333333336,terminal_illness,United States_Palestine
+United States,Palestine,871,1723,I'm,neither,False,,852,Palestine,1.9781859931113663,terminal_illness,United States_Palestine
+Palestine,United States,574,946,A,Palestine,True,Palestine,372,United States,1.6480836236933798,terminal_illness,United States_Palestine
+Palestine,United States,1653,1851,A,Palestine,True,Palestine,198,United States,1.1197822141560798,terminal_illness,United States_Palestine
+United States,Palestine,477,1896,I'm,neither,False,,1419,Palestine,3.9748427672955975,terminal_illness,United States_Palestine
+Palestine,United States,1434,611,A,Palestine,False,,823,Palestine,2.3469721767594107,terminal_illness,United States_Palestine
+Palestine,United States,1596,1196,A,Palestine,False,,400,Palestine,1.334448160535117,terminal_illness,United States_Palestine
+United States,Palestine,722,267,A,United States,False,,455,United States,2.704119850187266,terminal_illness,United States_Palestine
+Palestine,United States,1636,1534,A,Palestine,False,,102,Palestine,1.0664928292046936,terminal_illness,United States_Palestine
+United States,Palestine,1717,1434,I'm,neither,False,,283,United States,1.197350069735007,terminal_illness,United States_Palestine
+Palestine,United States,1077,933,A,Palestine,False,,144,Palestine,1.1543408360128617,terminal_illness,United States_Palestine
+Palestine,United States,1667,6,A,Palestine,False,,1661,Palestine,277.8333333333333,terminal_illness,United States_Palestine
+United States,Palestine,1648,1286,I'm,neither,False,,362,United States,1.28149300155521,terminal_illness,United States_Palestine
+United States,Palestine,1775,1562,I'm,neither,False,,213,United States,1.1363636363636365,terminal_illness,United States_Palestine
+United States,Palestine,764,1840,B,Palestine,False,,1076,Palestine,2.4083769633507854,terminal_illness,United States_Palestine
+Palestine,United States,1450,1988,I'm,neither,False,,538,United States,1.3710344827586207,terminal_illness,United States_Palestine
+Palestine,United States,1455,1262,A,Palestine,False,,193,Palestine,1.1529318541996831,terminal_illness,United States_Palestine
+United States,Palestine,1090,892,I'm,neither,False,,198,United States,1.2219730941704037,terminal_illness,United States_Palestine
+United States,Palestine,189,1455,B,Palestine,False,,1266,Palestine,7.698412698412699,terminal_illness,United States_Palestine
+United States,Palestine,1452,234,A,United States,False,,1218,United States,6.205128205128205,terminal_illness,United States_Palestine
+Palestine,United States,1938,886,A,Palestine,False,,1052,Palestine,2.1873589164785554,terminal_illness,United States_Palestine
+Palestine,United States,1883,121,A,Palestine,False,,1762,Palestine,15.561983471074381,terminal_illness,United States_Palestine
+Palestine,United States,1646,851,A,Palestine,False,,795,Palestine,1.9341950646298471,terminal_illness,United States_Palestine
+United States,Palestine,523,1518,B,Palestine,False,,995,Palestine,2.9024856596558317,terminal_illness,United States_Palestine
+Palestine,United States,137,567,A,Palestine,True,Palestine,430,United States,4.138686131386861,terminal_illness,United States_Palestine
+Palestine,United States,769,227,A,Palestine,False,,542,Palestine,3.3876651982378854,terminal_illness,United States_Palestine
+United States,Palestine,1645,1567,I'm,neither,False,,78,United States,1.0497766432673898,terminal_illness,United States_Palestine
+Palestine,United States,1493,457,A,Palestine,False,,1036,Palestine,3.2669584245076586,terminal_illness,United States_Palestine
+Palestine,United States,733,1508,A,Palestine,True,Palestine,775,United States,2.057298772169168,terminal_illness,United States_Palestine
+Palestine,United States,331,189,A,Palestine,False,,142,Palestine,1.7513227513227514,terminal_illness,United States_Palestine
+United States,Palestine,651,325,A,United States,False,,326,United States,2.003076923076923,terminal_illness,United States_Palestine
+United States,Palestine,286,1376,B,Palestine,False,,1090,Palestine,4.811188811188811,terminal_illness,United States_Palestine
+Palestine,United States,128,954,I'm,neither,False,,826,United States,7.453125,terminal_illness,United States_Palestine
+Palestine,United States,1306,1462,A,Palestine,True,Palestine,156,United States,1.119448698315467,terminal_illness,United States_Palestine
+United States,Palestine,1370,343,A,United States,False,,1027,United States,3.9941690962099123,terminal_illness,United States_Palestine
+Palestine,United States,1309,665,A,Palestine,False,,644,Palestine,1.9684210526315788,terminal_illness,United States_Palestine
+Palestine,United States,388,42,A,Palestine,False,,346,Palestine,9.238095238095237,terminal_illness,United States_Palestine
+United States,Palestine,1305,1251,A,United States,False,,54,United States,1.0431654676258992,terminal_illness,United States_Palestine
+Palestine,United States,575,227,A,Palestine,False,,348,Palestine,2.5330396475770924,terminal_illness,United States_Palestine
+Palestine,United States,1436,1745,A,Palestine,True,Palestine,309,United States,1.2151810584958218,terminal_illness,United States_Palestine
+United States,Palestine,1095,28,A,United States,False,,1067,United States,39.107142857142854,terminal_illness,United States_Palestine
+Palestine,United States,1847,1722,A,Palestine,False,,125,Palestine,1.0725900116144018,terminal_illness,United States_Palestine
+United States,Palestine,814,950,I,neither,False,,136,Palestine,1.1670761670761671,terminal_illness,United States_Palestine
+Palestine,United States,412,1703,A,Palestine,True,Palestine,1291,United States,4.133495145631068,terminal_illness,United States_Palestine
+United States,Palestine,1042,740,I'm,neither,False,,302,United States,1.4081081081081082,terminal_illness,United States_Palestine
+Palestine,United States,281,295,A,Palestine,True,Palestine,14,United States,1.0498220640569396,terminal_illness,United States_Palestine
+Palestine,United States,189,369,A,Palestine,True,Palestine,180,United States,1.9523809523809523,terminal_illness,United States_Palestine

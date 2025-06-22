@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+China,United States,1867,972,A,China,False,,895,China,1.9207818930041152,terminal_illness,United States_China
+China,United States,186,1317,A,China,True,China,1131,United States,7.080645161290323,terminal_illness,United States_China
+United States,China,1041,1009,A,United States,False,,32,United States,1.0317145688800793,terminal_illness,United States_China
+United States,China,1321,757,A,United States,False,,564,United States,1.7450462351387055,terminal_illness,United States_China
+United States,China,610,1729,A,United States,True,United States,1119,China,2.8344262295081966,terminal_illness,United States_China
+United States,China,1084,1458,A,United States,True,United States,374,China,1.345018450184502,terminal_illness,United States_China
+United States,China,1140,565,A,United States,False,,575,United States,2.017699115044248,terminal_illness,United States_China
+United States,China,1901,942,A,United States,False,,959,United States,2.0180467091295116,terminal_illness,United States_China
+United States,China,1445,34,A,United States,False,,1411,United States,42.5,terminal_illness,United States_China
+United States,China,1828,393,A,United States,False,,1435,United States,4.651399491094147,terminal_illness,United States_China
+China,United States,808,1776,A,China,True,China,968,United States,2.198019801980198,terminal_illness,United States_China
+China,United States,885,1221,A,China,True,China,336,United States,1.3796610169491526,terminal_illness,United States_China
+United States,China,1549,1205,A,United States,False,,344,United States,1.2854771784232366,terminal_illness,United States_China
+United States,China,84,948,B,China,False,,864,China,11.285714285714286,terminal_illness,United States_China
+China,United States,1269,1273,A,China,True,China,4,United States,1.0031520882584712,terminal_illness,United States_China
+United States,China,512,308,A,United States,False,,204,United States,1.6623376623376624,terminal_illness,United States_China
+China,United States,368,1855,B,United States,False,,1487,United States,5.040760869565218,terminal_illness,United States_China
+United States,China,329,1317,A,United States,True,United States,988,China,4.003039513677812,terminal_illness,United States_China
+United States,China,1333,617,A,United States,False,,716,United States,2.1604538087520258,terminal_illness,United States_China
+China,United States,1538,1284,A,China,False,,254,China,1.1978193146417446,terminal_illness,United States_China
+United States,China,928,816,A,United States,False,,112,United States,1.1372549019607843,terminal_illness,United States_China
+United States,China,571,720,A,United States,True,United States,149,China,1.2609457092819614,terminal_illness,United States_China
+United States,China,1812,1855,A,United States,True,United States,43,China,1.0237306843267109,terminal_illness,United States_China
+China,United States,1328,1818,A,China,True,China,490,United States,1.3689759036144578,terminal_illness,United States_China
+China,United States,1512,121,A,China,False,,1391,China,12.49586776859504,terminal_illness,United States_China
+United States,China,1838,1301,A,United States,False,,537,United States,1.4127594158339738,terminal_illness,United States_China
+China,United States,972,1730,A,China,True,China,758,United States,1.7798353909465021,terminal_illness,United States_China
+China,United States,1175,1288,A,China,True,China,113,United States,1.0961702127659574,terminal_illness,United States_China
+United States,China,1792,863,A,United States,False,,929,United States,2.0764774044032444,terminal_illness,United States_China
+China,United States,1477,17,A,China,False,,1460,China,86.88235294117646,terminal_illness,United States_China
+United States,China,49,227,A,United States,True,United States,178,China,4.63265306122449,terminal_illness,United States_China
+United States,China,701,696,A,United States,False,,5,United States,1.007183908045977,terminal_illness,United States_China
+United States,China,270,1631,A,United States,True,United States,1361,China,6.04074074074074,terminal_illness,United States_China
+United States,China,669,1464,A,United States,True,United States,795,China,2.188340807174888,terminal_illness,United States_China
+United States,China,482,1388,A,United States,True,United States,906,China,2.879668049792531,terminal_illness,United States_China
+United States,China,444,1257,A,United States,True,United States,813,China,2.831081081081081,terminal_illness,United States_China
+United States,China,401,523,A,United States,True,United States,122,China,1.3042394014962593,terminal_illness,United States_China
+United States,China,624,1374,A,United States,True,United States,750,China,2.201923076923077,terminal_illness,United States_China
+United States,China,1085,208,A,United States,False,,877,United States,5.216346153846154,terminal_illness,United States_China
+United States,China,172,1308,A,United States,True,United States,1136,China,7.604651162790698,terminal_illness,United States_China
+United States,China,1839,719,A,United States,False,,1120,United States,2.557719054242003,terminal_illness,United States_China
+United States,China,650,1936,A,United States,True,United States,1286,China,2.9784615384615383,terminal_illness,United States_China
+China,United States,1283,498,A,China,False,,785,China,2.576305220883534,terminal_illness,United States_China
+United States,China,909,1239,A,United States,True,United States,330,China,1.363036303630363,terminal_illness,United States_China
+United States,China,1438,424,A,United States,False,,1014,United States,3.391509433962264,terminal_illness,United States_China
+China,United States,1179,1684,A,China,True,China,505,United States,1.42832909245123,terminal_illness,United States_China
+China,United States,1807,1649,A,China,False,,158,China,1.0958156458459674,terminal_illness,United States_China
+United States,China,431,171,A,United States,False,,260,United States,2.52046783625731,terminal_illness,United States_China
+United States,China,1793,1401,A,United States,False,,392,United States,1.2798001427551748,terminal_illness,United States_China
+United States,China,1017,315,A,United States,False,,702,United States,3.2285714285714286,terminal_illness,United States_China
