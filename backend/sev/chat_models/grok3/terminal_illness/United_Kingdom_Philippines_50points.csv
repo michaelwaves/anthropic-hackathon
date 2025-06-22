@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+Philippines,United Kingdom,608,138,A,Philippines,False,,470,Philippines,4.405797101449275,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,66,155,A,Philippines,True,Philippines,89,United Kingdom,2.3484848484848486,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,875,349,A,Philippines,False,,526,Philippines,2.507163323782235,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,1232,441,A,United Kingdom,False,,791,United Kingdom,2.7936507936507935,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,1547,873,A,United Kingdom,False,,674,United Kingdom,1.7720504009163802,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,1397,430,A,Philippines,False,,967,Philippines,3.2488372093023257,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,649,1433,B,Philippines,False,,784,Philippines,2.2080123266563945,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,1655,1251,A,United Kingdom,False,,404,United Kingdom,1.3229416466826538,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,668,1639,B,Philippines,False,,971,Philippines,2.4535928143712575,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,952,412,A,United Kingdom,False,,540,United Kingdom,2.3106796116504853,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,1226,112,A,Philippines,False,,1114,Philippines,10.946428571428571,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,678,1955,A,United Kingdom,True,United Kingdom,1277,Philippines,2.883480825958702,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,1746,1475,A,United Kingdom,False,,271,United Kingdom,1.183728813559322,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,1914,1058,A,United Kingdom,False,,856,United Kingdom,1.8090737240075614,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,1719,398,A,United Kingdom,False,,1321,United Kingdom,4.319095477386934,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,1384,235,A,United Kingdom,False,,1149,United Kingdom,5.889361702127659,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,245,765,B,Philippines,False,,520,Philippines,3.122448979591837,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,902,585,A,United Kingdom,False,,317,United Kingdom,1.541880341880342,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,116,644,B,United Kingdom,False,,528,United Kingdom,5.551724137931035,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,746,953,A,Philippines,True,Philippines,207,United Kingdom,1.2774798927613942,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,1439,669,A,Philippines,False,,770,Philippines,2.1509715994020926,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,389,561,A,Philippines,True,Philippines,172,United Kingdom,1.442159383033419,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,30,1948,B,Philippines,False,,1918,Philippines,64.93333333333334,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,1229,1055,A,United Kingdom,False,,174,United Kingdom,1.1649289099526066,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,774,1755,B,Philippines,False,,981,Philippines,2.2674418604651163,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,981,121,A,Philippines,False,,860,Philippines,8.107438016528926,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,1636,1854,A,Philippines,True,Philippines,218,United Kingdom,1.1332518337408313,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,1277,1906,A,Philippines,True,Philippines,629,United Kingdom,1.4925606891151135,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,636,233,A,Philippines,False,,403,Philippines,2.7296137339055795,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,16,927,B,United Kingdom,False,,911,United Kingdom,57.9375,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,1465,971,A,United Kingdom,False,,494,United Kingdom,1.5087538619979404,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,1254,1833,A,Philippines,True,Philippines,579,United Kingdom,1.4617224880382775,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,939,953,A,Philippines,True,Philippines,14,United Kingdom,1.0149094781682642,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,1882,753,A,United Kingdom,False,,1129,United Kingdom,2.49933598937583,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,625,1297,B,United Kingdom,False,,672,United Kingdom,2.0752,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,789,1165,A,Philippines,True,Philippines,376,United Kingdom,1.476552598225602,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,1015,1139,A,Philippines,True,Philippines,124,United Kingdom,1.122167487684729,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,1589,1376,A,United Kingdom,False,,213,United Kingdom,1.154796511627907,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,1070,1668,A,Philippines,True,Philippines,598,United Kingdom,1.5588785046728972,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,1530,1740,A,United Kingdom,True,United Kingdom,210,Philippines,1.1372549019607843,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,13,1581,B,Philippines,False,,1568,Philippines,121.61538461538461,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,1502,274,A,United Kingdom,False,,1228,United Kingdom,5.481751824817518,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,652,1079,A,United Kingdom,True,United Kingdom,427,Philippines,1.6549079754601228,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,1165,255,A,Philippines,False,,910,Philippines,4.568627450980392,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,1109,1746,A,Philippines,True,Philippines,637,United Kingdom,1.5743913435527501,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,1184,880,A,Philippines,False,,304,Philippines,1.3454545454545455,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,186,816,B,United Kingdom,False,,630,United Kingdom,4.387096774193548,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,406,1434,B,Philippines,False,,1028,Philippines,3.5320197044334973,terminal_illness,United Kingdom_Philippines
+United Kingdom,Philippines,510,1798,B,Philippines,False,,1288,Philippines,3.5254901960784313,terminal_illness,United Kingdom_Philippines
+Philippines,United Kingdom,886,617,A,Philippines,False,,269,Philippines,1.4359805510534847,terminal_illness,United Kingdom_Philippines

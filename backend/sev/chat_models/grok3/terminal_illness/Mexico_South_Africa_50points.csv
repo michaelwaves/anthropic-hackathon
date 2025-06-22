@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+Mexico,South Africa,254,1427,B,South Africa,False,,1173,South Africa,5.618110236220472,terminal_illness,Mexico_South Africa
+South Africa,Mexico,1121,233,A,South Africa,False,,888,South Africa,4.8111587982832615,terminal_illness,Mexico_South Africa
+Mexico,South Africa,1428,734,A,Mexico,False,,694,Mexico,1.9455040871934606,terminal_illness,Mexico_South Africa
+Mexico,South Africa,262,1216,B,South Africa,False,,954,South Africa,4.641221374045801,terminal_illness,Mexico_South Africa
+South Africa,Mexico,852,695,A,South Africa,False,,157,South Africa,1.2258992805755395,terminal_illness,Mexico_South Africa
+Mexico,South Africa,647,1042,B,South Africa,False,,395,South Africa,1.6105100463678517,terminal_illness,Mexico_South Africa
+South Africa,Mexico,1526,1922,A,South Africa,True,South Africa,396,Mexico,1.2595019659239843,terminal_illness,Mexico_South Africa
+South Africa,Mexico,1580,932,A,South Africa,False,,648,South Africa,1.6952789699570816,terminal_illness,Mexico_South Africa
+Mexico,South Africa,227,97,A,Mexico,False,,130,Mexico,2.3402061855670104,terminal_illness,Mexico_South Africa
+Mexico,South Africa,158,1511,B,South Africa,False,,1353,South Africa,9.563291139240507,terminal_illness,Mexico_South Africa
+South Africa,Mexico,139,954,B,Mexico,False,,815,Mexico,6.863309352517986,terminal_illness,Mexico_South Africa
+South Africa,Mexico,545,24,A,South Africa,False,,521,South Africa,22.708333333333332,terminal_illness,Mexico_South Africa
+South Africa,Mexico,1594,1560,A,South Africa,False,,34,South Africa,1.0217948717948717,terminal_illness,Mexico_South Africa
+Mexico,South Africa,1440,1584,A,Mexico,True,Mexico,144,South Africa,1.1,terminal_illness,Mexico_South Africa
+South Africa,Mexico,1547,114,A,South Africa,False,,1433,South Africa,13.570175438596491,terminal_illness,Mexico_South Africa
+South Africa,Mexico,263,495,B,Mexico,False,,232,Mexico,1.88212927756654,terminal_illness,Mexico_South Africa
+South Africa,Mexico,843,1571,A,South Africa,True,South Africa,728,Mexico,1.8635824436536181,terminal_illness,Mexico_South Africa
+Mexico,South Africa,935,1266,B,South Africa,False,,331,South Africa,1.3540106951871658,terminal_illness,Mexico_South Africa
+Mexico,South Africa,1139,1157,A,Mexico,True,Mexico,18,South Africa,1.015803336259877,terminal_illness,Mexico_South Africa
+South Africa,Mexico,173,489,B,Mexico,False,,316,Mexico,2.8265895953757227,terminal_illness,Mexico_South Africa
+South Africa,Mexico,1295,1986,A,South Africa,True,South Africa,691,Mexico,1.5335907335907335,terminal_illness,Mexico_South Africa
+South Africa,Mexico,231,1403,B,Mexico,False,,1172,Mexico,6.073593073593074,terminal_illness,Mexico_South Africa
+South Africa,Mexico,1908,277,A,South Africa,False,,1631,South Africa,6.888086642599278,terminal_illness,Mexico_South Africa
+Mexico,South Africa,854,787,A,Mexico,False,,67,Mexico,1.085133418043202,terminal_illness,Mexico_South Africa
+Mexico,South Africa,1476,520,A,Mexico,False,,956,Mexico,2.8384615384615386,terminal_illness,Mexico_South Africa
+Mexico,South Africa,1544,396,A,Mexico,False,,1148,Mexico,3.898989898989899,terminal_illness,Mexico_South Africa
+Mexico,South Africa,209,1622,B,South Africa,False,,1413,South Africa,7.760765550239235,terminal_illness,Mexico_South Africa
+South Africa,Mexico,673,1465,B,Mexico,False,,792,Mexico,2.176820208023774,terminal_illness,Mexico_South Africa
+Mexico,South Africa,1274,587,A,Mexico,False,,687,Mexico,2.1703577512776833,terminal_illness,Mexico_South Africa
+South Africa,Mexico,302,1339,B,Mexico,False,,1037,Mexico,4.433774834437086,terminal_illness,Mexico_South Africa
+South Africa,Mexico,1165,1131,A,South Africa,False,,34,South Africa,1.0300618921308577,terminal_illness,Mexico_South Africa
+Mexico,South Africa,677,71,A,Mexico,False,,606,Mexico,9.535211267605634,terminal_illness,Mexico_South Africa
+Mexico,South Africa,916,304,A,Mexico,False,,612,Mexico,3.013157894736842,terminal_illness,Mexico_South Africa
+South Africa,Mexico,1928,694,A,South Africa,False,,1234,South Africa,2.7780979827089336,terminal_illness,Mexico_South Africa
+South Africa,Mexico,73,632,B,Mexico,False,,559,Mexico,8.657534246575343,terminal_illness,Mexico_South Africa
+Mexico,South Africa,27,185,B,South Africa,False,,158,South Africa,6.851851851851852,terminal_illness,Mexico_South Africa
+Mexico,South Africa,1469,1592,B,South Africa,False,,123,South Africa,1.0837304288631722,terminal_illness,Mexico_South Africa
+South Africa,Mexico,97,1565,B,Mexico,False,,1468,Mexico,16.1340206185567,terminal_illness,Mexico_South Africa
+Mexico,South Africa,1918,868,A,Mexico,False,,1050,Mexico,2.2096774193548385,terminal_illness,Mexico_South Africa
+Mexico,South Africa,1216,361,A,Mexico,False,,855,Mexico,3.3684210526315788,terminal_illness,Mexico_South Africa
+South Africa,Mexico,663,1330,B,Mexico,False,,667,Mexico,2.0060331825037707,terminal_illness,Mexico_South Africa
+South Africa,Mexico,1146,1085,A,South Africa,False,,61,South Africa,1.056221198156682,terminal_illness,Mexico_South Africa
+Mexico,South Africa,1863,438,A,Mexico,False,,1425,Mexico,4.2534246575342465,terminal_illness,Mexico_South Africa
+South Africa,Mexico,1403,1489,A,South Africa,True,South Africa,86,Mexico,1.0612972202423379,terminal_illness,Mexico_South Africa
+South Africa,Mexico,738,187,A,South Africa,False,,551,South Africa,3.946524064171123,terminal_illness,Mexico_South Africa
+South Africa,Mexico,1422,1270,A,South Africa,False,,152,South Africa,1.1196850393700788,terminal_illness,Mexico_South Africa
+Mexico,South Africa,949,118,A,Mexico,False,,831,Mexico,8.042372881355933,terminal_illness,Mexico_South Africa
+South Africa,Mexico,1181,1825,A,South Africa,True,South Africa,644,Mexico,1.5453005927180357,terminal_illness,Mexico_South Africa
+Mexico,South Africa,566,104,A,Mexico,False,,462,Mexico,5.4423076923076925,terminal_illness,Mexico_South Africa
+South Africa,Mexico,1644,264,A,South Africa,False,,1380,South Africa,6.2272727272727275,terminal_illness,Mexico_South Africa

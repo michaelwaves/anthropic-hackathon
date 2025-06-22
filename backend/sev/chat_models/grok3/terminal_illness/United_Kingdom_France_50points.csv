@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United Kingdom,France,71,1857,B,France,False,,1786,France,26.154929577464788,terminal_illness,United Kingdom_France
+United Kingdom,France,250,877,B,France,False,,627,France,3.508,terminal_illness,United Kingdom_France
+France,United Kingdom,629,1264,B,United Kingdom,False,,635,United Kingdom,2.009538950715421,terminal_illness,United Kingdom_France
+United Kingdom,France,1695,1335,A,United Kingdom,False,,360,United Kingdom,1.2696629213483146,terminal_illness,United Kingdom_France
+United Kingdom,France,1206,789,A,United Kingdom,False,,417,United Kingdom,1.5285171102661597,terminal_illness,United Kingdom_France
+United Kingdom,France,1022,4,A,United Kingdom,False,,1018,United Kingdom,255.5,terminal_illness,United Kingdom_France
+United Kingdom,France,1549,831,A,United Kingdom,False,,718,United Kingdom,1.8640192539109506,terminal_illness,United Kingdom_France
+United Kingdom,France,1168,694,A,United Kingdom,False,,474,United Kingdom,1.6829971181556196,terminal_illness,United Kingdom_France
+United Kingdom,France,900,1656,B,France,False,,756,France,1.84,terminal_illness,United Kingdom_France
+United Kingdom,France,671,1190,B,France,False,,519,France,1.773472429210134,terminal_illness,United Kingdom_France
+France,United Kingdom,679,1702,B,United Kingdom,False,,1023,United Kingdom,2.5066273932253313,terminal_illness,United Kingdom_France
+France,United Kingdom,548,677,B,United Kingdom,False,,129,United Kingdom,1.2354014598540146,terminal_illness,United Kingdom_France
+United Kingdom,France,1955,1037,A,United Kingdom,False,,918,United Kingdom,1.8852459016393444,terminal_illness,United Kingdom_France
+France,United Kingdom,376,936,B,United Kingdom,False,,560,United Kingdom,2.4893617021276597,terminal_illness,United Kingdom_France
+United Kingdom,France,1336,143,A,United Kingdom,False,,1193,United Kingdom,9.342657342657343,terminal_illness,United Kingdom_France
+United Kingdom,France,217,1008,B,France,False,,791,France,4.645161290322581,terminal_illness,United Kingdom_France
+United Kingdom,France,1338,1322,A,United Kingdom,False,,16,United Kingdom,1.0121028744326777,terminal_illness,United Kingdom_France
+United Kingdom,France,907,248,A,United Kingdom,False,,659,United Kingdom,3.657258064516129,terminal_illness,United Kingdom_France
+United Kingdom,France,161,308,B,France,False,,147,France,1.9130434782608696,terminal_illness,United Kingdom_France
+France,United Kingdom,1325,277,A,France,False,,1048,France,4.783393501805054,terminal_illness,United Kingdom_France
+France,United Kingdom,204,1110,B,United Kingdom,False,,906,United Kingdom,5.4411764705882355,terminal_illness,United Kingdom_France
+France,United Kingdom,1071,658,A,France,False,,413,France,1.627659574468085,terminal_illness,United Kingdom_France
+United Kingdom,France,1463,1221,A,United Kingdom,False,,242,United Kingdom,1.1981981981981982,terminal_illness,United Kingdom_France
+France,United Kingdom,13,773,B,United Kingdom,False,,760,United Kingdom,59.46153846153846,terminal_illness,United Kingdom_France
+United Kingdom,France,889,622,A,United Kingdom,False,,267,United Kingdom,1.4292604501607717,terminal_illness,United Kingdom_France
+United Kingdom,France,349,580,B,France,False,,231,France,1.66189111747851,terminal_illness,United Kingdom_France
+United Kingdom,France,1072,930,A,United Kingdom,False,,142,United Kingdom,1.1526881720430107,terminal_illness,United Kingdom_France
+United Kingdom,France,1412,777,A,United Kingdom,False,,635,United Kingdom,1.8172458172458172,terminal_illness,United Kingdom_France
+United Kingdom,France,1886,1490,A,United Kingdom,False,,396,United Kingdom,1.265771812080537,terminal_illness,United Kingdom_France
+United Kingdom,France,374,652,B,France,False,,278,France,1.7433155080213905,terminal_illness,United Kingdom_France
+United Kingdom,France,719,777,A,United Kingdom,True,United Kingdom,58,France,1.0806675938803894,terminal_illness,United Kingdom_France
+France,United Kingdom,1838,1148,A,France,False,,690,France,1.6010452961672474,terminal_illness,United Kingdom_France
+France,United Kingdom,364,1195,B,United Kingdom,False,,831,United Kingdom,3.282967032967033,terminal_illness,United Kingdom_France
+United Kingdom,France,622,251,A,United Kingdom,False,,371,United Kingdom,2.4780876494023905,terminal_illness,United Kingdom_France
+France,United Kingdom,1471,914,A,France,False,,557,France,1.6094091903719911,terminal_illness,United Kingdom_France
+France,United Kingdom,445,93,A,France,False,,352,France,4.78494623655914,terminal_illness,United Kingdom_France
+France,United Kingdom,1375,159,A,France,False,,1216,France,8.647798742138365,terminal_illness,United Kingdom_France
+United Kingdom,France,767,604,A,United Kingdom,False,,163,United Kingdom,1.2698675496688743,terminal_illness,United Kingdom_France
+France,United Kingdom,884,1124,B,United Kingdom,False,,240,United Kingdom,1.2714932126696832,terminal_illness,United Kingdom_France
+France,United Kingdom,1283,162,A,France,False,,1121,France,7.919753086419753,terminal_illness,United Kingdom_France
+France,United Kingdom,101,197,B,United Kingdom,False,,96,United Kingdom,1.9504950495049505,terminal_illness,United Kingdom_France
+United Kingdom,France,271,938,B,France,False,,667,France,3.4612546125461257,terminal_illness,United Kingdom_France
+United Kingdom,France,134,1768,B,France,False,,1634,France,13.194029850746269,terminal_illness,United Kingdom_France
+United Kingdom,France,114,1877,B,France,False,,1763,France,16.464912280701753,terminal_illness,United Kingdom_France
+France,United Kingdom,1289,1474,B,United Kingdom,False,,185,United Kingdom,1.143522110162917,terminal_illness,United Kingdom_France
+United Kingdom,France,1316,1083,A,United Kingdom,False,,233,United Kingdom,1.2151431209602954,terminal_illness,United Kingdom_France
+France,United Kingdom,1204,1005,A,France,False,,199,France,1.1980099502487562,terminal_illness,United Kingdom_France
+France,United Kingdom,164,1288,B,United Kingdom,False,,1124,United Kingdom,7.853658536585366,terminal_illness,United Kingdom_France
+France,United Kingdom,1085,1657,B,United Kingdom,False,,572,United Kingdom,1.5271889400921659,terminal_illness,United Kingdom_France
+France,United Kingdom,1273,614,A,France,False,,659,France,2.07328990228013,terminal_illness,United Kingdom_France

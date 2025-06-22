@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+Palestine,South Africa,1097,1741,B,South Africa,False,,644,South Africa,1.5870556061987238,terminal_illness,Palestine_South Africa
+South Africa,Palestine,1222,891,A,South Africa,False,,331,South Africa,1.3714927048260381,terminal_illness,Palestine_South Africa
+Palestine,South Africa,1208,1429,A,Palestine,True,Palestine,221,South Africa,1.1829470198675496,terminal_illness,Palestine_South Africa
+South Africa,Palestine,648,81,A,South Africa,False,,567,South Africa,8.0,terminal_illness,Palestine_South Africa
+South Africa,Palestine,1742,682,A,South Africa,False,,1060,South Africa,2.5542521994134897,terminal_illness,Palestine_South Africa
+South Africa,Palestine,730,1250,B,Palestine,False,,520,Palestine,1.7123287671232876,terminal_illness,Palestine_South Africa
+South Africa,Palestine,1542,1330,A,South Africa,False,,212,South Africa,1.1593984962406014,terminal_illness,Palestine_South Africa
+South Africa,Palestine,1269,42,A,South Africa,False,,1227,South Africa,30.214285714285715,terminal_illness,Palestine_South Africa
+South Africa,Palestine,679,91,A,South Africa,False,,588,South Africa,7.461538461538462,terminal_illness,Palestine_South Africa
+Palestine,South Africa,1895,690,A,Palestine,False,,1205,Palestine,2.746376811594203,terminal_illness,Palestine_South Africa
+Palestine,South Africa,1695,1240,A,Palestine,False,,455,Palestine,1.3669354838709677,terminal_illness,Palestine_South Africa
+South Africa,Palestine,1184,1072,A,South Africa,False,,112,South Africa,1.1044776119402986,terminal_illness,Palestine_South Africa
+Palestine,South Africa,1031,1493,B,South Africa,False,,462,South Africa,1.4481086323957324,terminal_illness,Palestine_South Africa
+Palestine,South Africa,101,509,B,South Africa,False,,408,South Africa,5.03960396039604,terminal_illness,Palestine_South Africa
+South Africa,Palestine,1557,1820,B,Palestine,False,,263,Palestine,1.1689145793192035,terminal_illness,Palestine_South Africa
+South Africa,Palestine,1824,1075,A,South Africa,False,,749,South Africa,1.6967441860465116,terminal_illness,Palestine_South Africa
+South Africa,Palestine,908,1347,B,Palestine,False,,439,Palestine,1.4834801762114538,terminal_illness,Palestine_South Africa
+Palestine,South Africa,1315,1127,A,Palestine,False,,188,Palestine,1.1668145519077195,terminal_illness,Palestine_South Africa
+South Africa,Palestine,1127,1671,B,Palestine,False,,544,Palestine,1.4826974267968056,terminal_illness,Palestine_South Africa
+South Africa,Palestine,1903,1743,A,South Africa,False,,160,South Africa,1.0917957544463568,terminal_illness,Palestine_South Africa
+Palestine,South Africa,368,1680,B,South Africa,False,,1312,South Africa,4.565217391304348,terminal_illness,Palestine_South Africa
+Palestine,South Africa,548,1926,B,South Africa,False,,1378,South Africa,3.5145985401459856,terminal_illness,Palestine_South Africa
+South Africa,Palestine,1452,1867,B,Palestine,False,,415,Palestine,1.2858126721763086,terminal_illness,Palestine_South Africa
+South Africa,Palestine,647,112,A,South Africa,False,,535,South Africa,5.776785714285714,terminal_illness,Palestine_South Africa
+Palestine,South Africa,63,1251,B,South Africa,False,,1188,South Africa,19.857142857142858,terminal_illness,Palestine_South Africa
+Palestine,South Africa,1064,947,A,Palestine,False,,117,Palestine,1.1235480464625132,terminal_illness,Palestine_South Africa
+Palestine,South Africa,1760,226,A,Palestine,False,,1534,Palestine,7.787610619469026,terminal_illness,Palestine_South Africa
+South Africa,Palestine,761,1794,B,Palestine,False,,1033,Palestine,2.35742444152431,terminal_illness,Palestine_South Africa
+Palestine,South Africa,1091,121,A,Palestine,False,,970,Palestine,9.016528925619834,terminal_illness,Palestine_South Africa
+South Africa,Palestine,1,1372,B,Palestine,False,,1371,Palestine,1372.0,terminal_illness,Palestine_South Africa
+Palestine,South Africa,46,933,B,South Africa,False,,887,South Africa,20.282608695652176,terminal_illness,Palestine_South Africa
+South Africa,Palestine,131,1313,B,Palestine,False,,1182,Palestine,10.022900763358779,terminal_illness,Palestine_South Africa
+Palestine,South Africa,190,1449,B,South Africa,False,,1259,South Africa,7.626315789473685,terminal_illness,Palestine_South Africa
+Palestine,South Africa,1039,753,A,Palestine,False,,286,Palestine,1.3798140770252325,terminal_illness,Palestine_South Africa
+South Africa,Palestine,1034,1624,B,Palestine,False,,590,Palestine,1.5705996131528046,terminal_illness,Palestine_South Africa
+South Africa,Palestine,1740,1858,B,Palestine,False,,118,Palestine,1.067816091954023,terminal_illness,Palestine_South Africa
+South Africa,Palestine,163,655,B,Palestine,False,,492,Palestine,4.0184049079754605,terminal_illness,Palestine_South Africa
+Palestine,South Africa,1908,1418,A,Palestine,False,,490,Palestine,1.3455571227080394,terminal_illness,Palestine_South Africa
+Palestine,South Africa,1946,527,A,Palestine,False,,1419,Palestine,3.6925996204933584,terminal_illness,Palestine_South Africa
+Palestine,South Africa,960,393,A,Palestine,False,,567,Palestine,2.4427480916030535,terminal_illness,Palestine_South Africa
+Palestine,South Africa,883,1485,B,South Africa,False,,602,South Africa,1.681766704416761,terminal_illness,Palestine_South Africa
+Palestine,South Africa,929,1213,A,Palestine,True,Palestine,284,South Africa,1.3057050592034445,terminal_illness,Palestine_South Africa
+Palestine,South Africa,1185,946,A,Palestine,False,,239,Palestine,1.2526427061310783,terminal_illness,Palestine_South Africa
+Palestine,South Africa,274,1014,B,South Africa,False,,740,South Africa,3.7007299270072993,terminal_illness,Palestine_South Africa
+South Africa,Palestine,87,1341,B,Palestine,False,,1254,Palestine,15.413793103448276,terminal_illness,Palestine_South Africa
+South Africa,Palestine,24,1160,B,Palestine,False,,1136,Palestine,48.333333333333336,terminal_illness,Palestine_South Africa
+South Africa,Palestine,1753,1652,A,South Africa,False,,101,South Africa,1.061138014527845,terminal_illness,Palestine_South Africa
+South Africa,Palestine,1103,1172,B,Palestine,False,,69,Palestine,1.0625566636446055,terminal_illness,Palestine_South Africa
+Palestine,South Africa,312,764,B,South Africa,False,,452,South Africa,2.448717948717949,terminal_illness,Palestine_South Africa
+Palestine,South Africa,415,1600,B,South Africa,False,,1185,South Africa,3.855421686746988,terminal_illness,Palestine_South Africa

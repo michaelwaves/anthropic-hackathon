@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United Kingdom,Mexico,471,213,A,United Kingdom,False,,258,United Kingdom,2.211267605633803,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,1348,1996,B,United Kingdom,False,,648,United Kingdom,1.4807121661721068,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,1051,109,A,United Kingdom,False,,942,United Kingdom,9.642201834862385,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,617,1234,A,United Kingdom,True,United Kingdom,617,Mexico,2.0,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,969,868,A,United Kingdom,False,,101,United Kingdom,1.1163594470046083,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,170,146,A,United Kingdom,False,,24,United Kingdom,1.1643835616438356,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,84,1093,B,United Kingdom,False,,1009,United Kingdom,13.011904761904763,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,1097,864,A,United Kingdom,False,,233,United Kingdom,1.2696759259259258,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,816,49,A,Mexico,False,,767,Mexico,16.653061224489797,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,428,1513,B,Mexico,False,,1085,Mexico,3.5350467289719627,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,779,951,A,United Kingdom,True,United Kingdom,172,Mexico,1.220795892169448,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,1893,316,A,United Kingdom,False,,1577,United Kingdom,5.9905063291139244,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,1172,145,A,Mexico,False,,1027,Mexico,8.082758620689654,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,1291,336,A,Mexico,False,,955,Mexico,3.8422619047619047,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,1764,68,A,Mexico,False,,1696,Mexico,25.941176470588236,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,500,231,A,Mexico,False,,269,Mexico,2.1645021645021645,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,86,1023,B,United Kingdom,False,,937,United Kingdom,11.895348837209303,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,648,418,A,United Kingdom,False,,230,United Kingdom,1.5502392344497609,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,1062,792,A,United Kingdom,False,,270,United Kingdom,1.3409090909090908,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,699,1023,B,Mexico,False,,324,Mexico,1.463519313304721,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,313,1095,B,Mexico,False,,782,Mexico,3.498402555910543,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,63,579,B,Mexico,False,,516,Mexico,9.19047619047619,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,257,241,A,United Kingdom,False,,16,United Kingdom,1.066390041493776,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,1840,684,A,United Kingdom,False,,1156,United Kingdom,2.690058479532164,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,678,1591,A,United Kingdom,True,United Kingdom,913,Mexico,2.3466076696165192,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,1973,1737,A,Mexico,False,,236,Mexico,1.1358664363845712,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,985,557,A,Mexico,False,,428,Mexico,1.7684021543985637,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,1554,1178,A,United Kingdom,False,,376,United Kingdom,1.3191850594227503,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,829,487,A,United Kingdom,False,,342,United Kingdom,1.702258726899384,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,744,1485,B,Mexico,False,,741,Mexico,1.9959677419354838,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,1127,1082,A,Mexico,False,,45,Mexico,1.0415896487985212,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,562,270,A,United Kingdom,False,,292,United Kingdom,2.0814814814814815,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,523,791,B,Mexico,False,,268,Mexico,1.5124282982791586,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,1587,1459,A,Mexico,False,,128,Mexico,1.0877313228238519,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,407,1644,A,Mexico,True,Mexico,1237,United Kingdom,4.03931203931204,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,1458,835,A,United Kingdom,False,,623,United Kingdom,1.7461077844311377,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,630,1764,B,United Kingdom,False,,1134,United Kingdom,2.8,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,226,892,B,United Kingdom,False,,666,United Kingdom,3.9469026548672566,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,640,328,A,United Kingdom,False,,312,United Kingdom,1.951219512195122,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,1828,549,A,United Kingdom,False,,1279,United Kingdom,3.3296903460837886,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,940,159,A,Mexico,False,,781,Mexico,5.911949685534591,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,1061,726,A,United Kingdom,False,,335,United Kingdom,1.4614325068870524,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,1889,806,A,United Kingdom,False,,1083,United Kingdom,2.3436724565756824,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,1836,839,A,United Kingdom,False,,997,United Kingdom,2.1883194278903457,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,1969,1157,A,United Kingdom,False,,812,United Kingdom,1.7018150388936906,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,1507,1174,A,Mexico,False,,333,Mexico,1.2836456558773424,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,1215,1138,A,United Kingdom,False,,77,United Kingdom,1.0676625659050967,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,1124,1237,A,United Kingdom,True,United Kingdom,113,Mexico,1.1005338078291815,terminal_illness,Mexico_United Kingdom
+United Kingdom,Mexico,1866,780,A,United Kingdom,False,,1086,United Kingdom,2.3923076923076922,terminal_illness,Mexico_United Kingdom
+Mexico,United Kingdom,762,1558,B,United Kingdom,False,,796,United Kingdom,2.0446194225721785,terminal_illness,Mexico_United Kingdom
