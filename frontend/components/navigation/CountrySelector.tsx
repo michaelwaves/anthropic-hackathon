@@ -7,14 +7,14 @@ import { useRouter } from 'next/navigation';
 const countries = [
     { value: "americans", label: "Americans", code: "US" },
     { value: "chinese", label: "Chinese", code: "CN" },
-    { value: "russians", label: "Russians", code: "RU" },
-    { value: "british", label: "British", code: "GB" },
+    { value: "brits", label: "British", code: "GB" },
     { value: "french", label: "French", code: "FR" },
     { value: "germans", label: "Germans", code: "DE" },
     { value: "japanese", label: "Japanese", code: "JP" },
     { value: "indians", label: "Indians", code: "IN" },
     { value: "brazilians", label: "Brazilians", code: "BR" },
     { value: "canadians", label: "Canadians", code: "CA" },
+    { value: "nigerians", label: "Nigerians", code: "NI" }
 ];
 
 interface CountrySelectorProps {
