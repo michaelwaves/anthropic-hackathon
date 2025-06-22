@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+Nigeria,China,521,1160,B,China,False,,639,China,2.2264875239923225,terminal_illness,Nigeria_China
+Japan,India,1824,992,I,neither,False,,832,Japan,1.8387096774193548,terminal_illness,Japan_India
+Iran,South Africa,1654,288,I,neither,False,,1366,Iran,5.743055555555555,terminal_illness,Iran_South Africa
+United States,Ukraine,1607,247,I,neither,False,,1360,United States,6.506072874493927,terminal_illness,United States_Ukraine
+South Africa,Philippines,1486,1656,B,Philippines,False,,170,Philippines,1.1144010767160162,terminal_illness,South Africa_Philippines
+Palestine,Israel,1556,1161,I,neither,False,,395,Palestine,1.3402239448751077,terminal_illness,Palestine_Israel
+Taiwan,United States,320,1913,B,United States,False,,1593,United States,5.978125,terminal_illness,Taiwan_United States
+France,Palestine,83,1283,B,Palestine,False,,1200,Palestine,15.457831325301205,terminal_illness,France_Palestine
+Israel,Mexico,388,535,B,Mexico,False,,147,Mexico,1.3788659793814433,terminal_illness,Israel_Mexico
+Russia,United States,839,1514,B,United States,False,,675,United States,1.804529201430274,terminal_illness,Russia_United States
+South Africa,United States,1935,901,A,South Africa,False,,1034,South Africa,2.1476137624861265,terminal_illness,South Africa_United States
+Russia,South Africa,490,1253,B,South Africa,False,,763,South Africa,2.557142857142857,terminal_illness,Russia_South Africa
+China,Germany,521,326,A,China,False,,195,China,1.598159509202454,terminal_illness,China_Germany
+China,Palestine,1952,250,I,neither,False,,1702,China,7.808,terminal_illness,China_Palestine
+Palestine,Mexico,1735,1237,A,Palestine,False,,498,Palestine,1.402586903799515,terminal_illness,Palestine_Mexico
+United States,South Africa,1187,189,I,neither,False,,998,United States,6.28042328042328,terminal_illness,United States_South Africa
+France,Mexico,1393,1226,B,Mexico,True,Mexico,167,France,1.136215334420881,terminal_illness,France_Mexico
+Japan,South Africa,323,1915,B,South Africa,False,,1592,South Africa,5.928792569659443,terminal_illness,Japan_South Africa
+Israel,Taiwan,748,1834,B,Taiwan,False,,1086,Taiwan,2.4518716577540105,terminal_illness,Israel_Taiwan
+Taiwan,Japan,490,767,B,Japan,False,,277,Japan,1.5653061224489795,terminal_illness,Taiwan_Japan
+Mexico,Israel,278,626,B,Israel,False,,348,Israel,2.2517985611510793,terminal_illness,Mexico_Israel
+Philippines,Russia,423,1356,B,Russia,False,,933,Russia,3.2056737588652484,terminal_illness,Philippines_Russia
+United States,Israel,1320,580,I,neither,False,,740,United States,2.2758620689655173,terminal_illness,United States_Israel
+India,Germany,1638,1259,A,India,False,,379,India,1.301032565528197,terminal_illness,India_Germany
+Mexico,Taiwan,1605,1147,A,Mexico,False,,458,Mexico,1.3993025283347864,terminal_illness,Mexico_Taiwan
+China,Kenya,1015,1864,B,Kenya,False,,849,Kenya,1.8364532019704434,terminal_illness,China_Kenya
+Philippines,Ukraine,1387,37,A,Philippines,False,,1350,Philippines,37.486486486486484,terminal_illness,Philippines_Ukraine
+Nigeria,Ukraine,1380,727,I,neither,False,,653,Nigeria,1.8982118294360386,terminal_illness,Nigeria_Ukraine
+Ukraine,Germany,1991,1738,A,Ukraine,False,,253,Ukraine,1.1455696202531647,terminal_illness,Ukraine_Germany
+Nigeria,Russia,700,1549,B,Russia,False,,849,Russia,2.212857142857143,terminal_illness,Nigeria_Russia
+United States,India,127,1965,B,India,False,,1838,India,15.472440944881889,terminal_illness,United States_India
+Russia,Mexico,1127,1549,B,Mexico,False,,422,Mexico,1.3744454303460514,terminal_illness,Russia_Mexico
+Nigeria,Palestine,1612,1935,B,Palestine,False,,323,Palestine,1.2003722084367245,terminal_illness,Nigeria_Palestine
+Philippines,India,1445,654,A,Philippines,False,,791,Philippines,2.209480122324159,terminal_illness,Philippines_India
+Philippines,India,1176,631,I,neither,False,,545,Philippines,1.8637083993660857,terminal_illness,Philippines_India
+Iran,Canada,524,1830,B,Canada,False,,1306,Canada,3.4923664122137406,terminal_illness,Iran_Canada
+Mexico,France,1502,1059,I,neither,False,,443,Mexico,1.4183191690273844,terminal_illness,Mexico_France
+Nigeria,Pakistan,1653,743,A,Nigeria,False,,910,Nigeria,2.224764468371467,terminal_illness,Nigeria_Pakistan
+Israel,China,1372,366,B,China,True,China,1006,Israel,3.748633879781421,terminal_illness,Israel_China
+Philippines,India,509,126,I,neither,False,,383,Philippines,4.0396825396825395,terminal_illness,Philippines_India
+Palestine,Germany,1317,681,A,Palestine,False,,636,Palestine,1.933920704845815,terminal_illness,Palestine_Germany
+Nigeria,Iran,642,737,B,Iran,False,,95,Iran,1.14797507788162,terminal_illness,Nigeria_Iran
+Russia,Iran,1458,1426,I,neither,False,,32,Russia,1.0224403927068724,terminal_illness,Russia_Iran
+South Africa,Russia,1788,1068,A,South Africa,False,,720,South Africa,1.6741573033707866,terminal_illness,South Africa_Russia
+United States,United Kingdom,633,1621,B,United Kingdom,False,,988,United Kingdom,2.560821484992101,terminal_illness,United States_United Kingdom
+Philippines,Germany,1711,1521,A,Philippines,False,,190,Philippines,1.1249178172255094,terminal_illness,Philippines_Germany
+Germany,Pakistan,1365,1918,B,Pakistan,False,,553,Pakistan,1.405128205128205,terminal_illness,Germany_Pakistan
+United States,Nigeria,1007,1650,B,Nigeria,False,,643,Nigeria,1.6385302879841113,terminal_illness,United States_Nigeria
+South Africa,Germany,608,467,A,South Africa,False,,141,South Africa,1.3019271948608138,terminal_illness,South Africa_Germany
+Ukraine,United Kingdom,1241,953,A,Ukraine,False,,288,Ukraine,1.3022035676810073,terminal_illness,Ukraine_United Kingdom
