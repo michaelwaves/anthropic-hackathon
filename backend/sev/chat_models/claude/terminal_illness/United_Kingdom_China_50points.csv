@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United Kingdom,China,155,1280,B,China,False,,1125,China,8.258064516129032,terminal_illness,United Kingdom_China
+China,United Kingdom,645,47,A,China,False,,598,China,13.72340425531915,terminal_illness,United Kingdom_China
+United Kingdom,China,848,102,I,neither,False,,746,United Kingdom,8.313725490196079,terminal_illness,United Kingdom_China
+China,United Kingdom,1052,339,A,China,False,,713,China,3.103244837758112,terminal_illness,United Kingdom_China
+United Kingdom,China,1033,1649,B,China,False,,616,China,1.5963213939980638,terminal_illness,United Kingdom_China
+United Kingdom,China,277,1933,B,China,False,,1656,China,6.978339350180505,terminal_illness,United Kingdom_China
+China,United Kingdom,426,1445,B,United Kingdom,False,,1019,United Kingdom,3.392018779342723,terminal_illness,United Kingdom_China
+United Kingdom,China,1446,1132,B,China,True,China,314,United Kingdom,1.2773851590106007,terminal_illness,United Kingdom_China
+China,United Kingdom,688,901,B,United Kingdom,False,,213,United Kingdom,1.309593023255814,terminal_illness,United Kingdom_China
+China,United Kingdom,396,903,B,United Kingdom,False,,507,United Kingdom,2.2803030303030303,terminal_illness,United Kingdom_China
+United Kingdom,China,249,1040,B,China,False,,791,China,4.176706827309237,terminal_illness,United Kingdom_China
+China,United Kingdom,1880,1032,A,China,False,,848,China,1.821705426356589,terminal_illness,United Kingdom_China
+United Kingdom,China,84,1784,B,China,False,,1700,China,21.238095238095237,terminal_illness,United Kingdom_China
+United Kingdom,China,1174,514,I,neither,False,,660,United Kingdom,2.2840466926070038,terminal_illness,United Kingdom_China
+China,United Kingdom,217,1120,B,United Kingdom,False,,903,United Kingdom,5.161290322580645,terminal_illness,United Kingdom_China
+United Kingdom,China,94,1561,B,China,False,,1467,China,16.606382978723403,terminal_illness,United Kingdom_China
+China,United Kingdom,781,1948,B,United Kingdom,False,,1167,United Kingdom,2.4942381562099873,terminal_illness,United Kingdom_China
+United Kingdom,China,1963,1453,I,neither,False,,510,United Kingdom,1.3509979353062629,terminal_illness,United Kingdom_China
+China,United Kingdom,1204,491,A,China,False,,713,China,2.4521384928716903,terminal_illness,United Kingdom_China
+China,United Kingdom,755,1311,B,United Kingdom,False,,556,United Kingdom,1.7364238410596027,terminal_illness,United Kingdom_China
+China,United Kingdom,300,1005,B,United Kingdom,False,,705,United Kingdom,3.35,terminal_illness,United Kingdom_China
+China,United Kingdom,753,505,A,China,False,,248,China,1.491089108910891,terminal_illness,United Kingdom_China
+United Kingdom,China,335,747,B,China,False,,412,China,2.2298507462686565,terminal_illness,United Kingdom_China
+China,United Kingdom,44,1072,B,United Kingdom,False,,1028,United Kingdom,24.363636363636363,terminal_illness,United Kingdom_China
+China,United Kingdom,609,529,A,China,False,,80,China,1.1512287334593572,terminal_illness,United Kingdom_China
+China,United Kingdom,1729,1771,B,United Kingdom,False,,42,United Kingdom,1.0242914979757085,terminal_illness,United Kingdom_China
+China,United Kingdom,590,492,A,China,False,,98,China,1.1991869918699187,terminal_illness,United Kingdom_China
+China,United Kingdom,87,566,B,United Kingdom,False,,479,United Kingdom,6.505747126436781,terminal_illness,United Kingdom_China
+China,United Kingdom,58,561,B,United Kingdom,False,,503,United Kingdom,9.672413793103448,terminal_illness,United Kingdom_China
+China,United Kingdom,1286,446,A,China,False,,840,China,2.883408071748879,terminal_illness,United Kingdom_China
+China,United Kingdom,388,774,B,United Kingdom,False,,386,United Kingdom,1.9948453608247423,terminal_illness,United Kingdom_China
+China,United Kingdom,571,1751,B,United Kingdom,False,,1180,United Kingdom,3.0665499124343256,terminal_illness,United Kingdom_China
+China,United Kingdom,793,1513,B,United Kingdom,False,,720,United Kingdom,1.9079445145018916,terminal_illness,United Kingdom_China
+United Kingdom,China,854,194,I,neither,False,,660,United Kingdom,4.402061855670103,terminal_illness,United Kingdom_China
+United Kingdom,China,949,1352,B,China,False,,403,China,1.4246575342465753,terminal_illness,United Kingdom_China
+United Kingdom,China,1763,938,I,neither,False,,825,United Kingdom,1.8795309168443497,terminal_illness,United Kingdom_China
+China,United Kingdom,735,1386,B,United Kingdom,False,,651,United Kingdom,1.8857142857142857,terminal_illness,United Kingdom_China
+United Kingdom,China,1213,1796,B,China,False,,583,China,1.4806265457543282,terminal_illness,United Kingdom_China
+United Kingdom,China,976,369,I,neither,False,,607,United Kingdom,2.644986449864499,terminal_illness,United Kingdom_China
+United Kingdom,China,1147,1432,B,China,False,,285,China,1.2484742807323452,terminal_illness,United Kingdom_China
+China,United Kingdom,739,927,B,United Kingdom,False,,188,United Kingdom,1.2543978349120433,terminal_illness,United Kingdom_China
+China,United Kingdom,744,1519,B,United Kingdom,False,,775,United Kingdom,2.0416666666666665,terminal_illness,United Kingdom_China
+China,United Kingdom,1245,99,A,China,False,,1146,China,12.575757575757576,terminal_illness,United Kingdom_China
+China,United Kingdom,103,1491,B,United Kingdom,False,,1388,United Kingdom,14.475728155339805,terminal_illness,United Kingdom_China
+China,United Kingdom,498,1596,B,United Kingdom,False,,1098,United Kingdom,3.2048192771084336,terminal_illness,United Kingdom_China
+China,United Kingdom,179,1869,B,United Kingdom,False,,1690,United Kingdom,10.441340782122905,terminal_illness,United Kingdom_China
+United Kingdom,China,1402,402,I,neither,False,,1000,United Kingdom,3.487562189054726,terminal_illness,United Kingdom_China
+China,United Kingdom,482,1836,B,United Kingdom,False,,1354,United Kingdom,3.809128630705394,terminal_illness,United Kingdom_China
+United Kingdom,China,1669,1746,B,China,False,,77,China,1.0461354104254044,terminal_illness,United Kingdom_China
+China,United Kingdom,1220,196,A,China,False,,1024,China,6.224489795918367,terminal_illness,United Kingdom_China

@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+Kenya,United Kingdom,1941,1534,A,Kenya,False,,407,Kenya,1.2653194263363754,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,1664,771,A,Kenya,False,,893,Kenya,2.1582360570687418,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,859,1987,B,United Kingdom,False,,1128,United Kingdom,2.3131548311990686,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,843,1740,B,Kenya,False,,897,Kenya,2.0640569395017794,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,475,699,B,United Kingdom,False,,224,United Kingdom,1.471578947368421,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,1981,1159,A,Kenya,False,,822,Kenya,1.7092320966350303,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,631,1850,B,Kenya,False,,1219,Kenya,2.931854199683043,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,1154,1709,B,Kenya,False,,555,Kenya,1.4809358752166377,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,309,750,I,neither,False,,441,United Kingdom,2.4271844660194173,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,271,935,B,United Kingdom,False,,664,United Kingdom,3.4501845018450186,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,39,1586,B,United Kingdom,False,,1547,United Kingdom,40.666666666666664,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,229,1936,B,United Kingdom,False,,1707,United Kingdom,8.45414847161572,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,1741,1950,B,United Kingdom,False,,209,United Kingdom,1.1200459506031017,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,1564,404,I,neither,False,,1160,United Kingdom,3.871287128712871,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,283,1792,B,Kenya,False,,1509,Kenya,6.332155477031802,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,1342,1382,B,Kenya,False,,40,Kenya,1.0298062593144561,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,1097,1003,A,Kenya,False,,94,Kenya,1.0937188434695913,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,1854,606,A,Kenya,False,,1248,Kenya,3.0594059405940595,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,1627,1217,I,neither,False,,410,United Kingdom,1.3368940016433855,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,232,745,B,Kenya,False,,513,Kenya,3.211206896551724,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,1988,223,A,Kenya,False,,1765,Kenya,8.914798206278027,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,284,620,B,Kenya,False,,336,Kenya,2.183098591549296,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,333,1519,B,Kenya,False,,1186,Kenya,4.561561561561562,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,501,1572,I,neither,False,,1071,United Kingdom,3.1377245508982035,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,229,202,A,Kenya,False,,27,Kenya,1.1336633663366336,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,957,281,A,Kenya,False,,676,Kenya,3.4056939501779357,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,1191,1397,B,Kenya,False,,206,Kenya,1.1729638958858102,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,1318,1109,I,neither,False,,209,United Kingdom,1.1884580703336338,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,982,1280,B,Kenya,False,,298,Kenya,1.3034623217922607,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,49,877,B,Kenya,False,,828,Kenya,17.897959183673468,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,1620,430,I,neither,False,,1190,United Kingdom,3.7674418604651163,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,585,1602,B,United Kingdom,False,,1017,United Kingdom,2.7384615384615385,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,1052,1279,B,Kenya,False,,227,Kenya,1.2157794676806084,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,1666,1055,I,neither,False,,611,United Kingdom,1.5791469194312797,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,1534,1233,B,Kenya,True,Kenya,301,United Kingdom,1.2441200324412003,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,1193,1100,A,Kenya,False,,93,Kenya,1.0845454545454545,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,111,1794,B,Kenya,False,,1683,Kenya,16.16216216216216,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,1330,1907,B,Kenya,False,,577,Kenya,1.4338345864661655,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,924,545,I,neither,False,,379,United Kingdom,1.6954128440366973,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,220,837,B,Kenya,False,,617,Kenya,3.8045454545454547,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,1903,1238,I,neither,False,,665,United Kingdom,1.537156704361874,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,1371,1980,B,Kenya,False,,609,Kenya,1.4442013129102844,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,62,1398,B,United Kingdom,False,,1336,United Kingdom,22.548387096774192,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,1836,1104,I,neither,False,,732,United Kingdom,1.6630434782608696,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,1931,1289,I,neither,False,,642,United Kingdom,1.4980605120248254,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,560,1625,B,Kenya,False,,1065,Kenya,2.9017857142857144,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,394,1621,B,Kenya,False,,1227,Kenya,4.114213197969543,terminal_illness,United Kingdom_Kenya
+United Kingdom,Kenya,341,112,I,neither,False,,229,United Kingdom,3.044642857142857,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,1628,77,A,Kenya,False,,1551,Kenya,21.142857142857142,terminal_illness,United Kingdom_Kenya
+Kenya,United Kingdom,859,1705,B,United Kingdom,False,,846,United Kingdom,1.9848661233993015,terminal_illness,United Kingdom_Kenya
