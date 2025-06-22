@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United Kingdom,Palestine,1613,1333,A,United Kingdom,False,,280,United Kingdom,1.210052513128282,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,109,144,B,Palestine,False,,35,Palestine,1.3211009174311927,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,95,1587,A,Palestine,True,Palestine,1492,United Kingdom,16.705263157894738,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,127,1021,A,Palestine,True,Palestine,894,United Kingdom,8.039370078740157,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,609,1816,B,Palestine,False,,1207,Palestine,2.9819376026272577,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,1372,1755,B,Palestine,False,,383,Palestine,1.2791545189504374,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,945,1013,B,Palestine,False,,68,Palestine,1.071957671957672,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,541,1160,B,Palestine,False,,619,Palestine,2.144177449168207,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,1524,772,A,United Kingdom,False,,752,United Kingdom,1.9740932642487046,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,1449,334,A,Palestine,False,,1115,Palestine,4.338323353293413,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,1645,1881,A,Palestine,True,Palestine,236,United Kingdom,1.1434650455927051,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,208,1599,A,Palestine,True,Palestine,1391,United Kingdom,7.6875,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,380,731,A,Palestine,True,Palestine,351,United Kingdom,1.9236842105263159,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,1762,954,A,Palestine,False,,808,Palestine,1.8469601677148848,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,243,1069,A,Palestine,True,Palestine,826,United Kingdom,4.399176954732511,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,1249,95,A,United Kingdom,False,,1154,United Kingdom,13.147368421052631,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,860,402,A,United Kingdom,False,,458,United Kingdom,2.1393034825870645,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,125,1165,B,Palestine,False,,1040,Palestine,9.32,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,959,200,A,Palestine,False,,759,Palestine,4.795,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,716,1664,A,Palestine,True,Palestine,948,United Kingdom,2.3240223463687153,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,1794,1938,A,Palestine,True,Palestine,144,United Kingdom,1.080267558528428,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,934,1412,B,Palestine,False,,478,Palestine,1.511777301927195,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,277,1227,B,Palestine,False,,950,Palestine,4.4296028880866425,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,815,828,A,Palestine,True,Palestine,13,United Kingdom,1.0159509202453987,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,976,1421,B,Palestine,False,,445,Palestine,1.4559426229508197,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,1328,1345,A,Palestine,True,Palestine,17,United Kingdom,1.0128012048192772,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,1921,948,A,Palestine,False,,973,Palestine,2.0263713080168775,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,1162,1986,A,Palestine,True,Palestine,824,United Kingdom,1.7091222030981068,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,684,254,A,United Kingdom,False,,430,United Kingdom,2.6929133858267718,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,1405,1418,B,Palestine,False,,13,Palestine,1.009252669039146,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,1467,476,A,Palestine,False,,991,Palestine,3.081932773109244,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,560,1037,A,Palestine,True,Palestine,477,United Kingdom,1.8517857142857144,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,584,789,A,Palestine,True,Palestine,205,United Kingdom,1.351027397260274,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,1562,854,A,United Kingdom,False,,708,United Kingdom,1.82903981264637,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,1315,731,A,Palestine,False,,584,Palestine,1.79890560875513,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,1009,1192,B,Palestine,False,,183,Palestine,1.1813676907829533,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,1649,1341,A,Palestine,False,,308,Palestine,1.2296793437733036,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,752,1069,B,Palestine,False,,317,Palestine,1.4215425531914894,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,772,1521,A,Palestine,True,Palestine,749,United Kingdom,1.9702072538860103,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,1732,562,A,Palestine,False,,1170,Palestine,3.0818505338078293,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,336,320,A,Palestine,False,,16,Palestine,1.05,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,549,373,A,Palestine,False,,176,Palestine,1.4718498659517427,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,1441,326,A,Palestine,False,,1115,Palestine,4.420245398773006,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,918,1902,B,Palestine,False,,984,Palestine,2.0718954248366015,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,1672,1213,A,United Kingdom,False,,459,United Kingdom,1.3784006595218468,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,755,1738,A,Palestine,True,Palestine,983,United Kingdom,2.3019867549668875,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,44,464,B,Palestine,False,,420,Palestine,10.545454545454545,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,1237,1420,A,Palestine,True,Palestine,183,United Kingdom,1.1479385610347614,terminal_illness,Palestine_United Kingdom
+Palestine,United Kingdom,122,1777,A,Palestine,True,Palestine,1655,United Kingdom,14.565573770491802,terminal_illness,Palestine_United Kingdom
+United Kingdom,Palestine,1031,1656,B,Palestine,False,,625,Palestine,1.606207565470417,terminal_illness,Palestine_United Kingdom

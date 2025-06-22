@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United Kingdom,Pakistan,409,1368,B,Pakistan,False,,959,Pakistan,3.3447432762836184,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,648,1769,B,Pakistan,False,,1121,Pakistan,2.7299382716049383,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,539,1838,B,Pakistan,False,,1299,Pakistan,3.410018552875696,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,438,168,I,neither,False,,270,United Kingdom,2.607142857142857,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,383,1541,B,United Kingdom,False,,1158,United Kingdom,4.023498694516971,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,672,1716,B,Pakistan,False,,1044,Pakistan,2.5535714285714284,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,1198,1491,B,United Kingdom,False,,293,United Kingdom,1.2445742904841401,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,847,225,I,neither,False,,622,United Kingdom,3.7644444444444445,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,981,1556,B,United Kingdom,False,,575,United Kingdom,1.5861365953109072,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,1653,1665,A,Pakistan,True,Pakistan,12,United Kingdom,1.0072595281306715,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,1643,546,I,neither,False,,1097,United Kingdom,3.009157509157509,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,114,1815,B,Pakistan,False,,1701,Pakistan,15.921052631578947,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,1341,424,I,neither,False,,917,United Kingdom,3.1627358490566038,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,646,1346,B,United Kingdom,False,,700,United Kingdom,2.08359133126935,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,1960,1334,I,neither,False,,626,United Kingdom,1.4692653673163418,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,214,1201,B,United Kingdom,False,,987,United Kingdom,5.61214953271028,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,763,1231,B,United Kingdom,False,,468,United Kingdom,1.6133682830930538,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,380,1159,B,United Kingdom,False,,779,United Kingdom,3.05,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,463,941,B,Pakistan,False,,478,Pakistan,2.0323974082073435,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,162,1180,B,United Kingdom,False,,1018,United Kingdom,7.283950617283951,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,993,342,A,Pakistan,False,,651,Pakistan,2.9035087719298245,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,1248,718,A,Pakistan,False,,530,Pakistan,1.7381615598885793,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,272,1681,B,United Kingdom,False,,1409,United Kingdom,6.180147058823529,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,1217,79,I,neither,False,,1138,United Kingdom,15.405063291139241,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,421,680,B,Pakistan,False,,259,Pakistan,1.6152019002375297,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,874,532,A,Pakistan,False,,342,Pakistan,1.6428571428571428,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,482,856,B,United Kingdom,False,,374,United Kingdom,1.7759336099585061,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,12,1526,B,United Kingdom,False,,1514,United Kingdom,127.16666666666667,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,1623,326,A,Pakistan,False,,1297,Pakistan,4.978527607361963,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,975,1808,B,United Kingdom,False,,833,United Kingdom,1.8543589743589743,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,658,341,I,neither,False,,317,United Kingdom,1.9296187683284458,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,733,513,I,neither,False,,220,United Kingdom,1.428849902534113,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,1016,870,I,neither,False,,146,United Kingdom,1.167816091954023,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,1531,765,A,Pakistan,False,,766,Pakistan,2.0013071895424837,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,890,1785,B,United Kingdom,False,,895,United Kingdom,2.00561797752809,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,839,1689,B,United Kingdom,False,,850,United Kingdom,2.0131108462455303,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,201,495,B,Pakistan,False,,294,Pakistan,2.462686567164179,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,1979,1339,I,neither,False,,640,United Kingdom,1.4779686333084392,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,44,1493,B,United Kingdom,False,,1449,United Kingdom,33.93181818181818,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,372,1069,B,Pakistan,False,,697,Pakistan,2.8736559139784945,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,1674,1782,B,United Kingdom,False,,108,United Kingdom,1.064516129032258,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,860,1316,B,Pakistan,False,,456,Pakistan,1.5302325581395348,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,679,256,I,neither,False,,423,United Kingdom,2.65234375,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,1530,932,A,Pakistan,False,,598,Pakistan,1.6416309012875536,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,695,161,A,Pakistan,False,,534,Pakistan,4.316770186335404,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,1430,1392,A,Pakistan,False,,38,Pakistan,1.0272988505747127,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,88,1400,B,Pakistan,False,,1312,Pakistan,15.909090909090908,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,702,1630,B,United Kingdom,False,,928,United Kingdom,2.321937321937322,terminal_illness,United Kingdom_Pakistan
+United Kingdom,Pakistan,1714,1200,I,neither,False,,514,United Kingdom,1.4283333333333332,terminal_illness,United Kingdom_Pakistan
+Pakistan,United Kingdom,1098,1035,A,Pakistan,False,,63,Pakistan,1.0608695652173914,terminal_illness,United Kingdom_Pakistan

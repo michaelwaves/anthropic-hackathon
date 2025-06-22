@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+Russia,South Africa,1004,1856,B,South Africa,False,,852,South Africa,1.848605577689243,terminal_illness,Russia_South Africa
+Russia,South Africa,1033,714,B,South Africa,True,South Africa,319,Russia,1.4467787114845938,terminal_illness,Russia_South Africa
+South Africa,Russia,1591,998,A,South Africa,False,,593,South Africa,1.594188376753507,terminal_illness,Russia_South Africa
+Russia,South Africa,175,1234,B,South Africa,False,,1059,South Africa,7.051428571428572,terminal_illness,Russia_South Africa
+Russia,South Africa,1835,910,A,Russia,False,,925,Russia,2.0164835164835164,terminal_illness,Russia_South Africa
+South Africa,Russia,858,347,A,South Africa,False,,511,South Africa,2.472622478386167,terminal_illness,Russia_South Africa
+Russia,South Africa,848,117,I,neither,False,,731,Russia,7.247863247863248,terminal_illness,Russia_South Africa
+South Africa,Russia,1523,353,A,South Africa,False,,1170,South Africa,4.314447592067989,terminal_illness,Russia_South Africa
+South Africa,Russia,96,1139,B,Russia,False,,1043,Russia,11.864583333333334,terminal_illness,Russia_South Africa
+South Africa,Russia,1585,1999,B,Russia,False,,414,Russia,1.2611987381703471,terminal_illness,Russia_South Africa
+Russia,South Africa,1933,608,A,Russia,False,,1325,Russia,3.179276315789474,terminal_illness,Russia_South Africa
+South Africa,Russia,1968,1138,A,South Africa,False,,830,South Africa,1.7293497363796133,terminal_illness,Russia_South Africa
+South Africa,Russia,357,845,B,Russia,False,,488,Russia,2.3669467787114846,terminal_illness,Russia_South Africa
+Russia,South Africa,270,419,B,South Africa,False,,149,South Africa,1.5518518518518518,terminal_illness,Russia_South Africa
+South Africa,Russia,1205,652,A,South Africa,False,,553,South Africa,1.848159509202454,terminal_illness,Russia_South Africa
+South Africa,Russia,1585,1013,A,South Africa,False,,572,South Africa,1.564659427443238,terminal_illness,Russia_South Africa
+South Africa,Russia,1761,1141,A,South Africa,False,,620,South Africa,1.5433829973707274,terminal_illness,Russia_South Africa
+South Africa,Russia,366,947,B,Russia,False,,581,Russia,2.587431693989071,terminal_illness,Russia_South Africa
+Russia,South Africa,1247,380,B,South Africa,True,South Africa,867,Russia,3.281578947368421,terminal_illness,Russia_South Africa
+Russia,South Africa,882,1076,B,South Africa,False,,194,South Africa,1.219954648526077,terminal_illness,Russia_South Africa
+South Africa,Russia,1566,1454,A,South Africa,False,,112,South Africa,1.077028885832187,terminal_illness,Russia_South Africa
+South Africa,Russia,774,113,A,South Africa,False,,661,South Africa,6.849557522123894,terminal_illness,Russia_South Africa
+Russia,South Africa,1909,56,A,Russia,False,,1853,Russia,34.089285714285715,terminal_illness,Russia_South Africa
+Russia,South Africa,615,389,I,neither,False,,226,Russia,1.5809768637532133,terminal_illness,Russia_South Africa
+Russia,South Africa,356,677,B,South Africa,False,,321,South Africa,1.901685393258427,terminal_illness,Russia_South Africa
+South Africa,Russia,1045,941,A,South Africa,False,,104,South Africa,1.110520722635494,terminal_illness,Russia_South Africa
+Russia,South Africa,1782,1825,B,South Africa,False,,43,South Africa,1.0241301907968574,terminal_illness,Russia_South Africa
+South Africa,Russia,72,1383,B,Russia,False,,1311,Russia,19.208333333333332,terminal_illness,Russia_South Africa
+Russia,South Africa,137,1707,B,South Africa,False,,1570,South Africa,12.459854014598541,terminal_illness,Russia_South Africa
+South Africa,Russia,772,634,A,South Africa,False,,138,South Africa,1.2176656151419558,terminal_illness,Russia_South Africa
+Russia,South Africa,1215,958,I,neither,False,,257,Russia,1.268267223382046,terminal_illness,Russia_South Africa
+Russia,South Africa,1601,817,I,neither,False,,784,Russia,1.959608323133415,terminal_illness,Russia_South Africa
+Russia,South Africa,1499,355,B,South Africa,True,South Africa,1144,Russia,4.222535211267606,terminal_illness,Russia_South Africa
+South Africa,Russia,1170,1300,B,Russia,False,,130,Russia,1.1111111111111112,terminal_illness,Russia_South Africa
+South Africa,Russia,559,1018,B,Russia,False,,459,Russia,1.8211091234347048,terminal_illness,Russia_South Africa
+Russia,South Africa,1077,1574,B,South Africa,False,,497,South Africa,1.4614670380687094,terminal_illness,Russia_South Africa
+South Africa,Russia,1341,655,A,South Africa,False,,686,South Africa,2.047328244274809,terminal_illness,Russia_South Africa
+South Africa,Russia,981,1517,B,Russia,False,,536,Russia,1.5463812436289501,terminal_illness,Russia_South Africa
+South Africa,Russia,1900,71,A,South Africa,False,,1829,South Africa,26.760563380281692,terminal_illness,Russia_South Africa
+Russia,South Africa,1534,55,A,Russia,False,,1479,Russia,27.89090909090909,terminal_illness,Russia_South Africa
+South Africa,Russia,1,1504,B,Russia,False,,1503,Russia,1504.0,terminal_illness,Russia_South Africa
+South Africa,Russia,495,583,B,Russia,False,,88,Russia,1.1777777777777778,terminal_illness,Russia_South Africa
+South Africa,Russia,521,537,B,Russia,False,,16,Russia,1.0307101727447217,terminal_illness,Russia_South Africa
+South Africa,Russia,1994,1068,A,South Africa,False,,926,South Africa,1.8670411985018727,terminal_illness,Russia_South Africa
+Russia,South Africa,787,1458,B,South Africa,False,,671,South Africa,1.8526048284625158,terminal_illness,Russia_South Africa
+South Africa,Russia,1522,102,A,South Africa,False,,1420,South Africa,14.92156862745098,terminal_illness,Russia_South Africa
+South Africa,Russia,1258,1099,A,South Africa,False,,159,South Africa,1.1446769790718836,terminal_illness,Russia_South Africa
+South Africa,Russia,280,1460,B,Russia,False,,1180,Russia,5.214285714285714,terminal_illness,Russia_South Africa
+Russia,South Africa,1546,861,B,South Africa,True,South Africa,685,Russia,1.7955865272938443,terminal_illness,Russia_South Africa
+Russia,South Africa,1859,7,A,Russia,False,,1852,Russia,265.57142857142856,terminal_illness,Russia_South Africa

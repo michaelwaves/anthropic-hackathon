@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United Kingdom,Israel,788,722,A,United Kingdom,False,,66,United Kingdom,1.0914127423822715,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,556,1216,B,Israel,False,,660,Israel,2.1870503597122304,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,709,1777,A,United Kingdom,True,United Kingdom,1068,Israel,2.5063469675599435,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,396,1780,B,United Kingdom,False,,1384,United Kingdom,4.494949494949495,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,1508,642,A,United Kingdom,False,,866,United Kingdom,2.3489096573208723,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,1573,410,A,United Kingdom,False,,1163,United Kingdom,3.8365853658536584,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,314,90,A,United Kingdom,False,,224,United Kingdom,3.488888888888889,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,824,902,A,Israel,True,Israel,78,United Kingdom,1.0946601941747574,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,14,888,B,United Kingdom,False,,874,United Kingdom,63.42857142857143,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,1150,1497,A,Israel,True,Israel,347,United Kingdom,1.3017391304347825,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,1685,808,A,United Kingdom,False,,877,United Kingdom,2.0853960396039604,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,1545,112,A,Israel,False,,1433,Israel,13.794642857142858,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,1545,430,A,Israel,False,,1115,Israel,3.5930232558139537,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,101,713,A,United Kingdom,True,United Kingdom,612,Israel,7.0594059405940595,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,495,906,B,United Kingdom,False,,411,United Kingdom,1.8303030303030303,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,620,77,A,Israel,False,,543,Israel,8.051948051948052,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,822,1025,A,Israel,True,Israel,203,United Kingdom,1.2469586374695865,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,264,612,B,United Kingdom,False,,348,United Kingdom,2.3181818181818183,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,1572,1879,A,United Kingdom,True,United Kingdom,307,Israel,1.19529262086514,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,1501,1570,A,United Kingdom,True,United Kingdom,69,Israel,1.0459693537641572,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,1463,194,A,Israel,False,,1269,Israel,7.541237113402062,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,340,781,B,Israel,False,,441,Israel,2.2970588235294116,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,1414,803,A,United Kingdom,False,,611,United Kingdom,1.7608966376089663,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,787,1772,A,United Kingdom,True,United Kingdom,985,Israel,2.2515883100381195,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,1191,1549,B,Israel,False,,358,Israel,1.3005877413937867,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,316,65,A,Israel,False,,251,Israel,4.861538461538461,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,289,1096,B,Israel,False,,807,Israel,3.792387543252595,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,1330,638,A,United Kingdom,False,,692,United Kingdom,2.084639498432602,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,558,46,A,Israel,False,,512,Israel,12.130434782608695,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,1963,485,A,Israel,False,,1478,Israel,4.047422680412371,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,168,1524,B,United Kingdom,False,,1356,United Kingdom,9.071428571428571,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,1595,781,A,Israel,False,,814,Israel,2.0422535211267605,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,141,971,B,Israel,False,,830,Israel,6.886524822695035,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,200,1380,B,United Kingdom,False,,1180,United Kingdom,6.9,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,1212,1835,A,United Kingdom,True,United Kingdom,623,Israel,1.5140264026402641,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,1934,1809,A,United Kingdom,False,,125,United Kingdom,1.0690989496959646,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,87,1526,B,United Kingdom,False,,1439,United Kingdom,17.54022988505747,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,915,723,A,United Kingdom,False,,192,United Kingdom,1.2655601659751037,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,317,841,B,Israel,False,,524,Israel,2.6529968454258674,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,845,1594,B,United Kingdom,False,,749,United Kingdom,1.8863905325443786,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,739,726,A,United Kingdom,False,,13,United Kingdom,1.0179063360881542,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,433,518,A,United Kingdom,True,United Kingdom,85,Israel,1.1963048498845266,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,1093,30,A,United Kingdom,False,,1063,United Kingdom,36.43333333333333,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,238,113,A,United Kingdom,False,,125,United Kingdom,2.106194690265487,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,141,326,A,United Kingdom,True,United Kingdom,185,Israel,2.3120567375886525,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,431,1434,B,United Kingdom,False,,1003,United Kingdom,3.3271461716937356,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,1881,929,A,Israel,False,,952,Israel,2.0247578040904197,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,1795,1996,A,Israel,True,Israel,201,United Kingdom,1.1119777158774373,terminal_illness,Israel_United Kingdom
+United Kingdom,Israel,216,1143,B,Israel,False,,927,Israel,5.291666666666667,terminal_illness,Israel_United Kingdom
+Israel,United Kingdom,610,1974,B,United Kingdom,False,,1364,United Kingdom,3.236065573770492,terminal_illness,Israel_United Kingdom

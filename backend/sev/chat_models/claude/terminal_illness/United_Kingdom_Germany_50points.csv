@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United Kingdom,Germany,1680,1228,A,United Kingdom,False,,452,United Kingdom,1.3680781758957654,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,60,20,B,Germany,True,Germany,40,United Kingdom,3.0,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1844,1366,A,United Kingdom,False,,478,United Kingdom,1.3499267935578332,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,1106,1423,B,United Kingdom,False,,317,United Kingdom,1.286618444846293,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1000,94,A,United Kingdom,False,,906,United Kingdom,10.638297872340425,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,601,1242,B,Germany,False,,641,Germany,2.0665557404326123,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1684,1196,A,United Kingdom,False,,488,United Kingdom,1.4080267558528428,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,222,1455,B,United Kingdom,False,,1233,United Kingdom,6.554054054054054,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1706,1011,A,United Kingdom,False,,695,United Kingdom,1.6874381800197824,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,526,756,B,United Kingdom,False,,230,United Kingdom,1.4372623574144487,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1941,973,A,United Kingdom,False,,968,United Kingdom,1.9948612538540595,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1891,1146,A,United Kingdom,False,,745,United Kingdom,1.650087260034904,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,1457,1545,B,United Kingdom,False,,88,United Kingdom,1.060398078242965,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,1743,1265,A,Germany,False,,478,Germany,1.3778656126482214,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,1471,216,A,Germany,False,,1255,Germany,6.810185185185185,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,935,469,A,United Kingdom,False,,466,United Kingdom,1.9936034115138592,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,807,517,A,Germany,False,,290,Germany,1.5609284332688589,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,115,1614,B,United Kingdom,False,,1499,United Kingdom,14.034782608695652,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1395,493,A,United Kingdom,False,,902,United Kingdom,2.8296146044624746,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,445,1196,B,United Kingdom,False,,751,United Kingdom,2.6876404494382022,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,158,1587,B,United Kingdom,False,,1429,United Kingdom,10.044303797468354,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1110,1243,B,Germany,False,,133,Germany,1.11981981981982,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1901,246,A,United Kingdom,False,,1655,United Kingdom,7.727642276422764,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,1731,1751,B,United Kingdom,False,,20,United Kingdom,1.0115540150202196,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,1073,1726,B,United Kingdom,False,,653,United Kingdom,1.608574091332712,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,908,1226,B,United Kingdom,False,,318,United Kingdom,1.3502202643171806,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,635,140,A,United Kingdom,False,,495,United Kingdom,4.535714285714286,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,118,51,B,Germany,True,Germany,67,United Kingdom,2.3137254901960786,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1168,439,A,United Kingdom,False,,729,United Kingdom,2.6605922551252847,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,1,1740,B,United Kingdom,False,,1739,United Kingdom,1740.0,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1094,394,A,United Kingdom,False,,700,United Kingdom,2.7766497461928936,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1186,1,A,United Kingdom,False,,1185,United Kingdom,1186.0,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,898,318,A,United Kingdom,False,,580,United Kingdom,2.8238993710691824,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1814,1484,A,United Kingdom,False,,330,United Kingdom,1.2223719676549865,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,1830,1636,B,United Kingdom,True,United Kingdom,194,Germany,1.1185819070904646,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,435,818,B,Germany,False,,383,Germany,1.8804597701149426,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1360,895,A,United Kingdom,False,,465,United Kingdom,1.5195530726256983,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,1594,218,A,Germany,False,,1376,Germany,7.3119266055045875,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,179,271,B,Germany,False,,92,Germany,1.5139664804469273,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,1616,271,A,Germany,False,,1345,Germany,5.96309963099631,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,798,1724,B,United Kingdom,False,,926,United Kingdom,2.1604010025062657,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1098,365,A,United Kingdom,False,,733,United Kingdom,3.0082191780821916,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1771,1730,A,United Kingdom,False,,41,United Kingdom,1.023699421965318,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,1391,1539,B,United Kingdom,False,,148,United Kingdom,1.1063982746225738,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,496,1300,B,United Kingdom,False,,804,United Kingdom,2.620967741935484,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1239,1033,A,United Kingdom,False,,206,United Kingdom,1.1994191674733785,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1407,161,A,United Kingdom,False,,1246,United Kingdom,8.73913043478261,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,702,1296,B,United Kingdom,False,,594,United Kingdom,1.8461538461538463,terminal_illness,United Kingdom_Germany
+United Kingdom,Germany,1998,1580,A,United Kingdom,False,,418,United Kingdom,1.2645569620253165,terminal_illness,United Kingdom_Germany
+Germany,United Kingdom,196,625,B,United Kingdom,False,,429,United Kingdom,3.188775510204082,terminal_illness,United Kingdom_Germany
