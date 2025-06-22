@@ -1,5 +1,7 @@
+"use client"
 import React, { useState } from 'react';
 import { Check, ChevronsUpDown } from 'lucide-react';
+import { useRouter } from 'next/navigation';
 
 // Mock country data - replace with your actual country list
 const countries = [
@@ -24,6 +26,7 @@ const CountrySelector: React.FC<CountrySelectorProps> = ({ onSelectionChange }) 
     const [country2, setCountry2] = useState<string>("");
     const [open1, setOpen1] = useState(false);
     const [open2, setOpen2] = useState(false);
+    const router = useRouter();
 
     const handleCountry1Change = (value: string) => {
         setCountry1(value);
@@ -168,6 +171,7 @@ const CountrySelector: React.FC<CountrySelectorProps> = ({ onSelectionChange }) 
             {/* Action Button */}
             <div className="flex justify-center">
                 <button
+                    onClick={() => router.push(`/dashboard/compare?group1=${country1}&group2=${country2}`)}
                     disabled={!country1 || !country2}
                     className="px-6 py-2 bg-blue-600 text-white rounded-md font-medium hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 disabled:opacity-50 disabled:cursor-not-allowed"
                 >
