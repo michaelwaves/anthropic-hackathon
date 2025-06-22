@@ -1,7 +1,9 @@
+import ExperimentsForm from "@/components/forms/ExperimentsForm";
+
 function ExperimentPage() {
-    return (<div>
-        Run your own custom experiments here!
-    </div>);
+    return (
+        <ExperimentsForm />
+    );
 }
 
 export default ExperimentPage;

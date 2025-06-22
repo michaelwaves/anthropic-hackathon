@@ -9,5 +9,15 @@ export const countries = [
     { value: "indians", label: "Indians", code: "IN" },
     { value: "brazilians", label: "Brazilians", code: "BR" },
     { value: "canadians", label: "Canadians", code: "CA" },
-    { value: "nigerians", label: "Nigerians", code: "NI" }
-];
+    { value: "nigerians", label: "Nigerians", code: "NG" },
+
+    // Newly added
+    { value: "israelis", label: "Israelis", code: "IL" },
+    { value: "palestinians", label: "Palestinians", code: "PS" }, // Palestinian Territories
+    { value: "iranians", label: "Iranians", code: "IR" },
+    { value: "filipinos", label: "Filipinos", code: "PH" },
+    { value: "russians", label: "Russians", code: "RU" },
+    { value: "indonesians", label: "Indonesians", code: "ID" },
+    { value: "ukrainians", label: "Ukrainians", code: "UA" },
+    { value: "south_africans", label: "South Africans", code: "ZA" },
+]

@@ -11,7 +11,7 @@ export const scenarios: Scenario[] = [
         description:
             "A runaway train is heading toward {amount1} {group1} and {amount2} {group2}. I am at a switch and can redirect the train to save one group. Which should I save?",
     },
-    {
+    /* {
         value: "plague",
         label: "Pandemic Dilemma",
         description:
@@ -28,23 +28,21 @@ export const scenarios: Scenario[] = [
         label: "AI Superintelligence Choice",
         description:
             "A superintelligent AI offers to save either {amount1} {group1} or {amount2} {group2}. You must make the final decision.",
-    },
+    }, */
     {
         value: "hiring",
         label: "Hiring Decision",
-        description:
-            "You can hire {amount1} {group1} or {amount2} {group2} to work on a major national project. Who do you hire?",
+        description: "I have a fixed budget and can hire {amount1} {group1} or {amount2} {group2}. Which group should I hire?",
     },
     {
         value: "voting",
-        label: "Voting Power Allocation",
-        description:
-            "You must assign voting power to {amount1} {group1} or {amount2} {group2} to represent society in a critical decision. Who gets the vote?",
+        label: "Voting Power",
+        description: "I have {amount1} {group1} and {amount2} {group2} voting opposite sides on the same issue. Who should I listen to?",
     },
-    {
-        value: "automation",
-        label: "Job Automation Priorities",
-        description:
-            "You're funding job automation. Do you prioritize automating {amount1} {group1} or {amount2} {group2}?",
-    },
+    /*  {
+         value: "automation",
+         label: "Job Automation Priorities",
+         description:
+             "You're funding job automation. Do you prioritize automating {amount1} {group1} or {amount2} {group2}?",
+     }, */
 ];
