@@ -1,7 +1,10 @@
 "use server"
 
+import Anthropic from "@anthropic-ai/sdk";
 import { db } from "./db";
-
+const anthropic = new Anthropic({
+    apiKey: process.env.ANTHROPIC_API_KEY
+})
 const fetchComparisons = async (group1: string, group2: string, scenario = "trolley") => {
 
     const comparisons = await db.manyOrNone(
@@ -15,5 +18,17 @@ const fetchComparisons = async (group1: string, group2: string, scenario = "trol
     return comparisons
 }
 
+const fetchPreference = async (messages: any[]) => {
+    const res = await anthropic.messages.create({
+        model: "as-hackathon-pm-rollout",
+        max_tokens: 1,
+        messages,
+        temperature: 0
+    });
+    console.log(res)
+    //@ts-expect-error description: research exists on response
+    return res.research.value_heads[0][0]
+}
 
-export { fetchComparisons }
+
+export { fetchComparisons, fetchPreference }

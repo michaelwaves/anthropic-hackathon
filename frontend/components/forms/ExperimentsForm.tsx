@@ -5,6 +5,7 @@ import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import ScenarioDropdown from "../navigation/ScenarioDropdown"
 import { scenarios } from "@/lib/data/scenarios"
+import ExperimentButton from "./ExperimentButton"
 
 export default function ExperimentsForm() {
     const [scenario, setScenario] = useState("")
@@ -98,6 +99,13 @@ export default function ExperimentsForm() {
                 </div>
             )}
 
+            <ExperimentButton
+                group1={group1}
+                group2={group2}
+                amount1={amount1}
+                amount2={amount2}
+                filledScenario={filledScenario}
+            />
         </div>
     )
 }
