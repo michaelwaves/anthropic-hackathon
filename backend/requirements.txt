@@ -3,3 +3,5 @@ python-dotenv
 fastapi
 uvicorn
 scikit-optimize
+psycopg2-binary 
+SQLAlchemy

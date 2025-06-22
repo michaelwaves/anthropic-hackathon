@@ -14,7 +14,7 @@ metadata = MetaData()
 metadata.reflect(bind=engine)
 
 # Reference to the "comparison" table
-comparison_table = metadata.tables["comparison"]
+comparison_table = metadata.tables["comparisons"]
 
 # Load and combine all CSVs
 dataframes = []
