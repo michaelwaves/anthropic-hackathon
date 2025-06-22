@@ -16,14 +16,13 @@ comparison_table = metadata.tables["comparisons"]
 
 # Load and combine CSVs
 dataframes = []
-for filename in os.listdir("./outputs/"):
+for filename in os.listdir("./outputs/trolley/"):
     if filename.endswith(".csv"):
         base = os.path.splitext(filename)[0]
         scenario = base.rsplit("_", 1)[-1]  # after last underscore
-        if scenario != "hiring":
-            df = pd.read_csv(os.path.join("./outputs/", filename))
-            df["scenario"] = scenario
-            dataframes.append(df)
+        df = pd.read_csv(os.path.join("./outputs/trolley/", filename))
+        df["scenario"] = scenario
+        dataframes.append(df)
 
 # Combine
 df = pd.concat(dataframes, ignore_index=True)

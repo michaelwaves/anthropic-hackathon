@@ -30,28 +30,7 @@ export default function ExperimentsForm() {
         .replace("{amount1}", amount1)
         .replace("{amount2}", amount2)
 
-    const handleSubmit = async () => {
-        const messages1 = [
-            {
-                "role": "user",
-                "content": filledScenario
-            },
-            {
-                "role": "assistant",
-                "content": `${amount1} ${group1}`
-            }
-        ]
-        const messages2 = [
-            {
-                "role": "user",
-                "content": filledScenario
-            },
-            {
-                "role": "assistant",
-                "content": `${amount2} ${group2}`
-            }
-        ]
-    }
+
     return (
         <div className="max-w-3xl mx-auto px-4 py-12 space-y-8">
             <div className="text-center space-y-2">
@@ -118,16 +97,7 @@ export default function ExperimentsForm() {
                     {filledScenario}
                 </div>
             )}
-            {/* Action Button */}
-            <div className="flex justify-center">
-                <button
-                    onClick={handleSubmit}
-                    disabled={!group1 || !group2}
-                    className="px-6 py-2 bg-blue-600 text-white rounded-md font-medium hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 disabled:opacity-50 disabled:cursor-not-allowed"
-                >
-                    View Data
-                </button>
-            </div>
+
         </div>
     )
 }

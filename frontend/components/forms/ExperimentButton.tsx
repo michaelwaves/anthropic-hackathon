@@ -1,4 +1,5 @@
-function ExperimentsButton({ group1, group2, amount1, amount2, filledScenario }: any) {
+"use client"
+function ExperimentButton({ group1, group2, amount1, amount2, filledScenario }: any) {
 
     const messages1 = [
         {
@@ -21,12 +22,23 @@ function ExperimentsButton({ group1, group2, amount1, amount2, filledScenario }:
         }
     ]
     const handleSubmit = async () => {
-
+        const p1 = await fetch
 
     }
-    return ( 
-        
-     );
+    return (
+        <div className="w-full flex flex-col gap-2">
+            <div className="flex justify-center">
+                <button
+                    onClick={handleSubmit}
+                    disabled={!group1 || !group2}
+                    className="px-6 py-2 bg-blue-600 text-white rounded-md font-medium hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 disabled:opacity-50 disabled:cursor-not-allowed"
+                >
+                    View Data
+                </button>
+            </div>
+
+        </div>
+    );
 }
 
-export default ExperimentsButton;
+export default ExperimentButton;
