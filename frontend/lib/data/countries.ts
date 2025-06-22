@@ -7,7 +7,7 @@ export const countries = [
     { value: "germans", label: "Germans", code: "DE" },
     { value: "japanese", label: "Japanese", code: "JP" },
     { value: "indians", label: "Indians", code: "IN" },
-    { value: "brazilians", label: "Brazilians", code: "BR" },
+    { value: "mexicans", label: "Mexicans", code: "MX" },
     { value: "canadians", label: "Canadians", code: "CA" },
     { value: "nigerians", label: "Nigerians", code: "NG" },
 
@@ -19,5 +19,5 @@ export const countries = [
     { value: "russians", label: "Russians", code: "RU" },
     { value: "indonesians", label: "Indonesians", code: "ID" },
     { value: "ukrainians", label: "Ukrainians", code: "UA" },
-    { value: "south_africans", label: "South Africans", code: "ZA" },
+    { value: "south africans", label: "South Africans", code: "ZA" },
 ]

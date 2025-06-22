@@ -16,11 +16,11 @@ comparison_table = metadata.tables["comparisons"]
 
 # Load and combine CSVs
 dataframes = []
-for filename in os.listdir("./outputs/trolley/"):
+for filename in os.listdir("./outputs/voting/"):
     if filename.endswith(".csv"):
         base = os.path.splitext(filename)[0]
         scenario = base.rsplit("_", 1)[-1]  # after last underscore
-        df = pd.read_csv(os.path.join("./outputs/trolley/", filename))
+        df = pd.read_csv(os.path.join("./outputs/voting/", filename))
         df["scenario"] = scenario
         dataframes.append(df)
 

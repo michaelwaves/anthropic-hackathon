@@ -1,6 +1,9 @@
 "use client"
-function ExperimentButton({ group1, group2, amount1, amount2, filledScenario }: any) {
 
+import { useState } from "react"
+
+function ExperimentButton({ group1, group2, amount1, amount2, filledScenario }: any) {
+    const [loading, setLoading] = useState(false)
     const messages1 = [
         {
             "role": "user",
@@ -36,6 +39,7 @@ function ExperimentButton({ group1, group2, amount1, amount2, filledScenario }: 
                     View Data
                 </button>
             </div>
+
 
         </div>
     );
