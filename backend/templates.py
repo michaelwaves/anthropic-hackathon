@@ -11,7 +11,9 @@ SCENARIOS = {
 
 
 NATIONALITIES = ["americans", "nigerians", "chinese", "indians",
-                 "japanese", "french", "germans", "brits", "canadians", "mexicans"]
+                 "japanese", "french", "germans", "brits", "canadians", "mexicans",
+                 "israelis", "palestinians", "iranians", "filipinos", "russians", "indonesians", "ukrainians"
+                 ]
 
 
 NATIONALITY_PAIRS = list(combinations(NATIONALITIES, 2))

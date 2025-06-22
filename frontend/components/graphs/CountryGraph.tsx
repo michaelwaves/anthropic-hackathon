@@ -10,8 +10,12 @@ import {
     Tooltip,
     Legend,
     ResponsiveContainer,
-    Cell
+    Cell,
+    PieChart,
+    Pie
 } from 'recharts';
+import SummaryStats from './SummaryStats';
+import ScaleLegend from './ScaleLegend';
 
 interface PreferenceComparison {
     group1: string;
@@ -23,7 +27,7 @@ interface PreferenceComparison {
     preference_diff: number;
 }
 
-const CountryGraph = ({ data }: { data: any[] }) => {
+const CountryGraph = ({ data }: { data: PreferenceComparison[] }) => {
 
     const searchParams = useSearchParams()
     const group1 = searchParams.get("group1") ?? "americans"
@@ -79,8 +83,20 @@ const CountryGraph = ({ data }: { data: any[] }) => {
         return null;
     };
 
+    const summaryPieData = [
+        {
+            name: `Prefers ${group1}`,
+            value: data.filter(d => d.preference_diff > 0).length
+        },
+        {
+            name: `Prefers ${group2}`,
+            value: data.filter(d => d.preference_diff <= 0).length
+        }
+    ]
+
     return (
         <div className="w-full h-screen p-6 bg-gray-50">
+            <SummaryStats data={data} group1={group1} group2={group2} />
             <div className="mb-6">
                 <h1 className="text-3xl font-bold text-gray-800 mb-2">
                     Preference Exchange Rate Analysis
@@ -91,7 +107,9 @@ const CountryGraph = ({ data }: { data: any[] }) => {
                 </p>
             </div>
 
-            <div className="bg-white rounded-lg shadow-lg p-4">
+            <ScaleLegend group1={group1} group2={group2} data={data} />
+
+            <div className="bg-white rounded-b-lg shadow-lg p-4">
                 <ResponsiveContainer width="100%" height={500}>
                     <ScatterChart
                         margin={{
@@ -123,60 +141,12 @@ const CountryGraph = ({ data }: { data: any[] }) => {
                                 />
                             ))}
                         </Scatter>
+
                     </ScatterChart>
                 </ResponsiveContainer>
             </div>
 
-            {/* Proper color scale legend */}
-            <div className="mt-4 bg-white rounded-lg shadow-lg p-4">
-                <h3 className="text-lg font-semibold mb-3">Preference Difference Scale</h3>
-                <div className="relative">
-                    {/* Continuous color bar */}
-                    <div
-                        className="h-6 w-full rounded"
-                        style={{
-                            background: 'linear-gradient(to right, rgb(255,50,50), rgb(128,50,128), rgb(50,50,255))'
-                        }}
-                    ></div>
 
-                    {/* Scale labels */}
-                    <div className="flex justify-between mt-2 text-sm">
-                        <span className="text-red-600 font-medium">
-                            {Math.min(...data.map(d => d.preference_diff)).toFixed(3)}
-                        </span>
-                        <span className="text-gray-600">0.000</span>
-                        <span className="text-blue-600 font-medium">
-                            {Math.max(...data.map(d => d.preference_diff)).toFixed(3)}
-                        </span>
-                    </div>
-
-                    {/* Description */}
-                    <div className="flex justify-between mt-1 text-xs text-gray-500">
-                        <span>Favors {group1}</span>
-                        <span>Neutral</span>
-                        <span>Favors {group2}</span>
-                    </div>
-                </div>
-            </div>
-
-            {/* Summary statistics */}
-            <div className="mt-4 bg-white rounded-lg shadow-lg p-4">
-                <h3 className="text-lg font-semibold mb-3">Summary</h3>
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
-                    <div>
-                        <span className="font-medium">Total Points:</span> {data.length}
-                    </div>
-                    <div>
-                        <span className="font-medium">Avg Preference Diff:</span> {(data.reduce((sum, d) => sum + d.preference_diff, 0) / data.length).toFixed(3)}
-                    </div>
-                    <div>
-                        <span className="font-medium">Pro-American:</span> {data.filter(d => d.preference_diff > 0).length}
-                    </div>
-                    <div>
-                        <span className="font-medium">Pro-Chinese:</span> {data.filter(d => d.preference_diff < 0).length}
-                    </div>
-                </div>
-            </div>
         </div>
     );
 };
