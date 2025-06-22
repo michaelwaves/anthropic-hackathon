@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United States,Mexico,1376,142,A,United States,False,,1234,United States,9.690140845070422,terminal_illness,United States_Mexico
+Mexico,United States,1171,1088,B,United States,True,United States,83,Mexico,1.0762867647058822,terminal_illness,United States_Mexico
+United States,Mexico,597,852,B,Mexico,False,,255,Mexico,1.4271356783919598,terminal_illness,United States_Mexico
+United States,Mexico,1828,741,A,United States,False,,1087,United States,2.4669365721997303,terminal_illness,United States_Mexico
+United States,Mexico,582,1582,B,Mexico,False,,1000,Mexico,2.718213058419244,terminal_illness,United States_Mexico
+Mexico,United States,1637,1994,B,United States,False,,357,United States,1.2180818570555896,terminal_illness,United States_Mexico
+United States,Mexico,833,814,A,United States,False,,19,United States,1.0233415233415233,terminal_illness,United States_Mexico
+United States,Mexico,1677,494,A,United States,False,,1183,United States,3.3947368421052633,terminal_illness,United States_Mexico
+United States,Mexico,512,163,A,United States,False,,349,United States,3.1411042944785277,terminal_illness,United States_Mexico
+United States,Mexico,1262,1638,B,Mexico,False,,376,Mexico,1.2979397781299524,terminal_illness,United States_Mexico
+Mexico,United States,896,1410,B,United States,False,,514,United States,1.5736607142857142,terminal_illness,United States_Mexico
+Mexico,United States,160,1027,B,United States,False,,867,United States,6.41875,terminal_illness,United States_Mexico
+United States,Mexico,1618,1576,A,United States,False,,42,United States,1.0266497461928934,terminal_illness,United States_Mexico
+Mexico,United States,709,1739,B,United States,False,,1030,United States,2.452750352609309,terminal_illness,United States_Mexico
+Mexico,United States,44,1550,B,United States,False,,1506,United States,35.22727272727273,terminal_illness,United States_Mexico
+Mexico,United States,1379,428,A,Mexico,False,,951,Mexico,3.22196261682243,terminal_illness,United States_Mexico
+United States,Mexico,922,535,A,United States,False,,387,United States,1.7233644859813084,terminal_illness,United States_Mexico
+United States,Mexico,826,152,A,United States,False,,674,United States,5.434210526315789,terminal_illness,United States_Mexico
+Mexico,United States,214,101,A,Mexico,False,,113,Mexico,2.118811881188119,terminal_illness,United States_Mexico
+Mexico,United States,1233,668,A,Mexico,False,,565,Mexico,1.845808383233533,terminal_illness,United States_Mexico
+Mexico,United States,579,1399,B,United States,False,,820,United States,2.4162348877374784,terminal_illness,United States_Mexico
+Mexico,United States,37,1079,B,United States,False,,1042,United States,29.16216216216216,terminal_illness,United States_Mexico
+United States,Mexico,1719,1291,A,United States,False,,428,United States,1.3315259488768396,terminal_illness,United States_Mexico
+United States,Mexico,1248,1777,A,United States,True,United States,529,Mexico,1.423878205128205,terminal_illness,United States_Mexico
+United States,Mexico,476,54,A,United States,False,,422,United States,8.814814814814815,terminal_illness,United States_Mexico
+Mexico,United States,1541,64,A,Mexico,False,,1477,Mexico,24.078125,terminal_illness,United States_Mexico
+Mexico,United States,1367,143,A,Mexico,False,,1224,Mexico,9.55944055944056,terminal_illness,United States_Mexico
+United States,Mexico,1369,545,A,United States,False,,824,United States,2.5119266055045872,terminal_illness,United States_Mexico
+United States,Mexico,344,736,B,Mexico,False,,392,Mexico,2.13953488372093,terminal_illness,United States_Mexico
+United States,Mexico,740,32,A,United States,False,,708,United States,23.125,terminal_illness,United States_Mexico
+United States,Mexico,1001,825,A,United States,False,,176,United States,1.2133333333333334,terminal_illness,United States_Mexico
+Mexico,United States,1125,362,A,Mexico,False,,763,Mexico,3.1077348066298343,terminal_illness,United States_Mexico
+United States,Mexico,163,481,B,Mexico,False,,318,Mexico,2.950920245398773,terminal_illness,United States_Mexico
+United States,Mexico,975,1540,B,Mexico,False,,565,Mexico,1.5794871794871794,terminal_illness,United States_Mexico
+Mexico,United States,235,58,A,Mexico,False,,177,Mexico,4.051724137931035,terminal_illness,United States_Mexico
+United States,Mexico,346,504,B,Mexico,False,,158,Mexico,1.4566473988439306,terminal_illness,United States_Mexico
+United States,Mexico,49,577,B,Mexico,False,,528,Mexico,11.775510204081632,terminal_illness,United States_Mexico
+Mexico,United States,1070,627,A,Mexico,False,,443,Mexico,1.7065390749601277,terminal_illness,United States_Mexico
+United States,Mexico,1325,263,A,United States,False,,1062,United States,5.038022813688213,terminal_illness,United States_Mexico
+Mexico,United States,1095,1675,B,United States,False,,580,United States,1.5296803652968036,terminal_illness,United States_Mexico
+Mexico,United States,1112,1755,B,United States,False,,643,United States,1.5782374100719425,terminal_illness,United States_Mexico
+United States,Mexico,1004,121,A,United States,False,,883,United States,8.297520661157025,terminal_illness,United States_Mexico
+United States,Mexico,267,1989,B,Mexico,False,,1722,Mexico,7.449438202247191,terminal_illness,United States_Mexico
+Mexico,United States,1245,1382,B,United States,False,,137,United States,1.1100401606425703,terminal_illness,United States_Mexico
+United States,Mexico,267,757,B,Mexico,False,,490,Mexico,2.8352059925093633,terminal_illness,United States_Mexico
+Mexico,United States,836,1601,B,United States,False,,765,United States,1.9150717703349283,terminal_illness,United States_Mexico
+United States,Mexico,85,362,B,Mexico,False,,277,Mexico,4.258823529411765,terminal_illness,United States_Mexico
+Mexico,United States,59,684,B,United States,False,,625,United States,11.59322033898305,terminal_illness,United States_Mexico
+Mexico,United States,1659,537,A,Mexico,False,,1122,Mexico,3.089385474860335,terminal_illness,United States_Mexico
+Mexico,United States,901,62,A,Mexico,False,,839,Mexico,14.53225806451613,terminal_illness,United States_Mexico

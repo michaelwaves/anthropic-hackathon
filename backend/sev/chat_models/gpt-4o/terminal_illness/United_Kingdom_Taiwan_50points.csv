@@ -1,51 +1,51 @@
 country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
-Taiwan,United Kingdom,1869,1780,A,Taiwan,False,,89,Taiwan,1.05,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,891,370,A,Taiwan,False,,521,Taiwan,2.408108108108108,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1094,599,A,United Kingdom,False,,495,United Kingdom,1.8263772954924875,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1761,1344,A,United Kingdom,False,,417,United Kingdom,1.3102678571428572,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,229,1960,A,Taiwan,True,Taiwan,1731,United Kingdom,8.558951965065502,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1474,1638,A,United Kingdom,True,United Kingdom,164,Taiwan,1.1112618724559022,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,90,416,B,Taiwan,False,,326,Taiwan,4.622222222222222,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,81,401,A,Taiwan,True,Taiwan,320,United Kingdom,4.950617283950617,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,1428,687,A,Taiwan,False,,741,Taiwan,2.078602620087336,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1092,609,A,United Kingdom,False,,483,United Kingdom,1.793103448275862,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,173,492,A,Taiwan,True,Taiwan,319,United Kingdom,2.8439306358381504,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1662,758,A,United Kingdom,False,,904,United Kingdom,2.192612137203166,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1060,1711,A,United Kingdom,True,United Kingdom,651,Taiwan,1.6141509433962264,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,142,1631,A,Taiwan,True,Taiwan,1489,United Kingdom,11.485915492957746,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,835,1695,A,Taiwan,True,Taiwan,860,United Kingdom,2.029940119760479,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,231,726,B,Taiwan,False,,495,Taiwan,3.142857142857143,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,1905,560,A,Taiwan,False,,1345,Taiwan,3.4017857142857144,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1838,1634,A,United Kingdom,False,,204,United Kingdom,1.1248470012239902,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,479,1507,B,Taiwan,False,,1028,Taiwan,3.1461377870563676,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,450,30,A,Taiwan,False,,420,Taiwan,15.0,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,70,1386,B,Taiwan,False,,1316,Taiwan,19.8,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1189,1937,A,United Kingdom,True,United Kingdom,748,Taiwan,1.6291000841042893,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,1212,783,A,Taiwan,False,,429,Taiwan,1.5478927203065134,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,1555,1840,A,Taiwan,True,Taiwan,285,United Kingdom,1.1832797427652733,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,386,1903,A,Taiwan,True,Taiwan,1517,United Kingdom,4.930051813471502,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,500,1080,A,Taiwan,True,Taiwan,580,United Kingdom,2.16,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,1456,489,A,Taiwan,False,,967,Taiwan,2.9775051124744376,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,886,805,A,Taiwan,False,,81,Taiwan,1.1006211180124224,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,379,1663,B,Taiwan,False,,1284,Taiwan,4.387862796833773,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1741,1421,A,United Kingdom,False,,320,United Kingdom,1.2251935256861366,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,1546,760,A,Taiwan,False,,786,Taiwan,2.0342105263157895,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1089,311,A,United Kingdom,False,,778,United Kingdom,3.5016077170418005,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,1986,722,A,Taiwan,False,,1264,Taiwan,2.7506925207756234,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,1551,1786,A,Taiwan,True,Taiwan,235,United Kingdom,1.1515151515151516,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,812,468,A,United Kingdom,False,,344,United Kingdom,1.735042735042735,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1235,744,A,United Kingdom,False,,491,United Kingdom,1.6599462365591398,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1949,1676,A,United Kingdom,False,,273,United Kingdom,1.1628878281622912,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,667,711,A,United Kingdom,True,United Kingdom,44,Taiwan,1.065967016491754,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1091,781,A,United Kingdom,False,,310,United Kingdom,1.3969270166453265,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,164,207,A,Taiwan,True,Taiwan,43,United Kingdom,1.2621951219512195,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1251,1789,A,United Kingdom,True,United Kingdom,538,Taiwan,1.4300559552358114,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1300,112,A,United Kingdom,False,,1188,United Kingdom,11.607142857142858,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,554,110,A,Taiwan,False,,444,Taiwan,5.036363636363636,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,1350,452,A,Taiwan,False,,898,Taiwan,2.9867256637168142,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,872,403,A,Taiwan,False,,469,Taiwan,2.163771712158809,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1997,1284,A,United Kingdom,False,,713,United Kingdom,1.5552959501557633,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,1540,226,A,United Kingdom,False,,1314,United Kingdom,6.814159292035399,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,982,66,A,United Kingdom,False,,916,United Kingdom,14.878787878787879,terminal_illness,United Kingdom_Taiwan
-United Kingdom,Taiwan,5,891,B,Taiwan,False,,886,Taiwan,178.2,terminal_illness,United Kingdom_Taiwan
-Taiwan,United Kingdom,1928,1849,A,Taiwan,False,,79,Taiwan,1.0427257977285018,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1525,830,A,Taiwan,False,,695,Taiwan,1.8373493975903614,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1055,9,A,Taiwan,False,,1046,Taiwan,117.22222222222223,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,1953,1174,A,United Kingdom,False,,779,United Kingdom,1.6635434412265757,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,1369,471,A,United Kingdom,False,,898,United Kingdom,2.9065817409766455,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,805,989,A,United Kingdom,True,United Kingdom,184,Taiwan,1.2285714285714286,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,748,698,A,United Kingdom,False,,50,United Kingdom,1.0716332378223496,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,389,1877,B,Taiwan,False,,1488,Taiwan,4.825192802056555,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,1951,603,A,United Kingdom,False,,1348,United Kingdom,3.2354892205638475,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,429,1485,B,Taiwan,False,,1056,Taiwan,3.4615384615384617,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,866,832,A,Taiwan,False,,34,Taiwan,1.0408653846153846,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,284,1308,B,Taiwan,False,,1024,Taiwan,4.605633802816901,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,667,101,A,Taiwan,False,,566,Taiwan,6.603960396039604,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,1419,289,A,United Kingdom,False,,1130,United Kingdom,4.9100346020761245,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,1849,617,A,United Kingdom,False,,1232,United Kingdom,2.9967585089141004,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1082,72,A,Taiwan,False,,1010,Taiwan,15.027777777777779,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1802,1674,A,Taiwan,False,,128,Taiwan,1.076463560334528,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1738,342,A,Taiwan,False,,1396,Taiwan,5.081871345029239,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,847,797,A,Taiwan,False,,50,Taiwan,1.0627352572145545,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1184,1599,A,Taiwan,True,Taiwan,415,United Kingdom,1.3505067567567568,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,422,571,A,United Kingdom,True,United Kingdom,149,Taiwan,1.353080568720379,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,1667,473,A,United Kingdom,False,,1194,United Kingdom,3.52431289640592,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,1874,1498,A,United Kingdom,False,,376,United Kingdom,1.2510013351134845,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,422,1664,A,Taiwan,True,Taiwan,1242,United Kingdom,3.943127962085308,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1988,1050,A,Taiwan,False,,938,Taiwan,1.8933333333333333,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1491,1406,A,Taiwan,False,,85,Taiwan,1.0604551920341394,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,433,686,A,Taiwan,True,Taiwan,253,United Kingdom,1.584295612009238,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,194,1296,A,Taiwan,True,Taiwan,1102,United Kingdom,6.680412371134021,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,350,1616,A,Taiwan,True,Taiwan,1266,United Kingdom,4.617142857142857,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,740,785,A,United Kingdom,True,United Kingdom,45,Taiwan,1.0608108108108107,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1298,141,A,Taiwan,False,,1157,Taiwan,9.205673758865249,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,370,113,A,United Kingdom,False,,257,United Kingdom,3.274336283185841,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1195,1353,A,Taiwan,True,Taiwan,158,United Kingdom,1.1322175732217574,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,90,371,A,Taiwan,True,Taiwan,281,United Kingdom,4.122222222222222,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1765,1952,A,Taiwan,True,Taiwan,187,United Kingdom,1.1059490084985835,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,968,1123,A,Taiwan,True,Taiwan,155,United Kingdom,1.1601239669421488,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,889,626,A,Taiwan,False,,263,Taiwan,1.4201277955271565,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1996,1002,A,Taiwan,False,,994,Taiwan,1.9920159680638723,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,223,1995,B,Taiwan,False,,1772,Taiwan,8.946188340807176,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,1155,1058,A,United Kingdom,False,,97,United Kingdom,1.0916824196597354,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1423,1119,A,Taiwan,False,,304,Taiwan,1.2716711349419125,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,844,1839,B,Taiwan,False,,995,Taiwan,2.178909952606635,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,1177,287,A,United Kingdom,False,,890,United Kingdom,4.101045296167247,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1261,684,A,Taiwan,False,,577,Taiwan,1.8435672514619883,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,112,1448,B,Taiwan,False,,1336,Taiwan,12.928571428571429,terminal_illness,United Kingdom_Taiwan
+United Kingdom,Taiwan,713,1608,A,United Kingdom,True,United Kingdom,895,Taiwan,2.2552594670406734,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1250,1931,A,Taiwan,True,Taiwan,681,United Kingdom,1.5448,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1753,1108,A,Taiwan,False,,645,Taiwan,1.582129963898917,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,644,612,A,Taiwan,False,,32,Taiwan,1.0522875816993464,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1496,228,A,Taiwan,False,,1268,Taiwan,6.56140350877193,terminal_illness,United Kingdom_Taiwan
+Taiwan,United Kingdom,1006,1316,I'm,neither,False,,310,United Kingdom,1.3081510934393639,terminal_illness,United Kingdom_Taiwan

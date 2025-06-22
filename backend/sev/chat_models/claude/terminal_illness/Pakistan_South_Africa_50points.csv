@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+Pakistan,South Africa,278,1702,B,South Africa,False,,1424,South Africa,6.122302158273381,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,1286,1746,B,Pakistan,False,,460,Pakistan,1.3576982892690512,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,1638,1291,I,neither,False,,347,Pakistan,1.2687838884585592,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,1524,193,A,South Africa,False,,1331,South Africa,7.896373056994818,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,1934,953,A,Pakistan,False,,981,Pakistan,2.0293809024134313,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,504,1734,B,South Africa,False,,1230,South Africa,3.4404761904761907,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,1314,676,A,South Africa,False,,638,South Africa,1.9437869822485208,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,1435,289,A,Pakistan,False,,1146,Pakistan,4.965397923875432,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,1520,43,A,Pakistan,False,,1477,Pakistan,35.348837209302324,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,923,5,A,Pakistan,False,,918,Pakistan,184.6,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,292,1115,B,Pakistan,False,,823,Pakistan,3.8184931506849313,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,1100,1811,B,South Africa,False,,711,South Africa,1.6463636363636365,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,718,1806,B,Pakistan,False,,1088,Pakistan,2.5153203342618387,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,743,118,A,Pakistan,False,,625,Pakistan,6.296610169491525,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,623,1912,B,Pakistan,False,,1289,Pakistan,3.0690208667736756,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,1292,458,A,South Africa,False,,834,South Africa,2.8209606986899565,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,999,1680,B,Pakistan,False,,681,Pakistan,1.6816816816816818,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,1930,95,A,Pakistan,False,,1835,Pakistan,20.31578947368421,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,924,115,A,South Africa,False,,809,South Africa,8.034782608695652,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,1194,1606,B,South Africa,False,,412,South Africa,1.3450586264656617,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,474,180,A,Pakistan,False,,294,Pakistan,2.6333333333333333,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,715,1724,B,South Africa,False,,1009,South Africa,2.4111888111888113,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,572,251,A,Pakistan,False,,321,Pakistan,2.2788844621513946,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,1263,11,A,Pakistan,False,,1252,Pakistan,114.81818181818181,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,127,626,B,South Africa,False,,499,South Africa,4.929133858267717,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,1431,1754,B,Pakistan,False,,323,Pakistan,1.2257162823200558,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,790,818,B,South Africa,False,,28,South Africa,1.0354430379746835,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,403,1225,B,South Africa,False,,822,South Africa,3.0397022332506203,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,1602,292,B,Pakistan,True,Pakistan,1310,South Africa,5.486301369863014,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,1769,987,A,South Africa,False,,782,South Africa,1.7922998986828773,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,1008,853,A,Pakistan,False,,155,Pakistan,1.1817116060961312,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,1193,280,A,Pakistan,False,,913,Pakistan,4.260714285714286,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,15,1467,B,Pakistan,False,,1452,Pakistan,97.8,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,103,689,B,Pakistan,False,,586,Pakistan,6.689320388349515,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,901,747,I,neither,False,,154,Pakistan,1.2061579651941097,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,62,1853,B,South Africa,False,,1791,South Africa,29.887096774193548,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,1311,38,A,South Africa,False,,1273,South Africa,34.5,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,931,1670,B,South Africa,False,,739,South Africa,1.7937701396348014,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,1877,1907,B,South Africa,False,,30,South Africa,1.0159829515183805,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,750,1298,B,South Africa,False,,548,South Africa,1.7306666666666666,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,97,1560,B,Pakistan,False,,1463,Pakistan,16.082474226804123,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,1317,1650,B,Pakistan,False,,333,Pakistan,1.2528473804100229,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,199,536,B,South Africa,False,,337,South Africa,2.693467336683417,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,1556,895,A,South Africa,False,,661,South Africa,1.7385474860335195,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,1506,1987,B,Pakistan,False,,481,Pakistan,1.3193891102257636,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,952,1242,B,South Africa,False,,290,South Africa,1.3046218487394958,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,1079,1164,B,Pakistan,False,,85,Pakistan,1.0787766450417053,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,675,567,A,Pakistan,False,,108,Pakistan,1.1904761904761905,terminal_illness,Pakistan_South Africa
+South Africa,Pakistan,85,4,A,South Africa,False,,81,South Africa,21.25,terminal_illness,Pakistan_South Africa
+Pakistan,South Africa,64,188,B,South Africa,False,,124,South Africa,2.9375,terminal_illness,Pakistan_South Africa

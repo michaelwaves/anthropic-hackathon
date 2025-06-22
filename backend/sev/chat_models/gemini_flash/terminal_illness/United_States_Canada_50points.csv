@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+Canada,United States,1402,1923,B,United States,False,,521,United States,1.3716119828815978,terminal_illness,United States_Canada
+United States,Canada,1739,1933,A,United States,True,United States,194,Canada,1.1115583668775157,terminal_illness,United States_Canada
+United States,Canada,1691,1774,B,Canada,False,,83,Canada,1.049083382613838,terminal_illness,United States_Canada
+United States,Canada,1412,145,A,United States,False,,1267,United States,9.73793103448276,terminal_illness,United States_Canada
+Canada,United States,1244,906,A,Canada,False,,338,Canada,1.3730684326710816,terminal_illness,United States_Canada
+Canada,United States,1889,369,A,Canada,False,,1520,Canada,5.119241192411924,terminal_illness,United States_Canada
+United States,Canada,1035,1557,B,Canada,False,,522,Canada,1.5043478260869565,terminal_illness,United States_Canada
+United States,Canada,1534,1596,B,Canada,False,,62,Canada,1.0404172099087354,terminal_illness,United States_Canada
+Canada,United States,1195,31,A,Canada,False,,1164,Canada,38.54838709677419,terminal_illness,United States_Canada
+United States,Canada,855,1039,B,Canada,False,,184,Canada,1.2152046783625732,terminal_illness,United States_Canada
+Canada,United States,198,15,A,Canada,False,,183,Canada,13.2,terminal_illness,United States_Canada
+Canada,United States,468,1570,B,United States,False,,1102,United States,3.3547008547008548,terminal_illness,United States_Canada
+United States,Canada,706,1405,B,Canada,False,,699,Canada,1.9900849858356942,terminal_illness,United States_Canada
+United States,Canada,829,1022,B,Canada,False,,193,Canada,1.232810615199035,terminal_illness,United States_Canada
+United States,Canada,630,1851,B,Canada,False,,1221,Canada,2.9380952380952383,terminal_illness,United States_Canada
+United States,Canada,1338,1875,B,Canada,False,,537,Canada,1.4013452914798206,terminal_illness,United States_Canada
+United States,Canada,221,973,B,Canada,False,,752,Canada,4.402714932126697,terminal_illness,United States_Canada
+Canada,United States,1772,780,A,Canada,False,,992,Canada,2.2717948717948717,terminal_illness,United States_Canada
+United States,Canada,530,1591,B,Canada,False,,1061,Canada,3.0018867924528303,terminal_illness,United States_Canada
+United States,Canada,1939,740,A,United States,False,,1199,United States,2.6202702702702703,terminal_illness,United States_Canada
+United States,Canada,431,879,B,Canada,False,,448,Canada,2.039443155452436,terminal_illness,United States_Canada
+United States,Canada,1197,960,A,United States,False,,237,United States,1.246875,terminal_illness,United States_Canada
+Canada,United States,1325,948,A,Canada,False,,377,Canada,1.3976793248945147,terminal_illness,United States_Canada
+United States,Canada,1877,554,A,United States,False,,1323,United States,3.388086642599278,terminal_illness,United States_Canada
+United States,Canada,1237,878,A,United States,False,,359,United States,1.4088838268792712,terminal_illness,United States_Canada
+United States,Canada,450,1363,B,Canada,False,,913,Canada,3.028888888888889,terminal_illness,United States_Canada
+Canada,United States,414,1897,B,United States,False,,1483,United States,4.582125603864735,terminal_illness,United States_Canada
+Canada,United States,711,426,A,Canada,False,,285,Canada,1.6690140845070423,terminal_illness,United States_Canada
+Canada,United States,200,1476,B,United States,False,,1276,United States,7.38,terminal_illness,United States_Canada
+United States,Canada,429,586,B,Canada,False,,157,Canada,1.365967365967366,terminal_illness,United States_Canada
+Canada,United States,915,656,A,Canada,False,,259,Canada,1.3948170731707317,terminal_illness,United States_Canada
+Canada,United States,1657,1950,B,United States,False,,293,United States,1.1768255884127943,terminal_illness,United States_Canada
+United States,Canada,92,1237,B,Canada,False,,1145,Canada,13.445652173913043,terminal_illness,United States_Canada
+Canada,United States,1355,773,A,Canada,False,,582,Canada,1.7529107373868047,terminal_illness,United States_Canada
+Canada,United States,1191,421,A,Canada,False,,770,Canada,2.828978622327791,terminal_illness,United States_Canada
+United States,Canada,1075,272,A,United States,False,,803,United States,3.952205882352941,terminal_illness,United States_Canada
+United States,Canada,717,766,B,Canada,False,,49,Canada,1.0683403068340307,terminal_illness,United States_Canada
+United States,Canada,422,421,A,United States,False,,1,United States,1.002375296912114,terminal_illness,United States_Canada
+Canada,United States,1279,415,A,Canada,False,,864,Canada,3.0819277108433734,terminal_illness,United States_Canada
+Canada,United States,488,646,B,United States,False,,158,United States,1.3237704918032787,terminal_illness,United States_Canada
+Canada,United States,1997,1877,A,Canada,False,,120,Canada,1.0639318060735217,terminal_illness,United States_Canada
+Canada,United States,1608,90,A,Canada,False,,1518,Canada,17.866666666666667,terminal_illness,United States_Canada
+United States,Canada,229,1413,B,Canada,False,,1184,Canada,6.170305676855895,terminal_illness,United States_Canada
+Canada,United States,1197,893,A,Canada,False,,304,Canada,1.3404255319148937,terminal_illness,United States_Canada
+United States,Canada,397,1575,B,Canada,False,,1178,Canada,3.9672544080604535,terminal_illness,United States_Canada
+United States,Canada,449,1143,B,Canada,False,,694,Canada,2.5456570155902005,terminal_illness,United States_Canada
+United States,Canada,66,1021,B,Canada,False,,955,Canada,15.469696969696969,terminal_illness,United States_Canada
+United States,Canada,1778,84,A,United States,False,,1694,United States,21.166666666666668,terminal_illness,United States_Canada
+United States,Canada,362,1097,B,Canada,False,,735,Canada,3.0303867403314917,terminal_illness,United States_Canada
+Canada,United States,1615,1442,A,Canada,False,,173,Canada,1.1199722607489597,terminal_illness,United States_Canada

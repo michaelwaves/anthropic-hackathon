@@ -1,51 +1,51 @@
 country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
-Nigeria,South Africa,1915,855,A,Nigeria,False,,1060,Nigeria,2.239766081871345,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,87,1457,A,Nigeria,True,Nigeria,1370,South Africa,16.74712643678161,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1083,1043,A,Nigeria,False,,40,Nigeria,1.0383509108341322,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1284,1640,A,Nigeria,True,Nigeria,356,South Africa,1.277258566978193,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,68,547,B,Nigeria,False,,479,Nigeria,8.044117647058824,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,346,513,A,Nigeria,True,Nigeria,167,South Africa,1.4826589595375723,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,512,250,A,Nigeria,False,,262,Nigeria,2.048,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1190,677,A,Nigeria,False,,513,Nigeria,1.7577548005908419,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,1802,1722,A,South Africa,False,,80,South Africa,1.0464576074332173,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,1050,768,A,South Africa,False,,282,South Africa,1.3671875,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1394,1289,A,Nigeria,False,,105,Nigeria,1.0814584949573314,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,1823,549,A,South Africa,False,,1274,South Africa,3.3205828779599273,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1494,1822,A,Nigeria,True,Nigeria,328,South Africa,1.2195448460508702,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1676,1359,A,Nigeria,False,,317,Nigeria,1.2332597498160411,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,225,29,A,Nigeria,False,,196,Nigeria,7.758620689655173,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,1407,671,A,South Africa,False,,736,South Africa,2.096870342771982,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,1109,1377,A,South Africa,True,South Africa,268,Nigeria,1.2416591523895402,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,666,1194,A,Nigeria,True,Nigeria,528,South Africa,1.7927927927927927,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,18,1939,A,Nigeria,True,Nigeria,1921,South Africa,107.72222222222223,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,1549,412,A,South Africa,False,,1137,South Africa,3.7597087378640777,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1607,414,A,Nigeria,False,,1193,Nigeria,3.8816425120772946,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1516,143,A,Nigeria,False,,1373,Nigeria,10.601398601398602,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,18,1771,B,Nigeria,False,,1753,Nigeria,98.38888888888889,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,301,1655,A,Nigeria,True,Nigeria,1354,South Africa,5.498338870431894,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,97,59,A,Nigeria,False,,38,Nigeria,1.6440677966101696,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,299,1565,B,Nigeria,False,,1266,Nigeria,5.234113712374582,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1333,1457,A,Nigeria,True,Nigeria,124,South Africa,1.0930232558139534,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1909,1012,A,Nigeria,False,,897,Nigeria,1.8863636363636365,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,1512,355,A,South Africa,False,,1157,South Africa,4.259154929577464,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1714,1395,A,Nigeria,False,,319,Nigeria,1.228673835125448,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,777,866,A,Nigeria,True,Nigeria,89,South Africa,1.1145431145431146,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,1075,331,A,South Africa,False,,744,South Africa,3.2477341389728096,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,1784,75,A,South Africa,False,,1709,South Africa,23.786666666666665,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1424,927,A,Nigeria,False,,497,Nigeria,1.5361380798274002,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,798,797,A,Nigeria,False,,1,Nigeria,1.001254705144291,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,313,193,A,South Africa,False,,120,South Africa,1.621761658031088,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1042,1840,I'm,neither,False,,798,South Africa,1.765834932821497,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,99,80,A,South Africa,False,,19,South Africa,1.2375,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,1596,991,A,South Africa,False,,605,South Africa,1.610494450050454,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,648,564,A,Nigeria,False,,84,Nigeria,1.148936170212766,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1727,1113,A,Nigeria,False,,614,Nigeria,1.5516621743036838,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,1960,554,A,South Africa,False,,1406,South Africa,3.5379061371841156,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1131,1126,A,Nigeria,False,,5,Nigeria,1.0044404973357015,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,569,422,A,South Africa,False,,147,South Africa,1.3483412322274881,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1346,1858,A,Nigeria,True,Nigeria,512,South Africa,1.3803863298662704,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1895,1492,A,Nigeria,False,,403,Nigeria,1.270107238605898,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1783,1602,A,Nigeria,False,,181,Nigeria,1.112983770287141,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,133,1535,A,Nigeria,True,Nigeria,1402,South Africa,11.541353383458647,terminal_illness,Nigeria_South Africa
-Nigeria,South Africa,1179,940,A,Nigeria,False,,239,Nigeria,1.254255319148936,terminal_illness,Nigeria_South Africa
-South Africa,Nigeria,1708,1879,A,South Africa,True,South Africa,171,Nigeria,1.1001170960187354,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,821,1646,B,Nigeria,False,,825,Nigeria,2.004872107186358,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,101,724,B,Nigeria,False,,623,Nigeria,7.1683168316831685,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,1446,948,A,Nigeria,False,,498,Nigeria,1.5253164556962024,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,1286,509,A,South Africa,False,,777,South Africa,2.5265225933202355,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,1943,1400,A,Nigeria,False,,543,Nigeria,1.387857142857143,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,432,324,A,South Africa,False,,108,South Africa,1.3333333333333333,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,459,1499,B,Nigeria,False,,1040,Nigeria,3.2657952069716774,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,1428,851,A,South Africa,False,,577,South Africa,1.6780258519388953,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,1386,313,A,South Africa,False,,1073,South Africa,4.4281150159744405,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,493,80,A,South Africa,False,,413,South Africa,6.1625,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,1730,993,A,South Africa,False,,737,South Africa,1.742195367573011,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,353,1913,B,Nigeria,False,,1560,Nigeria,5.419263456090651,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,38,954,B,South Africa,False,,916,South Africa,25.105263157894736,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,1810,857,A,Nigeria,False,,953,Nigeria,2.1120186697782963,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,1026,1211,A,Nigeria,True,Nigeria,185,South Africa,1.1803118908382066,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,1954,1261,A,Nigeria,False,,693,Nigeria,1.549563838223632,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,721,1561,A,South Africa,True,South Africa,840,Nigeria,2.1650485436893203,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,461,1928,B,Nigeria,False,,1467,Nigeria,4.182212581344903,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,679,399,A,South Africa,False,,280,South Africa,1.7017543859649122,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,1375,836,A,South Africa,False,,539,South Africa,1.644736842105263,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,393,393,I'm,neither,False,,0,Nigeria,1.0,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,1452,1439,A,South Africa,False,,13,South Africa,1.0090340514246003,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,371,991,B,Nigeria,False,,620,Nigeria,2.6711590296495955,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,1572,1638,A,Nigeria,True,Nigeria,66,South Africa,1.0419847328244274,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,988,1246,A,South Africa,True,South Africa,258,Nigeria,1.2611336032388665,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,1155,371,A,Nigeria,False,,784,Nigeria,3.1132075471698113,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,1226,950,A,South Africa,False,,276,South Africa,1.2905263157894737,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,391,1228,A,South Africa,True,South Africa,837,Nigeria,3.1406649616368285,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,893,1425,A,Nigeria,True,Nigeria,532,South Africa,1.5957446808510638,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,1532,1970,A,Nigeria,True,Nigeria,438,South Africa,1.2859007832898173,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,319,1668,A,Nigeria,True,Nigeria,1349,South Africa,5.22884012539185,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,1798,1179,A,South Africa,False,,619,South Africa,1.5250212044105174,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,584,1920,A,South Africa,True,South Africa,1336,Nigeria,3.287671232876712,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,1306,368,A,South Africa,False,,938,South Africa,3.5489130434782608,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,1837,1172,A,Nigeria,False,,665,Nigeria,1.56740614334471,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,94,1162,A,Nigeria,True,Nigeria,1068,South Africa,12.361702127659575,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,577,1182,A,South Africa,True,South Africa,605,Nigeria,2.048526863084922,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,1312,959,A,South Africa,False,,353,South Africa,1.3680917622523463,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,1880,144,A,South Africa,False,,1736,South Africa,13.055555555555555,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,1420,1635,A,Nigeria,True,Nigeria,215,South Africa,1.1514084507042253,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,225,215,A,Nigeria,False,,10,Nigeria,1.0465116279069768,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,382,1371,B,Nigeria,False,,989,Nigeria,3.589005235602094,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,1399,933,A,Nigeria,False,,466,Nigeria,1.4994640943193998,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,652,1438,A,Nigeria,True,Nigeria,786,South Africa,2.205521472392638,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,515,1082,A,South Africa,True,South Africa,567,Nigeria,2.100970873786408,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,1105,1274,A,South Africa,True,South Africa,169,Nigeria,1.1529411764705881,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,491,732,I'm,neither,False,,241,South Africa,1.490835030549898,terminal_illness,Nigeria_South Africa
+South Africa,Nigeria,205,1538,B,Nigeria,False,,1333,Nigeria,7.5024390243902435,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,125,424,I'm,neither,False,,299,South Africa,3.392,terminal_illness,Nigeria_South Africa
+Nigeria,South Africa,637,1862,A,Nigeria,True,Nigeria,1225,South Africa,2.923076923076923,terminal_illness,Nigeria_South Africa

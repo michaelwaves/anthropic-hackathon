@@ -1,51 +1,51 @@
 country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
-South Africa,United Kingdom,1261,932,A,South Africa,False,,329,South Africa,1.3530042918454936,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,1058,353,A,United Kingdom,False,,705,United Kingdom,2.997167138810198,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1619,99,A,South Africa,False,,1520,South Africa,16.353535353535353,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,1289,606,A,United Kingdom,False,,683,United Kingdom,2.127062706270627,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1050,1340,A,South Africa,True,South Africa,290,United Kingdom,1.276190476190476,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,673,1158,A,South Africa,True,South Africa,485,United Kingdom,1.7206537890044578,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,525,1649,B,South Africa,False,,1124,South Africa,3.140952380952381,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1572,711,A,South Africa,False,,861,South Africa,2.210970464135021,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,857,558,A,South Africa,False,,299,South Africa,1.53584229390681,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,842,1008,I'm,neither,False,,166,United Kingdom,1.1971496437054632,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,83,661,B,South Africa,False,,578,South Africa,7.963855421686747,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,913,1173,B,South Africa,False,,260,South Africa,1.284775465498357,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,459,382,A,United Kingdom,False,,77,United Kingdom,1.2015706806282722,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,1993,238,A,United Kingdom,False,,1755,United Kingdom,8.373949579831933,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,404,539,A,South Africa,True,South Africa,135,United Kingdom,1.3341584158415842,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,1967,1512,A,United Kingdom,False,,455,United Kingdom,1.3009259259259258,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,96,1582,B,South Africa,False,,1486,South Africa,16.479166666666668,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,100,449,B,South Africa,False,,349,South Africa,4.49,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1104,1190,A,South Africa,True,South Africa,86,United Kingdom,1.0778985507246377,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1218,1229,A,South Africa,True,South Africa,11,United Kingdom,1.0090311986863711,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,947,808,A,United Kingdom,False,,139,United Kingdom,1.172029702970297,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,184,365,A,South Africa,True,South Africa,181,United Kingdom,1.983695652173913,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,630,663,A,South Africa,True,South Africa,33,United Kingdom,1.0523809523809524,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1439,206,A,South Africa,False,,1233,South Africa,6.985436893203883,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,180,1947,A,South Africa,True,South Africa,1767,United Kingdom,10.816666666666666,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,1737,40,A,United Kingdom,False,,1697,United Kingdom,43.425,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,974,1081,B,South Africa,False,,107,South Africa,1.1098562628336757,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,824,1307,A,United Kingdom,True,United Kingdom,483,South Africa,1.5861650485436893,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1376,1149,A,South Africa,False,,227,South Africa,1.197563098346388,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1079,1834,A,South Africa,True,South Africa,755,United Kingdom,1.6997219647822057,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,973,1412,A,South Africa,True,South Africa,439,United Kingdom,1.4511819116135662,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1272,1098,A,South Africa,False,,174,South Africa,1.1584699453551912,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,1238,464,A,United Kingdom,False,,774,United Kingdom,2.668103448275862,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,1614,1172,A,United Kingdom,False,,442,United Kingdom,1.3771331058020477,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,860,294,A,United Kingdom,False,,566,United Kingdom,2.925170068027211,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1222,1164,A,South Africa,False,,58,South Africa,1.0498281786941581,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1406,419,A,South Africa,False,,987,South Africa,3.3556085918854417,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,374,1461,A,South Africa,True,South Africa,1087,United Kingdom,3.906417112299465,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,1214,12,A,United Kingdom,False,,1202,United Kingdom,101.16666666666667,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,1721,1475,A,United Kingdom,False,,246,United Kingdom,1.1667796610169492,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,600,1688,A,South Africa,True,South Africa,1088,United Kingdom,2.8133333333333335,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,472,672,A,South Africa,True,South Africa,200,United Kingdom,1.423728813559322,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,1217,1904,B,South Africa,False,,687,South Africa,1.5645028759244042,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,922,1634,B,South Africa,False,,712,South Africa,1.772234273318872,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1155,1174,A,South Africa,True,South Africa,19,United Kingdom,1.0164502164502165,terminal_illness,United Kingdom_South Africa
-United Kingdom,South Africa,963,1117,A,United Kingdom,True,United Kingdom,154,South Africa,1.1599169262720666,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1500,1822,A,South Africa,True,South Africa,322,United Kingdom,1.2146666666666666,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1539,600,A,South Africa,False,,939,South Africa,2.565,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1328,171,A,South Africa,False,,1157,South Africa,7.766081871345029,terminal_illness,United Kingdom_South Africa
-South Africa,United Kingdom,1353,1499,A,South Africa,True,South Africa,146,United Kingdom,1.1079083518107908,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,138,971,A,South Africa,True,South Africa,833,United Kingdom,7.036231884057971,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,569,41,A,United Kingdom,False,,528,United Kingdom,13.878048780487806,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,241,1354,A,South Africa,True,South Africa,1113,United Kingdom,5.618257261410788,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,489,42,A,South Africa,False,,447,South Africa,11.642857142857142,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,408,182,A,United Kingdom,False,,226,United Kingdom,2.241758241758242,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,508,130,A,South Africa,False,,378,South Africa,3.9076923076923076,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,106,1890,A,South Africa,True,South Africa,1784,United Kingdom,17.830188679245282,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,1151,85,A,South Africa,False,,1066,South Africa,13.541176470588235,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,999,1490,A,South Africa,True,South Africa,491,United Kingdom,1.4914914914914914,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,760,408,A,South Africa,False,,352,South Africa,1.8627450980392157,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,1566,1060,A,South Africa,False,,506,South Africa,1.4773584905660377,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,1415,1656,A,South Africa,True,South Africa,241,United Kingdom,1.1703180212014135,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,896,1410,A,South Africa,True,South Africa,514,United Kingdom,1.5736607142857142,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,1900,1185,A,United Kingdom,False,,715,United Kingdom,1.6033755274261603,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,1047,1621,B,South Africa,False,,574,South Africa,1.548233046800382,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,1477,1754,A,South Africa,True,South Africa,277,United Kingdom,1.1875423155044007,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,1582,1400,A,South Africa,False,,182,South Africa,1.13,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,118,313,A,South Africa,True,South Africa,195,United Kingdom,2.652542372881356,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,1757,1083,A,United Kingdom,False,,674,United Kingdom,1.6223453370267775,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,1481,739,A,United Kingdom,False,,742,United Kingdom,2.004059539918809,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,1990,377,A,South Africa,False,,1613,South Africa,5.278514588859417,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,1120,325,A,United Kingdom,False,,795,United Kingdom,3.4461538461538463,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,1428,1857,A,South Africa,True,South Africa,429,United Kingdom,1.300420168067227,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,602,215,A,South Africa,False,,387,South Africa,2.8,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,1753,407,A,South Africa,False,,1346,South Africa,4.3071253071253075,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,1080,442,A,United Kingdom,False,,638,United Kingdom,2.4434389140271495,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,701,1957,B,South Africa,False,,1256,South Africa,2.7917261055634808,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,765,1187,A,South Africa,True,South Africa,422,United Kingdom,1.5516339869281046,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,1080,73,A,United Kingdom,False,,1007,United Kingdom,14.794520547945206,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,1883,521,A,South Africa,False,,1362,South Africa,3.614203454894434,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,1099,726,A,South Africa,False,,373,South Africa,1.5137741046831956,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,1546,133,A,United Kingdom,False,,1413,United Kingdom,11.62406015037594,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,773,874,A,South Africa,True,South Africa,101,United Kingdom,1.130659767141009,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,1506,966,A,South Africa,False,,540,South Africa,1.5590062111801242,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,71,520,B,South Africa,False,,449,South Africa,7.323943661971831,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,584,992,A,South Africa,True,South Africa,408,United Kingdom,1.6986301369863013,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,1458,952,A,South Africa,False,,506,South Africa,1.531512605042017,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,1469,343,A,United Kingdom,False,,1126,United Kingdom,4.282798833819242,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,550,1273,B,South Africa,False,,723,South Africa,2.3145454545454545,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,404,455,A,United Kingdom,True,United Kingdom,51,South Africa,1.1262376237623761,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,700,1233,A,South Africa,True,South Africa,533,United Kingdom,1.7614285714285713,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,484,287,A,South Africa,False,,197,South Africa,1.6864111498257839,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,904,123,A,United Kingdom,False,,781,United Kingdom,7.349593495934959,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,1911,1397,A,United Kingdom,False,,514,United Kingdom,1.367931281317108,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,193,950,B,South Africa,False,,757,South Africa,4.922279792746114,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,51,1539,A,South Africa,True,South Africa,1488,United Kingdom,30.176470588235293,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,844,1334,A,South Africa,True,South Africa,490,United Kingdom,1.580568720379147,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,1847,746,A,United Kingdom,False,,1101,United Kingdom,2.4758713136729225,terminal_illness,United Kingdom_South Africa
+South Africa,United Kingdom,1524,1641,A,South Africa,True,South Africa,117,United Kingdom,1.0767716535433072,terminal_illness,United Kingdom_South Africa
+United Kingdom,South Africa,1356,622,A,United Kingdom,False,,734,United Kingdom,2.180064308681672,terminal_illness,United Kingdom_South Africa

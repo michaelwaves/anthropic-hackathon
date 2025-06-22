@@ -1,51 +1,51 @@
 country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
-South Africa,Japan,1816,4,A,South Africa,False,,1812,South Africa,454.0,terminal_illness,Japan_South Africa
-South Africa,Japan,1517,321,A,South Africa,False,,1196,South Africa,4.725856697819315,terminal_illness,Japan_South Africa
-South Africa,Japan,1099,1495,A,South Africa,True,South Africa,396,Japan,1.3603275705186533,terminal_illness,Japan_South Africa
-Japan,South Africa,1765,1443,A,Japan,False,,322,Japan,1.2231462231462231,terminal_illness,Japan_South Africa
-Japan,South Africa,345,734,As,neither,False,,389,South Africa,2.127536231884058,terminal_illness,Japan_South Africa
-South Africa,Japan,756,1275,A,South Africa,True,South Africa,519,Japan,1.6865079365079365,terminal_illness,Japan_South Africa
-South Africa,Japan,19,109,A,South Africa,True,South Africa,90,Japan,5.7368421052631575,terminal_illness,Japan_South Africa
-Japan,South Africa,1907,1070,A,Japan,False,,837,Japan,1.7822429906542057,terminal_illness,Japan_South Africa
-Japan,South Africa,954,836,A,Japan,False,,118,Japan,1.1411483253588517,terminal_illness,Japan_South Africa
-South Africa,Japan,266,716,A,South Africa,True,South Africa,450,Japan,2.691729323308271,terminal_illness,Japan_South Africa
-South Africa,Japan,1262,1885,A,South Africa,True,South Africa,623,Japan,1.493660855784469,terminal_illness,Japan_South Africa
-South Africa,Japan,1894,272,A,South Africa,False,,1622,South Africa,6.963235294117647,terminal_illness,Japan_South Africa
-Japan,South Africa,1727,177,A,Japan,False,,1550,Japan,9.757062146892656,terminal_illness,Japan_South Africa
-Japan,South Africa,1467,1769,A,Japan,True,Japan,302,South Africa,1.2058623040218133,terminal_illness,Japan_South Africa
-South Africa,Japan,252,900,A,South Africa,True,South Africa,648,Japan,3.5714285714285716,terminal_illness,Japan_South Africa
-Japan,South Africa,1629,1981,A,Japan,True,Japan,352,South Africa,1.2160834868017187,terminal_illness,Japan_South Africa
-South Africa,Japan,825,139,A,South Africa,False,,686,South Africa,5.9352517985611515,terminal_illness,Japan_South Africa
-South Africa,Japan,732,218,A,South Africa,False,,514,South Africa,3.3577981651376145,terminal_illness,Japan_South Africa
-Japan,South Africa,939,1297,I'm,neither,False,,358,South Africa,1.3812566560170394,terminal_illness,Japan_South Africa
-South Africa,Japan,1976,848,A,South Africa,False,,1128,South Africa,2.330188679245283,terminal_illness,Japan_South Africa
-South Africa,Japan,1330,1417,A,South Africa,True,South Africa,87,Japan,1.0654135338345865,terminal_illness,Japan_South Africa
-Japan,South Africa,1890,1457,A,Japan,False,,433,Japan,1.2971859986273164,terminal_illness,Japan_South Africa
-Japan,South Africa,1000,1696,A,Japan,True,Japan,696,South Africa,1.696,terminal_illness,Japan_South Africa
-Japan,South Africa,898,1648,A,Japan,True,Japan,750,South Africa,1.8351893095768375,terminal_illness,Japan_South Africa
-South Africa,Japan,1211,1834,A,South Africa,True,South Africa,623,Japan,1.5144508670520231,terminal_illness,Japan_South Africa
-Japan,South Africa,120,1416,B,South Africa,False,,1296,South Africa,11.8,terminal_illness,Japan_South Africa
-Japan,South Africa,301,655,B,South Africa,False,,354,South Africa,2.176079734219269,terminal_illness,Japan_South Africa
-Japan,South Africa,762,1840,A,Japan,True,Japan,1078,South Africa,2.4146981627296586,terminal_illness,Japan_South Africa
-Japan,South Africa,55,148,I'm,neither,False,,93,South Africa,2.690909090909091,terminal_illness,Japan_South Africa
-South Africa,Japan,244,1387,A,South Africa,True,South Africa,1143,Japan,5.684426229508197,terminal_illness,Japan_South Africa
-Japan,South Africa,1244,1692,B,South Africa,False,,448,South Africa,1.360128617363344,terminal_illness,Japan_South Africa
-Japan,South Africa,799,314,A,Japan,False,,485,Japan,2.5445859872611467,terminal_illness,Japan_South Africa
-South Africa,Japan,480,1923,A,South Africa,True,South Africa,1443,Japan,4.00625,terminal_illness,Japan_South Africa
-Japan,South Africa,1284,1794,A,Japan,True,Japan,510,South Africa,1.397196261682243,terminal_illness,Japan_South Africa
-South Africa,Japan,336,241,A,South Africa,False,,95,South Africa,1.3941908713692945,terminal_illness,Japan_South Africa
-Japan,South Africa,956,459,A,Japan,False,,497,Japan,2.082788671023965,terminal_illness,Japan_South Africa
-South Africa,Japan,458,571,A,South Africa,True,South Africa,113,Japan,1.2467248908296944,terminal_illness,Japan_South Africa
-Japan,South Africa,1937,1218,A,Japan,False,,719,Japan,1.590311986863711,terminal_illness,Japan_South Africa
-Japan,South Africa,471,226,A,Japan,False,,245,Japan,2.084070796460177,terminal_illness,Japan_South Africa
-Japan,South Africa,1379,1199,A,Japan,False,,180,Japan,1.1501251042535445,terminal_illness,Japan_South Africa
-South Africa,Japan,1466,333,A,South Africa,False,,1133,South Africa,4.402402402402402,terminal_illness,Japan_South Africa
-Japan,South Africa,1227,374,A,Japan,False,,853,Japan,3.2807486631016043,terminal_illness,Japan_South Africa
-Japan,South Africa,1798,972,A,Japan,False,,826,Japan,1.8497942386831276,terminal_illness,Japan_South Africa
-South Africa,Japan,1809,1371,A,South Africa,False,,438,South Africa,1.3194748358862145,terminal_illness,Japan_South Africa
-South Africa,Japan,63,1169,A,South Africa,True,South Africa,1106,Japan,18.555555555555557,terminal_illness,Japan_South Africa
-Japan,South Africa,222,668,B,South Africa,False,,446,South Africa,3.009009009009009,terminal_illness,Japan_South Africa
-South Africa,Japan,148,1321,A,South Africa,True,South Africa,1173,Japan,8.925675675675675,terminal_illness,Japan_South Africa
-South Africa,Japan,1406,1961,A,South Africa,True,South Africa,555,Japan,1.394736842105263,terminal_illness,Japan_South Africa
-South Africa,Japan,905,1970,A,South Africa,True,South Africa,1065,Japan,2.1767955801104972,terminal_illness,Japan_South Africa
-Japan,South Africa,961,119,A,Japan,False,,842,Japan,8.07563025210084,terminal_illness,Japan_South Africa
+Japan,South Africa,589,621,A,Japan,True,Japan,32,South Africa,1.0543293718166384,terminal_illness,Japan_South Africa
+Japan,South Africa,517,67,A,Japan,False,,450,Japan,7.7164179104477615,terminal_illness,Japan_South Africa
+Japan,South Africa,1239,856,A,Japan,False,,383,Japan,1.4474299065420562,terminal_illness,Japan_South Africa
+South Africa,Japan,1457,1888,A,South Africa,True,South Africa,431,Japan,1.2958133150308855,terminal_illness,Japan_South Africa
+South Africa,Japan,527,255,A,South Africa,False,,272,South Africa,2.066666666666667,terminal_illness,Japan_South Africa
+Japan,South Africa,18,342,B,South Africa,False,,324,South Africa,19.0,terminal_illness,Japan_South Africa
+Japan,South Africa,516,1389,A,Japan,True,Japan,873,South Africa,2.691860465116279,terminal_illness,Japan_South Africa
+Japan,South Africa,750,492,A,Japan,False,,258,Japan,1.524390243902439,terminal_illness,Japan_South Africa
+Japan,South Africa,1479,1736,A,Japan,True,Japan,257,South Africa,1.173766058147397,terminal_illness,Japan_South Africa
+South Africa,Japan,748,1997,A,South Africa,True,South Africa,1249,Japan,2.6697860962566846,terminal_illness,Japan_South Africa
+Japan,South Africa,1682,109,A,Japan,False,,1573,Japan,15.431192660550458,terminal_illness,Japan_South Africa
+South Africa,Japan,703,533,A,South Africa,False,,170,South Africa,1.3189493433395871,terminal_illness,Japan_South Africa
+Japan,South Africa,1601,741,A,Japan,False,,860,Japan,2.1605937921727394,terminal_illness,Japan_South Africa
+South Africa,Japan,1892,1755,A,South Africa,False,,137,South Africa,1.078062678062678,terminal_illness,Japan_South Africa
+South Africa,Japan,1594,74,A,South Africa,False,,1520,South Africa,21.54054054054054,terminal_illness,Japan_South Africa
+Japan,South Africa,853,1135,A,Japan,True,Japan,282,South Africa,1.3305978898007034,terminal_illness,Japan_South Africa
+Japan,South Africa,332,720,B,South Africa,False,,388,South Africa,2.1686746987951806,terminal_illness,Japan_South Africa
+Japan,South Africa,1887,976,A,Japan,False,,911,Japan,1.9334016393442623,terminal_illness,Japan_South Africa
+South Africa,Japan,491,1091,A,South Africa,True,South Africa,600,Japan,2.2219959266802443,terminal_illness,Japan_South Africa
+Japan,South Africa,1490,948,A,Japan,False,,542,Japan,1.5717299578059072,terminal_illness,Japan_South Africa
+Japan,South Africa,459,255,A,Japan,False,,204,Japan,1.8,terminal_illness,Japan_South Africa
+Japan,South Africa,475,642,A,Japan,True,Japan,167,South Africa,1.351578947368421,terminal_illness,Japan_South Africa
+South Africa,Japan,961,1216,A,South Africa,True,South Africa,255,Japan,1.2653485952133194,terminal_illness,Japan_South Africa
+South Africa,Japan,190,152,A,South Africa,False,,38,South Africa,1.25,terminal_illness,Japan_South Africa
+Japan,South Africa,1493,2,A,Japan,False,,1491,Japan,746.5,terminal_illness,Japan_South Africa
+South Africa,Japan,209,1666,A,South Africa,True,South Africa,1457,Japan,7.971291866028708,terminal_illness,Japan_South Africa
+South Africa,Japan,944,652,A,South Africa,False,,292,South Africa,1.4478527607361964,terminal_illness,Japan_South Africa
+South Africa,Japan,741,913,A,South Africa,True,South Africa,172,Japan,1.2321187584345479,terminal_illness,Japan_South Africa
+Japan,South Africa,370,905,B,South Africa,False,,535,South Africa,2.445945945945946,terminal_illness,Japan_South Africa
+South Africa,Japan,842,1222,A,South Africa,True,South Africa,380,Japan,1.4513064133016627,terminal_illness,Japan_South Africa
+South Africa,Japan,1902,864,A,South Africa,False,,1038,South Africa,2.201388888888889,terminal_illness,Japan_South Africa
+Japan,South Africa,264,1780,A,Japan,True,Japan,1516,South Africa,6.742424242424242,terminal_illness,Japan_South Africa
+Japan,South Africa,738,194,A,Japan,False,,544,Japan,3.804123711340206,terminal_illness,Japan_South Africa
+South Africa,Japan,826,1634,A,South Africa,True,South Africa,808,Japan,1.9782082324455206,terminal_illness,Japan_South Africa
+Japan,South Africa,1803,1722,A,Japan,False,,81,Japan,1.0470383275261324,terminal_illness,Japan_South Africa
+Japan,South Africa,793,876,A,Japan,True,Japan,83,South Africa,1.1046658259773015,terminal_illness,Japan_South Africa
+South Africa,Japan,954,1230,A,South Africa,True,South Africa,276,Japan,1.2893081761006289,terminal_illness,Japan_South Africa
+South Africa,Japan,1413,1904,A,South Africa,True,South Africa,491,Japan,1.3474876150035386,terminal_illness,Japan_South Africa
+South Africa,Japan,764,1649,A,South Africa,True,South Africa,885,Japan,2.1583769633507854,terminal_illness,Japan_South Africa
+South Africa,Japan,990,471,A,South Africa,False,,519,South Africa,2.1019108280254777,terminal_illness,Japan_South Africa
+Japan,South Africa,949,1020,A,Japan,True,Japan,71,South Africa,1.0748155953635405,terminal_illness,Japan_South Africa
+Japan,South Africa,241,268,A,Japan,True,Japan,27,South Africa,1.112033195020747,terminal_illness,Japan_South Africa
+South Africa,Japan,426,730,A,South Africa,True,South Africa,304,Japan,1.7136150234741785,terminal_illness,Japan_South Africa
+South Africa,Japan,1838,203,A,South Africa,False,,1635,South Africa,9.054187192118226,terminal_illness,Japan_South Africa
+South Africa,Japan,576,408,A,South Africa,False,,168,South Africa,1.411764705882353,terminal_illness,Japan_South Africa
+South Africa,Japan,768,1106,A,South Africa,True,South Africa,338,Japan,1.4401041666666667,terminal_illness,Japan_South Africa
+Japan,South Africa,1849,44,A,Japan,False,,1805,Japan,42.02272727272727,terminal_illness,Japan_South Africa
+Japan,South Africa,350,1965,B,South Africa,False,,1615,South Africa,5.614285714285714,terminal_illness,Japan_South Africa
+South Africa,Japan,960,660,A,South Africa,False,,300,South Africa,1.4545454545454546,terminal_illness,Japan_South Africa
+Japan,South Africa,1788,718,A,Japan,False,,1070,Japan,2.4902506963788302,terminal_illness,Japan_South Africa

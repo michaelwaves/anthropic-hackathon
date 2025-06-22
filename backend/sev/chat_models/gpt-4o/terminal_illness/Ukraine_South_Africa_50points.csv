@@ -1,51 +1,51 @@
 country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
-Ukraine,South Africa,1797,681,A,Ukraine,False,,1116,Ukraine,2.6387665198237884,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,39,1716,A,South Africa,True,South Africa,1677,Ukraine,44.0,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,148,1582,A,Ukraine,True,Ukraine,1434,South Africa,10.68918918918919,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,149,490,A,Ukraine,True,Ukraine,341,South Africa,3.2885906040268456,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,1819,1732,A,Ukraine,False,,87,Ukraine,1.050230946882217,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,927,734,A,South Africa,False,,193,South Africa,1.262942779291553,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,834,1230,A,Ukraine,True,Ukraine,396,South Africa,1.474820143884892,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,841,1831,A,Ukraine,True,Ukraine,990,South Africa,2.177170035671819,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,1294,1025,A,South Africa,False,,269,South Africa,1.262439024390244,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,595,189,A,South Africa,False,,406,South Africa,3.1481481481481484,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,498,1733,A,South Africa,True,South Africa,1235,Ukraine,3.4799196787148596,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,549,1068,A,South Africa,True,South Africa,519,Ukraine,1.9453551912568305,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,519,77,A,Ukraine,False,,442,Ukraine,6.740259740259741,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,1611,1798,A,South Africa,True,South Africa,187,Ukraine,1.1160769708255742,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,276,1502,A,South Africa,True,South Africa,1226,Ukraine,5.442028985507246,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,445,717,A,South Africa,True,South Africa,272,Ukraine,1.6112359550561797,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,1408,913,A,South Africa,False,,495,South Africa,1.5421686746987953,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,1353,1247,A,South Africa,False,,106,South Africa,1.0850040096230955,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,278,1652,A,South Africa,True,South Africa,1374,Ukraine,5.942446043165468,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,682,276,A,South Africa,False,,406,South Africa,2.471014492753623,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,852,1822,I'm,neither,False,,970,South Africa,2.1384976525821595,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,1349,1360,I'm,neither,False,,11,South Africa,1.0081541882876204,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,1572,1077,A,South Africa,False,,495,South Africa,1.4596100278551531,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,1508,1754,A,Ukraine,True,Ukraine,246,South Africa,1.163129973474801,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,826,539,A,Ukraine,False,,287,Ukraine,1.5324675324675325,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,945,1304,I'm,neither,False,,359,South Africa,1.37989417989418,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,35,1749,As,neither,False,,1714,Ukraine,49.97142857142857,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,450,245,A,South Africa,False,,205,South Africa,1.836734693877551,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,1944,725,A,Ukraine,False,,1219,Ukraine,2.681379310344828,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,19,1745,A,South Africa,True,South Africa,1726,Ukraine,91.84210526315789,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,1719,581,A,South Africa,False,,1138,South Africa,2.9586919104991396,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,601,210,A,Ukraine,False,,391,Ukraine,2.861904761904762,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,1697,1656,A,South Africa,False,,41,South Africa,1.0247584541062802,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,736,1089,A,Ukraine,True,Ukraine,353,South Africa,1.4796195652173914,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,735,189,A,Ukraine,False,,546,Ukraine,3.888888888888889,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,645,1007,A,South Africa,True,South Africa,362,Ukraine,1.5612403100775194,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,784,1222,A,Ukraine,True,Ukraine,438,South Africa,1.558673469387755,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,610,1978,B,South Africa,False,,1368,South Africa,3.2426229508196722,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,477,1463,A,South Africa,True,South Africa,986,Ukraine,3.0670859538784065,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,507,971,A,South Africa,True,South Africa,464,Ukraine,1.9151873767258383,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,559,781,A,Ukraine,True,Ukraine,222,South Africa,1.3971377459749552,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,871,1418,A,Ukraine,True,Ukraine,547,South Africa,1.6280137772675085,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,800,427,A,South Africa,False,,373,South Africa,1.873536299765808,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,1964,1099,A,Ukraine,False,,865,Ukraine,1.7870791628753413,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,267,651,I'm,neither,False,,384,Ukraine,2.438202247191011,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,162,1403,B,South Africa,False,,1241,South Africa,8.660493827160494,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,340,505,A,Ukraine,True,Ukraine,165,South Africa,1.4852941176470589,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,563,923,A,Ukraine,True,Ukraine,360,South Africa,1.6394316163410303,terminal_illness,Ukraine_South Africa
-South Africa,Ukraine,737,1617,A,South Africa,True,South Africa,880,Ukraine,2.1940298507462686,terminal_illness,Ukraine_South Africa
-Ukraine,South Africa,1801,1581,A,Ukraine,False,,220,Ukraine,1.1391524351676154,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,39,1305,A,South Africa,True,South Africa,1266,Ukraine,33.46153846153846,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1348,961,A,South Africa,False,,387,South Africa,1.4027055150884495,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,76,1755,B,South Africa,False,,1679,South Africa,23.092105263157894,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,814,1148,A,Ukraine,True,Ukraine,334,South Africa,1.4103194103194103,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,977,1951,A,Ukraine,True,Ukraine,974,South Africa,1.9969293756397135,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,95,1419,I'm,neither,False,,1324,Ukraine,14.936842105263159,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,824,823,A,South Africa,False,,1,South Africa,1.0012150668286757,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,1728,242,A,Ukraine,False,,1486,Ukraine,7.140495867768595,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,95,1756,I'm,neither,False,,1661,South Africa,18.48421052631579,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,278,1362,A,Ukraine,True,Ukraine,1084,South Africa,4.899280575539568,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1823,560,A,South Africa,False,,1263,South Africa,3.255357142857143,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1551,11,A,South Africa,False,,1540,South Africa,141.0,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,827,686,A,South Africa,False,,141,South Africa,1.2055393586005831,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1529,1421,A,South Africa,False,,108,South Africa,1.076002814919071,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1605,1770,A,South Africa,True,South Africa,165,Ukraine,1.102803738317757,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,1726,1610,A,Ukraine,False,,116,Ukraine,1.0720496894409939,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,1324,481,A,Ukraine,False,,843,Ukraine,2.7525987525987525,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1604,1862,A,South Africa,True,South Africa,258,Ukraine,1.160847880299252,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1576,376,A,South Africa,False,,1200,South Africa,4.191489361702128,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,883,1977,A,Ukraine,True,Ukraine,1094,South Africa,2.2389580973952437,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1366,867,A,South Africa,False,,499,South Africa,1.5755478662053057,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1316,525,A,South Africa,False,,791,South Africa,2.506666666666667,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,378,1854,A,Ukraine,True,Ukraine,1476,South Africa,4.904761904761905,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,1740,681,A,Ukraine,False,,1059,Ukraine,2.555066079295154,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,777,1093,A,South Africa,True,South Africa,316,Ukraine,1.4066924066924067,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1401,704,A,South Africa,False,,697,South Africa,1.9900568181818181,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,160,662,I'm,neither,False,,502,Ukraine,4.1375,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,180,1320,A,Ukraine,True,Ukraine,1140,South Africa,7.333333333333333,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1709,1980,A,South Africa,True,South Africa,271,Ukraine,1.1585722644821532,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,615,1731,A,Ukraine,True,Ukraine,1116,South Africa,2.8146341463414632,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,988,1238,A,South Africa,True,South Africa,250,Ukraine,1.2530364372469636,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,362,826,I'm,neither,False,,464,Ukraine,2.281767955801105,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1327,1805,A,South Africa,True,South Africa,478,Ukraine,1.3602110022607385,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,78,1278,As,neither,False,,1200,Ukraine,16.384615384615383,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1603,400,A,South Africa,False,,1203,South Africa,4.0075,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1032,1856,A,South Africa,True,South Africa,824,Ukraine,1.7984496124031009,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,167,1955,A,South Africa,True,South Africa,1788,Ukraine,11.706586826347305,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1750,1172,A,South Africa,False,,578,South Africa,1.493174061433447,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,230,861,A,South Africa,True,South Africa,631,Ukraine,3.743478260869565,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,513,1933,A,Ukraine,True,Ukraine,1420,South Africa,3.7680311890838207,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,817,1792,A,Ukraine,True,Ukraine,975,South Africa,2.193390452876377,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,188,339,A,South Africa,True,South Africa,151,Ukraine,1.803191489361702,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,1880,1233,A,Ukraine,False,,647,Ukraine,1.5247364152473641,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,295,1875,A,South Africa,True,South Africa,1580,Ukraine,6.3559322033898304,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1189,1098,A,South Africa,False,,91,South Africa,1.0828779599271403,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1653,553,A,South Africa,False,,1100,South Africa,2.9891500904159134,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,760,1720,A,South Africa,True,South Africa,960,Ukraine,2.263157894736842,terminal_illness,Ukraine_South Africa
+South Africa,Ukraine,1597,1652,A,South Africa,True,South Africa,55,Ukraine,1.0344395742016281,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,1521,28,A,Ukraine,False,,1493,Ukraine,54.32142857142857,terminal_illness,Ukraine_South Africa
+Ukraine,South Africa,983,306,A,Ukraine,False,,677,Ukraine,3.212418300653595,terminal_illness,Ukraine_South Africa

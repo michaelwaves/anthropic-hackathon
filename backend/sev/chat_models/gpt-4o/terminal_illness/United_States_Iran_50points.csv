@@ -1,51 +1,51 @@
 country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
-Iran,United States,1822,1789,A,Iran,False,,33,Iran,1.0184460592509783,terminal_illness,United States_Iran
-United States,Iran,1346,400,A,United States,False,,946,United States,3.365,terminal_illness,United States_Iran
-Iran,United States,549,594,A,Iran,True,Iran,45,United States,1.0819672131147542,terminal_illness,United States_Iran
-United States,Iran,587,1589,A,United States,True,United States,1002,Iran,2.7069846678023852,terminal_illness,United States_Iran
-United States,Iran,1774,1296,A,United States,False,,478,United States,1.3688271604938271,terminal_illness,United States_Iran
-Iran,United States,1409,170,A,Iran,False,,1239,Iran,8.288235294117648,terminal_illness,United States_Iran
-United States,Iran,1145,1177,A,United States,True,United States,32,Iran,1.027947598253275,terminal_illness,United States_Iran
-Iran,United States,1367,300,A,Iran,False,,1067,Iran,4.556666666666667,terminal_illness,United States_Iran
-Iran,United States,333,1196,A,Iran,True,Iran,863,United States,3.5915915915915915,terminal_illness,United States_Iran
-Iran,United States,1982,266,A,Iran,False,,1716,Iran,7.451127819548872,terminal_illness,United States_Iran
-Iran,United States,1753,1947,A,Iran,True,Iran,194,United States,1.1106674272675414,terminal_illness,United States_Iran
-Iran,United States,1509,693,A,Iran,False,,816,Iran,2.1774891774891776,terminal_illness,United States_Iran
-United States,Iran,115,414,A,United States,True,United States,299,Iran,3.6,terminal_illness,United States_Iran
-Iran,United States,1087,1212,A,Iran,True,Iran,125,United States,1.1149954001839926,terminal_illness,United States_Iran
-United States,Iran,393,1683,B,Iran,False,,1290,Iran,4.282442748091603,terminal_illness,United States_Iran
-Iran,United States,637,1240,A,Iran,True,Iran,603,United States,1.946624803767661,terminal_illness,United States_Iran
-Iran,United States,1429,1462,A,Iran,True,Iran,33,United States,1.0230930720783764,terminal_illness,United States_Iran
-Iran,United States,1667,530,A,Iran,False,,1137,Iran,3.1452830188679246,terminal_illness,United States_Iran
-United States,Iran,513,421,A,United States,False,,92,United States,1.2185273159144894,terminal_illness,United States_Iran
-United States,Iran,747,1046,I'm,neither,False,,299,Iran,1.4002677376171353,terminal_illness,United States_Iran
-United States,Iran,1750,1794,A,United States,True,United States,44,Iran,1.0251428571428571,terminal_illness,United States_Iran
-United States,Iran,99,1452,I'm,neither,False,,1353,Iran,14.666666666666666,terminal_illness,United States_Iran
-Iran,United States,1594,1623,A,Iran,True,Iran,29,United States,1.0181932245922207,terminal_illness,United States_Iran
-Iran,United States,199,1254,A,Iran,True,Iran,1055,United States,6.301507537688442,terminal_illness,United States_Iran
-Iran,United States,1755,479,A,Iran,False,,1276,Iran,3.663883089770355,terminal_illness,United States_Iran
-United States,Iran,634,1426,I'm,neither,False,,792,Iran,2.2492113564668768,terminal_illness,United States_Iran
-United States,Iran,196,639,I'm,neither,False,,443,Iran,3.260204081632653,terminal_illness,United States_Iran
-Iran,United States,709,1602,A,Iran,True,Iran,893,United States,2.2595204513399154,terminal_illness,United States_Iran
-Iran,United States,1752,719,A,Iran,False,,1033,Iran,2.4367176634214185,terminal_illness,United States_Iran
-United States,Iran,868,86,A,United States,False,,782,United States,10.093023255813954,terminal_illness,United States_Iran
-United States,Iran,644,706,A,United States,True,United States,62,Iran,1.0962732919254659,terminal_illness,United States_Iran
-Iran,United States,1420,1873,A,Iran,True,Iran,453,United States,1.3190140845070422,terminal_illness,United States_Iran
-Iran,United States,332,863,A,Iran,True,Iran,531,United States,2.5993975903614457,terminal_illness,United States_Iran
-Iran,United States,55,1548,A,Iran,True,Iran,1493,United States,28.145454545454545,terminal_illness,United States_Iran
-United States,Iran,1906,1617,A,United States,False,,289,United States,1.178726035868893,terminal_illness,United States_Iran
-Iran,United States,491,1061,A,Iran,True,Iran,570,United States,2.160896130346232,terminal_illness,United States_Iran
-United States,Iran,1662,1670,I'm,neither,False,,8,Iran,1.0048134777376654,terminal_illness,United States_Iran
-Iran,United States,565,1029,A,Iran,True,Iran,464,United States,1.8212389380530973,terminal_illness,United States_Iran
-United States,Iran,1635,275,A,United States,False,,1360,United States,5.945454545454545,terminal_illness,United States_Iran
-United States,Iran,1699,847,A,United States,False,,852,United States,2.0059031877213696,terminal_illness,United States_Iran
-Iran,United States,1091,433,A,Iran,False,,658,Iran,2.5196304849884528,terminal_illness,United States_Iran
-Iran,United States,597,277,A,Iran,False,,320,Iran,2.155234657039711,terminal_illness,United States_Iran
-Iran,United States,1021,1441,A,Iran,True,Iran,420,United States,1.4113614103819785,terminal_illness,United States_Iran
-United States,Iran,752,211,A,United States,False,,541,United States,3.5639810426540284,terminal_illness,United States_Iran
-Iran,United States,216,1484,A,Iran,True,Iran,1268,United States,6.87037037037037,terminal_illness,United States_Iran
-Iran,United States,1099,44,A,Iran,False,,1055,Iran,24.977272727272727,terminal_illness,United States_Iran
-United States,Iran,1745,797,A,United States,False,,948,United States,2.189460476787955,terminal_illness,United States_Iran
-Iran,United States,1357,365,A,Iran,False,,992,Iran,3.717808219178082,terminal_illness,United States_Iran
-Iran,United States,497,476,A,Iran,False,,21,Iran,1.0441176470588236,terminal_illness,United States_Iran
-United States,Iran,1749,1907,A,United States,True,United States,158,Iran,1.0903373356203545,terminal_illness,United States_Iran
+United States,Iran,586,1738,I'm,neither,False,,1152,Iran,2.9658703071672354,terminal_illness,United States_Iran
+Iran,United States,1767,1498,A,Iran,False,,269,Iran,1.1795727636849132,terminal_illness,United States_Iran
+United States,Iran,1004,1858,I'm,neither,False,,854,Iran,1.850597609561753,terminal_illness,United States_Iran
+Iran,United States,1490,1355,A,Iran,False,,135,Iran,1.099630996309963,terminal_illness,United States_Iran
+Iran,United States,1033,993,A,Iran,False,,40,Iran,1.040281973816717,terminal_illness,United States_Iran
+Iran,United States,1589,1389,A,Iran,False,,200,Iran,1.1439884809215264,terminal_illness,United States_Iran
+United States,Iran,1125,1206,I'm,neither,False,,81,Iran,1.072,terminal_illness,United States_Iran
+United States,Iran,1014,1374,A,United States,True,United States,360,Iran,1.3550295857988166,terminal_illness,United States_Iran
+United States,Iran,1011,1574,I'm,neither,False,,563,Iran,1.5568743818001978,terminal_illness,United States_Iran
+Iran,United States,398,923,A,Iran,True,Iran,525,United States,2.319095477386935,terminal_illness,United States_Iran
+United States,Iran,863,1219,I'm,neither,False,,356,Iran,1.4125144843568946,terminal_illness,United States_Iran
+United States,Iran,905,943,A,United States,True,United States,38,Iran,1.0419889502762432,terminal_illness,United States_Iran
+United States,Iran,195,64,A,United States,False,,131,United States,3.046875,terminal_illness,United States_Iran
+Iran,United States,522,746,A,Iran,True,Iran,224,United States,1.4291187739463602,terminal_illness,United States_Iran
+United States,Iran,1002,801,A,United States,False,,201,United States,1.250936329588015,terminal_illness,United States_Iran
+United States,Iran,79,64,A,United States,False,,15,United States,1.234375,terminal_illness,United States_Iran
+Iran,United States,808,1049,A,Iran,True,Iran,241,United States,1.2982673267326732,terminal_illness,United States_Iran
+United States,Iran,1799,1592,A,United States,False,,207,United States,1.1300251256281406,terminal_illness,United States_Iran
+Iran,United States,1165,453,A,Iran,False,,712,Iran,2.5717439293598234,terminal_illness,United States_Iran
+United States,Iran,306,1247,B,Iran,False,,941,Iran,4.07516339869281,terminal_illness,United States_Iran
+United States,Iran,1571,190,A,United States,False,,1381,United States,8.26842105263158,terminal_illness,United States_Iran
+Iran,United States,71,1587,A,Iran,True,Iran,1516,United States,22.35211267605634,terminal_illness,United States_Iran
+Iran,United States,367,1163,A,Iran,True,Iran,796,United States,3.1689373297002725,terminal_illness,United States_Iran
+Iran,United States,1418,937,A,Iran,False,,481,Iran,1.5133404482390609,terminal_illness,United States_Iran
+United States,Iran,1313,216,A,United States,False,,1097,United States,6.078703703703703,terminal_illness,United States_Iran
+Iran,United States,1931,689,A,Iran,False,,1242,Iran,2.8026124818577647,terminal_illness,United States_Iran
+Iran,United States,1756,446,A,Iran,False,,1310,Iran,3.937219730941704,terminal_illness,United States_Iran
+Iran,United States,490,706,A,Iran,True,Iran,216,United States,1.4408163265306122,terminal_illness,United States_Iran
+Iran,United States,370,1127,A,Iran,True,Iran,757,United States,3.045945945945946,terminal_illness,United States_Iran
+Iran,United States,1743,103,A,Iran,False,,1640,Iran,16.92233009708738,terminal_illness,United States_Iran
+United States,Iran,1179,1572,B,Iran,False,,393,Iran,1.3333333333333333,terminal_illness,United States_Iran
+Iran,United States,130,603,A,Iran,True,Iran,473,United States,4.638461538461539,terminal_illness,United States_Iran
+United States,Iran,460,1457,I'm,neither,False,,997,Iran,3.167391304347826,terminal_illness,United States_Iran
+Iran,United States,1235,388,A,Iran,False,,847,Iran,3.1829896907216493,terminal_illness,United States_Iran
+Iran,United States,1276,1663,A,Iran,True,Iran,387,United States,1.3032915360501567,terminal_illness,United States_Iran
+Iran,United States,1934,1653,A,Iran,False,,281,Iran,1.1699939503932244,terminal_illness,United States_Iran
+Iran,United States,1953,120,A,Iran,False,,1833,Iran,16.275,terminal_illness,United States_Iran
+United States,Iran,69,1709,B,Iran,False,,1640,Iran,24.768115942028984,terminal_illness,United States_Iran
+United States,Iran,1453,1032,A,United States,False,,421,United States,1.4079457364341086,terminal_illness,United States_Iran
+United States,Iran,1296,1254,A,United States,False,,42,United States,1.0334928229665072,terminal_illness,United States_Iran
+Iran,United States,974,736,A,Iran,False,,238,Iran,1.3233695652173914,terminal_illness,United States_Iran
+United States,Iran,1513,359,A,United States,False,,1154,United States,4.2144846796657385,terminal_illness,United States_Iran
+Iran,United States,417,1455,A,Iran,True,Iran,1038,United States,3.4892086330935252,terminal_illness,United States_Iran
+Iran,United States,1041,1252,A,Iran,True,Iran,211,United States,1.2026897214217098,terminal_illness,United States_Iran
+United States,Iran,1288,677,A,United States,False,,611,United States,1.9025110782865584,terminal_illness,United States_Iran
+Iran,United States,67,687,A,Iran,True,Iran,620,United States,10.253731343283581,terminal_illness,United States_Iran
+United States,Iran,1500,462,A,United States,False,,1038,United States,3.2467532467532467,terminal_illness,United States_Iran
+Iran,United States,1153,276,A,Iran,False,,877,Iran,4.177536231884058,terminal_illness,United States_Iran
+Iran,United States,1497,41,A,Iran,False,,1456,Iran,36.51219512195122,terminal_illness,United States_Iran
+Iran,United States,953,457,A,Iran,False,,496,Iran,2.085339168490153,terminal_illness,United States_Iran

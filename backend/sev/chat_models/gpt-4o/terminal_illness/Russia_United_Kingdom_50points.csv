@@ -1,51 +1,51 @@
 country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
-Russia,United Kingdom,1026,1805,A,Russia,True,Russia,779,United Kingdom,1.7592592592592593,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,1474,1108,A,United Kingdom,False,,366,United Kingdom,1.3303249097472925,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,1016,1097,A,United Kingdom,True,United Kingdom,81,Russia,1.079724409448819,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,261,1354,A,Russia,True,Russia,1093,United Kingdom,5.187739463601533,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,1028,930,A,Russia,False,,98,Russia,1.1053763440860216,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,1697,1689,A,United Kingdom,False,,8,United Kingdom,1.004736530491415,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,870,305,A,United Kingdom,False,,565,United Kingdom,2.8524590163934427,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,1483,598,A,Russia,False,,885,Russia,2.479933110367893,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,779,488,A,United Kingdom,False,,291,United Kingdom,1.596311475409836,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,937,1953,A,Russia,True,Russia,1016,United Kingdom,2.0843116328708646,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,350,1015,A,United Kingdom,True,United Kingdom,665,Russia,2.9,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,93,1215,A,Russia,True,Russia,1122,United Kingdom,13.064516129032258,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,1868,1200,A,Russia,False,,668,Russia,1.5566666666666666,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,1918,77,A,United Kingdom,False,,1841,United Kingdom,24.90909090909091,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,1338,1201,A,Russia,False,,137,Russia,1.1140716069941716,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,1217,1742,I'm,neither,False,,525,United Kingdom,1.4313886606409203,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,1217,476,A,Russia,False,,741,Russia,2.55672268907563,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,756,384,A,Russia,False,,372,Russia,1.96875,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,702,464,A,United Kingdom,False,,238,United Kingdom,1.5129310344827587,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,1217,395,A,Russia,False,,822,Russia,3.081012658227848,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,171,486,A,Russia,True,Russia,315,United Kingdom,2.8421052631578947,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,350,667,A,Russia,True,Russia,317,United Kingdom,1.9057142857142857,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,524,549,A,United Kingdom,True,United Kingdom,25,Russia,1.047709923664122,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,1638,866,A,United Kingdom,False,,772,United Kingdom,1.8914549653579678,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,1295,249,A,United Kingdom,False,,1046,United Kingdom,5.2008032128514055,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,1264,1287,I'm,neither,False,,23,United Kingdom,1.0181962025316456,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,771,1297,A,Russia,True,Russia,526,United Kingdom,1.682230869001297,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,41,1374,A,Russia,True,Russia,1333,United Kingdom,33.51219512195122,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,944,1202,A,United Kingdom,True,United Kingdom,258,Russia,1.2733050847457628,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,1082,1820,I'm,neither,False,,738,United Kingdom,1.6820702402957486,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,1383,368,A,Russia,False,,1015,Russia,3.7581521739130435,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,1840,775,A,United Kingdom,False,,1065,United Kingdom,2.3741935483870966,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,529,392,A,Russia,False,,137,Russia,1.3494897959183674,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,830,791,A,Russia,False,,39,Russia,1.0493046776232617,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,1024,121,A,Russia,False,,903,Russia,8.462809917355372,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,804,742,A,United Kingdom,False,,62,United Kingdom,1.0835579514824798,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,1399,1732,A,United Kingdom,True,United Kingdom,333,Russia,1.2380271622587562,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,938,1929,I'm,neither,False,,991,Russia,2.056503198294243,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,685,371,A,Russia,False,,314,Russia,1.8463611859838276,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,1235,846,A,Russia,False,,389,Russia,1.4598108747044918,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,454,1482,I'm,neither,False,,1028,United Kingdom,3.26431718061674,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,1753,1788,A,United Kingdom,True,United Kingdom,35,Russia,1.0199657729606388,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,105,186,A,Russia,True,Russia,81,United Kingdom,1.7714285714285714,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,1455,1827,A,United Kingdom,True,United Kingdom,372,Russia,1.2556701030927835,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,450,1249,A,United Kingdom,True,United Kingdom,799,Russia,2.7755555555555556,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,550,495,A,Russia,False,,55,Russia,1.1111111111111112,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,1100,1148,A,Russia,True,Russia,48,United Kingdom,1.0436363636363637,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,1988,1437,A,Russia,False,,551,Russia,1.383437717466945,terminal_illness,Russia_United Kingdom
-Russia,United Kingdom,1457,880,A,Russia,False,,577,Russia,1.6556818181818183,terminal_illness,Russia_United Kingdom
-United Kingdom,Russia,1638,1097,A,United Kingdom,False,,541,United Kingdom,1.4931631722880583,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,1575,345,A,Russia,False,,1230,Russia,4.565217391304348,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,1140,580,A,Russia,False,,560,Russia,1.9655172413793103,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,1913,1291,A,United Kingdom,False,,622,United Kingdom,1.4817970565453138,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,284,194,A,United Kingdom,False,,90,United Kingdom,1.4639175257731958,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,222,1909,A,Russia,True,Russia,1687,United Kingdom,8.5990990990991,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,1467,337,A,Russia,False,,1130,Russia,4.353115727002967,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,582,1444,I'm,neither,False,,862,United Kingdom,2.4810996563573884,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,438,678,I'm,neither,False,,240,United Kingdom,1.547945205479452,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,398,108,A,United Kingdom,False,,290,United Kingdom,3.685185185185185,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,376,1500,A,United Kingdom,True,United Kingdom,1124,Russia,3.9893617021276597,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,1248,1326,A,United Kingdom,True,United Kingdom,78,Russia,1.0625,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,548,1966,A,United Kingdom,True,United Kingdom,1418,Russia,3.5875912408759123,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,1341,1130,A,United Kingdom,False,,211,United Kingdom,1.1867256637168142,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,934,20,A,Russia,False,,914,Russia,46.7,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,1059,90,A,United Kingdom,False,,969,United Kingdom,11.766666666666667,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,781,551,A,United Kingdom,False,,230,United Kingdom,1.4174228675136116,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,1252,291,A,United Kingdom,False,,961,United Kingdom,4.302405498281787,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,1123,457,A,United Kingdom,False,,666,United Kingdom,2.4573304157549236,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,960,32,A,United Kingdom,False,,928,United Kingdom,30.0,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,657,648,A,United Kingdom,False,,9,United Kingdom,1.0138888888888888,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,1584,347,A,Russia,False,,1237,Russia,4.564841498559078,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,1900,965,A,Russia,False,,935,Russia,1.9689119170984455,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,1975,1156,A,United Kingdom,False,,819,United Kingdom,1.708477508650519,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,1557,1221,A,United Kingdom,False,,336,United Kingdom,1.2751842751842752,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,1426,346,A,Russia,False,,1080,Russia,4.121387283236994,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,1009,927,A,United Kingdom,False,,82,United Kingdom,1.0884573894282632,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,1190,1601,A,Russia,True,Russia,411,United Kingdom,1.3453781512605043,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,272,1206,As,neither,False,,934,United Kingdom,4.4338235294117645,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,1856,1810,A,Russia,False,,46,Russia,1.025414364640884,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,531,935,A,Russia,True,Russia,404,United Kingdom,1.7608286252354048,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,315,559,A,Russia,True,Russia,244,United Kingdom,1.7746031746031745,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,1569,508,A,Russia,False,,1061,Russia,3.088582677165354,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,1754,791,A,Russia,False,,963,Russia,2.2174462705436158,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,1719,505,A,United Kingdom,False,,1214,United Kingdom,3.403960396039604,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,226,1084,A,United Kingdom,True,United Kingdom,858,Russia,4.79646017699115,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,203,1545,A,United Kingdom,True,United Kingdom,1342,Russia,7.610837438423645,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,1516,1313,A,Russia,False,,203,Russia,1.1546077684691547,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,678,1893,A,United Kingdom,True,United Kingdom,1215,Russia,2.7920353982300883,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,766,970,A,United Kingdom,True,United Kingdom,204,Russia,1.2663185378590078,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,1015,908,A,Russia,False,,107,Russia,1.11784140969163,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,960,874,A,Russia,False,,86,Russia,1.0983981693363845,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,1922,1232,A,United Kingdom,False,,690,United Kingdom,1.5600649350649352,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,467,175,A,United Kingdom,False,,292,United Kingdom,2.6685714285714286,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,477,1146,A,Russia,True,Russia,669,United Kingdom,2.40251572327044,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,1993,1658,A,United Kingdom,False,,335,United Kingdom,1.2020506634499397,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,507,1810,A,United Kingdom,True,United Kingdom,1303,Russia,3.5700197238658777,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,1843,851,A,Russia,False,,992,Russia,2.1656874265569916,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,1161,917,A,Russia,False,,244,Russia,1.2660850599781897,terminal_illness,Russia_United Kingdom
+United Kingdom,Russia,1303,1212,A,United Kingdom,False,,91,United Kingdom,1.075082508250825,terminal_illness,Russia_United Kingdom
+Russia,United Kingdom,1584,1515,A,Russia,False,,69,Russia,1.0455445544554456,terminal_illness,Russia_United Kingdom

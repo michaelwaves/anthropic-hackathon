@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+Kenya,South Africa,1068,1404,B,South Africa,False,,336,South Africa,1.3146067415730338,terminal_illness,Kenya_South Africa
+Kenya,South Africa,496,1501,B,South Africa,False,,1005,South Africa,3.026209677419355,terminal_illness,Kenya_South Africa
+Kenya,South Africa,1996,1171,A,Kenya,False,,825,Kenya,1.704526046114432,terminal_illness,Kenya_South Africa
+Kenya,South Africa,1106,1985,B,South Africa,False,,879,South Africa,1.7947558770343581,terminal_illness,Kenya_South Africa
+Kenya,South Africa,500,1350,B,South Africa,False,,850,South Africa,2.7,terminal_illness,Kenya_South Africa
+Kenya,South Africa,1653,109,A,Kenya,False,,1544,Kenya,15.1651376146789,terminal_illness,Kenya_South Africa
+Kenya,South Africa,991,1068,B,South Africa,False,,77,South Africa,1.0776992936427852,terminal_illness,Kenya_South Africa
+South Africa,Kenya,1903,225,I,neither,False,,1678,South Africa,8.457777777777778,terminal_illness,Kenya_South Africa
+Kenya,South Africa,1203,38,A,Kenya,False,,1165,Kenya,31.657894736842106,terminal_illness,Kenya_South Africa
+South Africa,Kenya,9,1238,B,Kenya,False,,1229,Kenya,137.55555555555554,terminal_illness,Kenya_South Africa
+South Africa,Kenya,1376,1401,B,Kenya,False,,25,Kenya,1.0181686046511629,terminal_illness,Kenya_South Africa
+South Africa,Kenya,976,445,I,neither,False,,531,South Africa,2.1932584269662923,terminal_illness,Kenya_South Africa
+Kenya,South Africa,1696,392,A,Kenya,False,,1304,Kenya,4.326530612244898,terminal_illness,Kenya_South Africa
+South Africa,Kenya,1127,843,I,neither,False,,284,South Africa,1.3368920521945433,terminal_illness,Kenya_South Africa
+South Africa,Kenya,1883,781,I,neither,False,,1102,South Africa,2.41101152368758,terminal_illness,Kenya_South Africa
+Kenya,South Africa,448,1324,B,South Africa,False,,876,South Africa,2.955357142857143,terminal_illness,Kenya_South Africa
+South Africa,Kenya,220,900,B,Kenya,False,,680,Kenya,4.090909090909091,terminal_illness,Kenya_South Africa
+Kenya,South Africa,1131,857,A,Kenya,False,,274,Kenya,1.3197199533255544,terminal_illness,Kenya_South Africa
+South Africa,Kenya,462,1175,B,Kenya,False,,713,Kenya,2.5432900432900434,terminal_illness,Kenya_South Africa
+South Africa,Kenya,592,1526,B,Kenya,False,,934,Kenya,2.5777027027027026,terminal_illness,Kenya_South Africa
+South Africa,Kenya,837,1227,B,Kenya,False,,390,Kenya,1.4659498207885304,terminal_illness,Kenya_South Africa
+Kenya,South Africa,610,1397,B,South Africa,False,,787,South Africa,2.2901639344262295,terminal_illness,Kenya_South Africa
+Kenya,South Africa,140,1554,B,South Africa,False,,1414,South Africa,11.1,terminal_illness,Kenya_South Africa
+Kenya,South Africa,435,23,A,Kenya,False,,412,Kenya,18.91304347826087,terminal_illness,Kenya_South Africa
+South Africa,Kenya,37,541,B,Kenya,False,,504,Kenya,14.621621621621621,terminal_illness,Kenya_South Africa
+South Africa,Kenya,1081,601,A,South Africa,False,,480,South Africa,1.7986688851913477,terminal_illness,Kenya_South Africa
+South Africa,Kenya,1253,1895,B,Kenya,False,,642,Kenya,1.512370311252993,terminal_illness,Kenya_South Africa
+Kenya,South Africa,1406,1008,A,Kenya,False,,398,Kenya,1.3948412698412698,terminal_illness,Kenya_South Africa
+Kenya,South Africa,1854,1517,A,Kenya,False,,337,Kenya,1.2221489782465391,terminal_illness,Kenya_South Africa
+Kenya,South Africa,846,1594,B,South Africa,False,,748,South Africa,1.884160756501182,terminal_illness,Kenya_South Africa
+South Africa,Kenya,1809,387,A,South Africa,False,,1422,South Africa,4.674418604651163,terminal_illness,Kenya_South Africa
+South Africa,Kenya,628,1390,B,Kenya,False,,762,Kenya,2.213375796178344,terminal_illness,Kenya_South Africa
+Kenya,South Africa,1963,469,A,Kenya,False,,1494,Kenya,4.185501066098081,terminal_illness,Kenya_South Africa
+South Africa,Kenya,874,1941,B,Kenya,False,,1067,Kenya,2.220823798627002,terminal_illness,Kenya_South Africa
+South Africa,Kenya,1183,1682,B,Kenya,False,,499,Kenya,1.4218089602704986,terminal_illness,Kenya_South Africa
+South Africa,Kenya,852,636,I,neither,False,,216,South Africa,1.3396226415094339,terminal_illness,Kenya_South Africa
+Kenya,South Africa,1221,1599,B,South Africa,False,,378,South Africa,1.3095823095823096,terminal_illness,Kenya_South Africa
+South Africa,Kenya,1298,570,A,South Africa,False,,728,South Africa,2.2771929824561403,terminal_illness,Kenya_South Africa
+Kenya,South Africa,808,933,B,South Africa,False,,125,South Africa,1.1547029702970297,terminal_illness,Kenya_South Africa
+Kenya,South Africa,1916,96,A,Kenya,False,,1820,Kenya,19.958333333333332,terminal_illness,Kenya_South Africa
+Kenya,South Africa,14,922,B,South Africa,False,,908,South Africa,65.85714285714286,terminal_illness,Kenya_South Africa
+Kenya,South Africa,1581,375,A,Kenya,False,,1206,Kenya,4.216,terminal_illness,Kenya_South Africa
+South Africa,Kenya,1106,664,I,neither,False,,442,South Africa,1.6656626506024097,terminal_illness,Kenya_South Africa
+South Africa,Kenya,440,1449,B,Kenya,False,,1009,Kenya,3.293181818181818,terminal_illness,Kenya_South Africa
+South Africa,Kenya,359,1127,B,Kenya,False,,768,Kenya,3.139275766016713,terminal_illness,Kenya_South Africa
+South Africa,Kenya,1538,326,I,neither,False,,1212,South Africa,4.717791411042945,terminal_illness,Kenya_South Africa
+South Africa,Kenya,469,554,B,Kenya,False,,85,Kenya,1.1812366737739872,terminal_illness,Kenya_South Africa
+South Africa,Kenya,5,1751,B,Kenya,False,,1746,Kenya,350.2,terminal_illness,Kenya_South Africa
+South Africa,Kenya,707,1307,B,Kenya,False,,600,Kenya,1.8486562942008486,terminal_illness,Kenya_South Africa
+Kenya,South Africa,106,401,B,South Africa,False,,295,South Africa,3.7830188679245285,terminal_illness,Kenya_South Africa

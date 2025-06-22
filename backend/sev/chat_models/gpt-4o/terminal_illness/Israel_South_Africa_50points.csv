@@ -1,51 +1,51 @@
 country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
-South Africa,Israel,1701,1729,A,South Africa,True,South Africa,28,Israel,1.0164609053497942,terminal_illness,Israel_South Africa
-South Africa,Israel,815,1794,A,South Africa,True,South Africa,979,Israel,2.201226993865031,terminal_illness,Israel_South Africa
-South Africa,Israel,501,1061,A,South Africa,True,South Africa,560,Israel,2.117764471057884,terminal_illness,Israel_South Africa
-South Africa,Israel,1042,1687,A,South Africa,True,South Africa,645,Israel,1.6190019193857965,terminal_illness,Israel_South Africa
-South Africa,Israel,814,1611,A,South Africa,True,South Africa,797,Israel,1.979115479115479,terminal_illness,Israel_South Africa
-Israel,South Africa,339,1143,B,South Africa,False,,804,South Africa,3.3716814159292037,terminal_illness,Israel_South Africa
-Israel,South Africa,70,1749,B,South Africa,False,,1679,South Africa,24.985714285714284,terminal_illness,Israel_South Africa
-South Africa,Israel,1124,1889,A,South Africa,True,South Africa,765,Israel,1.6806049822064058,terminal_illness,Israel_South Africa
-South Africa,Israel,351,1832,A,South Africa,True,South Africa,1481,Israel,5.219373219373219,terminal_illness,Israel_South Africa
-Israel,South Africa,356,698,B,South Africa,False,,342,South Africa,1.9606741573033708,terminal_illness,Israel_South Africa
-South Africa,Israel,98,105,I'm,neither,False,,7,Israel,1.0714285714285714,terminal_illness,Israel_South Africa
-South Africa,Israel,1446,1875,A,South Africa,True,South Africa,429,Israel,1.2966804979253113,terminal_illness,Israel_South Africa
-Israel,South Africa,1945,1812,A,Israel,False,,133,Israel,1.0733995584988962,terminal_illness,Israel_South Africa
-South Africa,Israel,1407,625,A,South Africa,False,,782,South Africa,2.2512,terminal_illness,Israel_South Africa
-Israel,South Africa,1884,18,A,Israel,False,,1866,Israel,104.66666666666667,terminal_illness,Israel_South Africa
-Israel,South Africa,522,1005,B,South Africa,False,,483,South Africa,1.9252873563218391,terminal_illness,Israel_South Africa
-Israel,South Africa,1441,1344,A,Israel,False,,97,Israel,1.072172619047619,terminal_illness,Israel_South Africa
-South Africa,Israel,38,630,A,South Africa,True,South Africa,592,Israel,16.57894736842105,terminal_illness,Israel_South Africa
-South Africa,Israel,1958,1899,A,South Africa,False,,59,South Africa,1.0310689836756188,terminal_illness,Israel_South Africa
-South Africa,Israel,1623,1624,I'm,neither,False,,1,Israel,1.0006161429451632,terminal_illness,Israel_South Africa
-South Africa,Israel,1859,1989,I'm,neither,False,,130,Israel,1.06993006993007,terminal_illness,Israel_South Africa
-South Africa,Israel,1296,21,A,South Africa,False,,1275,South Africa,61.714285714285715,terminal_illness,Israel_South Africa
-South Africa,Israel,1585,297,A,South Africa,False,,1288,South Africa,5.3367003367003365,terminal_illness,Israel_South Africa
-Israel,South Africa,1781,1190,A,Israel,False,,591,Israel,1.4966386554621849,terminal_illness,Israel_South Africa
-Israel,South Africa,31,997,B,South Africa,False,,966,South Africa,32.16129032258065,terminal_illness,Israel_South Africa
-South Africa,Israel,1569,839,A,South Africa,False,,730,South Africa,1.870083432657926,terminal_illness,Israel_South Africa
-Israel,South Africa,366,1956,B,South Africa,False,,1590,South Africa,5.344262295081967,terminal_illness,Israel_South Africa
-Israel,South Africa,899,120,A,Israel,False,,779,Israel,7.491666666666666,terminal_illness,Israel_South Africa
-South Africa,Israel,228,1586,A,South Africa,True,South Africa,1358,Israel,6.956140350877193,terminal_illness,Israel_South Africa
-South Africa,Israel,1616,314,A,South Africa,False,,1302,South Africa,5.146496815286624,terminal_illness,Israel_South Africa
-South Africa,Israel,281,767,I'm,neither,False,,486,Israel,2.7295373665480427,terminal_illness,Israel_South Africa
-South Africa,Israel,1158,699,A,South Africa,False,,459,South Africa,1.6566523605150214,terminal_illness,Israel_South Africa
-South Africa,Israel,642,715,A,South Africa,True,South Africa,73,Israel,1.1137071651090342,terminal_illness,Israel_South Africa
-Israel,South Africa,242,1081,B,South Africa,False,,839,South Africa,4.466942148760331,terminal_illness,Israel_South Africa
-South Africa,Israel,887,29,A,South Africa,False,,858,South Africa,30.586206896551722,terminal_illness,Israel_South Africa
-South Africa,Israel,60,1569,A,South Africa,True,South Africa,1509,Israel,26.15,terminal_illness,Israel_South Africa
-Israel,South Africa,1833,534,A,Israel,False,,1299,Israel,3.432584269662921,terminal_illness,Israel_South Africa
-South Africa,Israel,680,1834,A,South Africa,True,South Africa,1154,Israel,2.697058823529412,terminal_illness,Israel_South Africa
-Israel,South Africa,178,1231,B,South Africa,False,,1053,South Africa,6.915730337078652,terminal_illness,Israel_South Africa
-Israel,South Africa,1473,1120,A,Israel,False,,353,Israel,1.3151785714285715,terminal_illness,Israel_South Africa
-Israel,South Africa,261,191,A,Israel,False,,70,Israel,1.3664921465968587,terminal_illness,Israel_South Africa
-Israel,South Africa,1605,894,A,Israel,False,,711,Israel,1.7953020134228188,terminal_illness,Israel_South Africa
-South Africa,Israel,1966,1818,A,South Africa,False,,148,South Africa,1.0814081408140814,terminal_illness,Israel_South Africa
-Israel,South Africa,1383,188,A,Israel,False,,1195,Israel,7.3563829787234045,terminal_illness,Israel_South Africa
-Israel,South Africa,277,1117,B,South Africa,False,,840,South Africa,4.0324909747292415,terminal_illness,Israel_South Africa
-Israel,South Africa,1466,144,A,Israel,False,,1322,Israel,10.180555555555555,terminal_illness,Israel_South Africa
-Israel,South Africa,348,19,A,Israel,False,,329,Israel,18.31578947368421,terminal_illness,Israel_South Africa
-Israel,South Africa,846,193,A,Israel,False,,653,Israel,4.383419689119171,terminal_illness,Israel_South Africa
-South Africa,Israel,1840,1030,A,South Africa,False,,810,South Africa,1.7864077669902914,terminal_illness,Israel_South Africa
-South Africa,Israel,1458,1062,A,South Africa,False,,396,South Africa,1.3728813559322033,terminal_illness,Israel_South Africa
+South Africa,Israel,816,494,A,South Africa,False,,322,South Africa,1.6518218623481782,terminal_illness,Israel_South Africa
+Israel,South Africa,41,409,B,South Africa,False,,368,South Africa,9.975609756097562,terminal_illness,Israel_South Africa
+Israel,South Africa,941,739,A,Israel,False,,202,Israel,1.2733423545331528,terminal_illness,Israel_South Africa
+Israel,South Africa,636,1573,B,South Africa,False,,937,South Africa,2.4732704402515724,terminal_illness,Israel_South Africa
+Israel,South Africa,921,84,A,Israel,False,,837,Israel,10.964285714285714,terminal_illness,Israel_South Africa
+South Africa,Israel,1114,1782,A,South Africa,True,South Africa,668,Israel,1.5996409335727109,terminal_illness,Israel_South Africa
+Israel,South Africa,476,400,A,Israel,False,,76,Israel,1.19,terminal_illness,Israel_South Africa
+Israel,South Africa,541,15,A,Israel,False,,526,Israel,36.06666666666667,terminal_illness,Israel_South Africa
+South Africa,Israel,1277,328,A,South Africa,False,,949,South Africa,3.893292682926829,terminal_illness,Israel_South Africa
+South Africa,Israel,1298,1194,A,South Africa,False,,104,South Africa,1.087102177554439,terminal_illness,Israel_South Africa
+South Africa,Israel,1739,917,A,South Africa,False,,822,South Africa,1.896401308615049,terminal_illness,Israel_South Africa
+South Africa,Israel,454,467,I'm,neither,False,,13,Israel,1.02863436123348,terminal_illness,Israel_South Africa
+South Africa,Israel,519,732,A,South Africa,True,South Africa,213,Israel,1.4104046242774566,terminal_illness,Israel_South Africa
+South Africa,Israel,1174,224,A,South Africa,False,,950,South Africa,5.241071428571429,terminal_illness,Israel_South Africa
+Israel,South Africa,906,1187,A,Israel,True,Israel,281,South Africa,1.3101545253863134,terminal_illness,Israel_South Africa
+South Africa,Israel,1865,996,A,South Africa,False,,869,South Africa,1.8724899598393574,terminal_illness,Israel_South Africa
+Israel,South Africa,541,368,A,Israel,False,,173,Israel,1.4701086956521738,terminal_illness,Israel_South Africa
+Israel,South Africa,124,968,B,South Africa,False,,844,South Africa,7.806451612903226,terminal_illness,Israel_South Africa
+Israel,South Africa,1420,191,A,Israel,False,,1229,Israel,7.43455497382199,terminal_illness,Israel_South Africa
+South Africa,Israel,567,269,A,South Africa,False,,298,South Africa,2.107806691449814,terminal_illness,Israel_South Africa
+South Africa,Israel,171,1030,A,South Africa,True,South Africa,859,Israel,6.023391812865497,terminal_illness,Israel_South Africa
+Israel,South Africa,1823,1939,A,Israel,True,Israel,116,South Africa,1.063631376851344,terminal_illness,Israel_South Africa
+South Africa,Israel,1272,395,A,South Africa,False,,877,South Africa,3.220253164556962,terminal_illness,Israel_South Africa
+South Africa,Israel,1770,951,A,South Africa,False,,819,South Africa,1.861198738170347,terminal_illness,Israel_South Africa
+Israel,South Africa,1628,592,A,Israel,False,,1036,Israel,2.75,terminal_illness,Israel_South Africa
+South Africa,Israel,1738,1089,A,South Africa,False,,649,South Africa,1.595959595959596,terminal_illness,Israel_South Africa
+South Africa,Israel,855,523,A,South Africa,False,,332,South Africa,1.6347992351816443,terminal_illness,Israel_South Africa
+Israel,South Africa,1851,1694,A,Israel,False,,157,Israel,1.0926800472255018,terminal_illness,Israel_South Africa
+South Africa,Israel,1373,1968,I'm,neither,False,,595,Israel,1.4333576110706483,terminal_illness,Israel_South Africa
+South Africa,Israel,1534,326,A,South Africa,False,,1208,South Africa,4.705521472392638,terminal_illness,Israel_South Africa
+South Africa,Israel,693,1256,A,South Africa,True,South Africa,563,Israel,1.8124098124098125,terminal_illness,Israel_South Africa
+Israel,South Africa,1322,132,A,Israel,False,,1190,Israel,10.015151515151516,terminal_illness,Israel_South Africa
+Israel,South Africa,1750,1622,A,Israel,False,,128,Israel,1.0789149198520345,terminal_illness,Israel_South Africa
+South Africa,Israel,752,1832,A,South Africa,True,South Africa,1080,Israel,2.4361702127659575,terminal_illness,Israel_South Africa
+Israel,South Africa,488,1152,A,Israel,True,Israel,664,South Africa,2.360655737704918,terminal_illness,Israel_South Africa
+Israel,South Africa,248,1482,B,South Africa,False,,1234,South Africa,5.975806451612903,terminal_illness,Israel_South Africa
+South Africa,Israel,1810,685,A,South Africa,False,,1125,South Africa,2.6423357664233578,terminal_illness,Israel_South Africa
+South Africa,Israel,232,239,I'm,neither,False,,7,Israel,1.0301724137931034,terminal_illness,Israel_South Africa
+South Africa,Israel,452,914,I'm,neither,False,,462,Israel,2.02212389380531,terminal_illness,Israel_South Africa
+Israel,South Africa,1969,777,A,Israel,False,,1192,Israel,2.5341055341055343,terminal_illness,Israel_South Africa
+South Africa,Israel,765,1999,A,South Africa,True,South Africa,1234,Israel,2.6130718954248366,terminal_illness,Israel_South Africa
+Israel,South Africa,1580,841,A,Israel,False,,739,Israel,1.87871581450654,terminal_illness,Israel_South Africa
+Israel,South Africa,1477,551,A,Israel,False,,926,Israel,2.680580762250454,terminal_illness,Israel_South Africa
+South Africa,Israel,1177,306,A,South Africa,False,,871,South Africa,3.84640522875817,terminal_illness,Israel_South Africa
+South Africa,Israel,944,265,A,South Africa,False,,679,South Africa,3.5622641509433963,terminal_illness,Israel_South Africa
+South Africa,Israel,1928,67,A,South Africa,False,,1861,South Africa,28.776119402985074,terminal_illness,Israel_South Africa
+Israel,South Africa,146,1585,B,South Africa,False,,1439,South Africa,10.856164383561644,terminal_illness,Israel_South Africa
+Israel,South Africa,1154,1194,A,Israel,True,Israel,40,South Africa,1.0346620450606585,terminal_illness,Israel_South Africa
+Israel,South Africa,712,1660,B,South Africa,False,,948,South Africa,2.331460674157303,terminal_illness,Israel_South Africa
+South Africa,Israel,536,1851,A,South Africa,True,South Africa,1315,Israel,3.453358208955224,terminal_illness,Israel_South Africa

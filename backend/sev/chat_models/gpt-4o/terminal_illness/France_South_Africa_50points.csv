@@ -1,51 +1,51 @@
 country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
-South Africa,France,1238,831,A,South Africa,False,,407,South Africa,1.489771359807461,terminal_illness,France_South Africa
-South Africa,France,545,635,A,South Africa,True,South Africa,90,France,1.165137614678899,terminal_illness,France_South Africa
-France,South Africa,1116,1621,A,France,True,France,505,South Africa,1.4525089605734767,terminal_illness,France_South Africa
-France,South Africa,1581,494,A,France,False,,1087,France,3.200404858299595,terminal_illness,France_South Africa
-South Africa,France,677,1568,A,South Africa,True,South Africa,891,France,2.3161004431314622,terminal_illness,France_South Africa
-France,South Africa,1922,227,A,France,False,,1695,France,8.466960352422907,terminal_illness,France_South Africa
-South Africa,France,293,1472,A,South Africa,True,South Africa,1179,France,5.023890784982935,terminal_illness,France_South Africa
-France,South Africa,2,1913,B,South Africa,False,,1911,South Africa,956.5,terminal_illness,France_South Africa
-France,South Africa,453,1746,B,South Africa,False,,1293,South Africa,3.8543046357615895,terminal_illness,France_South Africa
-South Africa,France,1481,334,A,South Africa,False,,1147,South Africa,4.434131736526946,terminal_illness,France_South Africa
-France,South Africa,993,652,A,France,False,,341,France,1.5230061349693251,terminal_illness,France_South Africa
-South Africa,France,210,974,A,South Africa,True,South Africa,764,France,4.6380952380952385,terminal_illness,France_South Africa
-South Africa,France,1320,413,A,South Africa,False,,907,South Africa,3.196125907990315,terminal_illness,France_South Africa
-France,South Africa,1808,1745,A,France,False,,63,France,1.0361031518624642,terminal_illness,France_South Africa
-France,South Africa,436,1257,B,South Africa,False,,821,South Africa,2.88302752293578,terminal_illness,France_South Africa
-France,South Africa,1058,1034,A,France,False,,24,France,1.02321083172147,terminal_illness,France_South Africa
-France,South Africa,647,799,B,South Africa,False,,152,South Africa,1.2349304482225656,terminal_illness,France_South Africa
-South Africa,France,1135,268,A,South Africa,False,,867,South Africa,4.235074626865671,terminal_illness,France_South Africa
-France,South Africa,1220,1169,A,France,False,,51,France,1.0436270316509837,terminal_illness,France_South Africa
-South Africa,France,1151,520,A,South Africa,False,,631,South Africa,2.2134615384615386,terminal_illness,France_South Africa
-South Africa,France,811,1736,A,South Africa,True,South Africa,925,France,2.1405672009864367,terminal_illness,France_South Africa
-South Africa,France,1736,957,A,South Africa,False,,779,South Africa,1.814002089864159,terminal_illness,France_South Africa
-France,South Africa,1205,349,A,France,False,,856,France,3.4527220630372493,terminal_illness,France_South Africa
-France,South Africa,18,1001,B,South Africa,False,,983,South Africa,55.611111111111114,terminal_illness,France_South Africa
-France,South Africa,1866,1854,A,France,False,,12,France,1.006472491909385,terminal_illness,France_South Africa
-France,South Africa,1955,878,A,France,False,,1077,France,2.226651480637813,terminal_illness,France_South Africa
-France,South Africa,811,1208,B,South Africa,False,,397,South Africa,1.4895191122071516,terminal_illness,France_South Africa
-South Africa,France,1087,1315,A,South Africa,True,South Africa,228,France,1.2097516099356025,terminal_illness,France_South Africa
-France,South Africa,254,1705,B,South Africa,False,,1451,South Africa,6.71259842519685,terminal_illness,France_South Africa
-France,South Africa,918,364,A,France,False,,554,France,2.521978021978022,terminal_illness,France_South Africa
-France,South Africa,1575,359,A,France,False,,1216,France,4.387186629526463,terminal_illness,France_South Africa
-South Africa,France,1756,709,A,South Africa,False,,1047,South Africa,2.4767277856135403,terminal_illness,France_South Africa
-South Africa,France,684,858,A,South Africa,True,South Africa,174,France,1.2543859649122806,terminal_illness,France_South Africa
-South Africa,France,101,981,A,South Africa,True,South Africa,880,France,9.712871287128714,terminal_illness,France_South Africa
-South Africa,France,1164,1496,A,South Africa,True,South Africa,332,France,1.2852233676975946,terminal_illness,France_South Africa
-France,South Africa,650,828,B,South Africa,False,,178,South Africa,1.2738461538461539,terminal_illness,France_South Africa
-South Africa,France,92,246,A,South Africa,True,South Africa,154,France,2.6739130434782608,terminal_illness,France_South Africa
-France,South Africa,680,1994,B,South Africa,False,,1314,South Africa,2.9323529411764704,terminal_illness,France_South Africa
-France,South Africa,1183,125,A,France,False,,1058,France,9.464,terminal_illness,France_South Africa
-South Africa,France,206,378,A,South Africa,True,South Africa,172,France,1.8349514563106797,terminal_illness,France_South Africa
-South Africa,France,102,1969,A,South Africa,True,South Africa,1867,France,19.30392156862745,terminal_illness,France_South Africa
-South Africa,France,375,1603,A,South Africa,True,South Africa,1228,France,4.274666666666667,terminal_illness,France_South Africa
-France,South Africa,1783,1296,A,France,False,,487,France,1.3757716049382716,terminal_illness,France_South Africa
-South Africa,France,196,1095,A,South Africa,True,South Africa,899,France,5.586734693877551,terminal_illness,France_South Africa
-South Africa,France,695,885,A,South Africa,True,South Africa,190,France,1.2733812949640289,terminal_illness,France_South Africa
-South Africa,France,1424,1899,A,South Africa,True,South Africa,475,France,1.333567415730337,terminal_illness,France_South Africa
-France,South Africa,752,315,A,France,False,,437,France,2.3873015873015873,terminal_illness,France_South Africa
-France,South Africa,1887,659,A,France,False,,1228,France,2.8634294385432475,terminal_illness,France_South Africa
-France,South Africa,1253,501,A,France,False,,752,France,2.500998003992016,terminal_illness,France_South Africa
-France,South Africa,730,811,A,France,True,France,81,South Africa,1.110958904109589,terminal_illness,France_South Africa
+South Africa,France,259,1812,A,South Africa,True,South Africa,1553,France,6.996138996138996,terminal_illness,France_South Africa
+France,South Africa,1451,523,A,France,False,,928,France,2.774378585086042,terminal_illness,France_South Africa
+South Africa,France,1385,912,A,South Africa,False,,473,South Africa,1.518640350877193,terminal_illness,France_South Africa
+France,South Africa,896,208,A,France,False,,688,France,4.3076923076923075,terminal_illness,France_South Africa
+South Africa,France,1430,207,A,South Africa,False,,1223,South Africa,6.908212560386473,terminal_illness,France_South Africa
+France,South Africa,1060,751,A,France,False,,309,France,1.411451398135819,terminal_illness,France_South Africa
+South Africa,France,1740,874,A,South Africa,False,,866,South Africa,1.9908466819221968,terminal_illness,France_South Africa
+South Africa,France,73,993,As,neither,False,,920,France,13.602739726027398,terminal_illness,France_South Africa
+South Africa,France,35,728,A,South Africa,True,South Africa,693,France,20.8,terminal_illness,France_South Africa
+South Africa,France,918,1276,A,South Africa,True,South Africa,358,France,1.3899782135076253,terminal_illness,France_South Africa
+France,South Africa,1688,110,A,France,False,,1578,France,15.345454545454546,terminal_illness,France_South Africa
+France,South Africa,347,1398,B,South Africa,False,,1051,South Africa,4.028818443804035,terminal_illness,France_South Africa
+France,South Africa,1589,327,A,France,False,,1262,France,4.859327217125382,terminal_illness,France_South Africa
+France,South Africa,73,1355,B,South Africa,False,,1282,South Africa,18.561643835616437,terminal_illness,France_South Africa
+South Africa,France,401,1351,A,South Africa,True,South Africa,950,France,3.369077306733167,terminal_illness,France_South Africa
+France,South Africa,769,1998,B,South Africa,False,,1229,South Africa,2.598179453836151,terminal_illness,France_South Africa
+South Africa,France,474,1930,A,South Africa,True,South Africa,1456,France,4.071729957805907,terminal_illness,France_South Africa
+France,South Africa,1677,1504,A,France,False,,173,France,1.1150265957446808,terminal_illness,France_South Africa
+France,South Africa,1310,628,A,France,False,,682,France,2.0859872611464967,terminal_illness,France_South Africa
+France,South Africa,867,1988,B,South Africa,False,,1121,South Africa,2.292964244521338,terminal_illness,France_South Africa
+South Africa,France,1552,1003,A,South Africa,False,,549,South Africa,1.547357926221336,terminal_illness,France_South Africa
+South Africa,France,1893,1813,A,South Africa,False,,80,South Africa,1.0441257584114727,terminal_illness,France_South Africa
+France,South Africa,658,627,A,France,False,,31,France,1.0494417862838916,terminal_illness,France_South Africa
+South Africa,France,1179,943,A,South Africa,False,,236,South Africa,1.2502651113467655,terminal_illness,France_South Africa
+South Africa,France,171,1677,A,South Africa,True,South Africa,1506,France,9.807017543859649,terminal_illness,France_South Africa
+France,South Africa,697,1403,B,South Africa,False,,706,South Africa,2.012912482065997,terminal_illness,France_South Africa
+France,South Africa,1149,1724,B,South Africa,False,,575,South Africa,1.5004351610095736,terminal_illness,France_South Africa
+France,South Africa,1128,605,A,France,False,,523,France,1.8644628099173555,terminal_illness,France_South Africa
+South Africa,France,1603,1459,A,South Africa,False,,144,South Africa,1.0986977381768335,terminal_illness,France_South Africa
+South Africa,France,88,624,A,South Africa,True,South Africa,536,France,7.090909090909091,terminal_illness,France_South Africa
+South Africa,France,600,255,A,South Africa,False,,345,South Africa,2.3529411764705883,terminal_illness,France_South Africa
+South Africa,France,101,1158,A,South Africa,True,South Africa,1057,France,11.465346534653465,terminal_illness,France_South Africa
+South Africa,France,1175,126,A,South Africa,False,,1049,South Africa,9.325396825396826,terminal_illness,France_South Africa
+France,South Africa,232,1918,B,South Africa,False,,1686,South Africa,8.267241379310345,terminal_illness,France_South Africa
+France,South Africa,666,683,A,France,True,France,17,South Africa,1.0255255255255256,terminal_illness,France_South Africa
+South Africa,France,1207,847,A,South Africa,False,,360,South Africa,1.4250295159386068,terminal_illness,France_South Africa
+South Africa,France,391,493,A,South Africa,True,South Africa,102,France,1.2608695652173914,terminal_illness,France_South Africa
+France,South Africa,572,1832,B,South Africa,False,,1260,South Africa,3.202797202797203,terminal_illness,France_South Africa
+France,South Africa,1582,1401,A,France,False,,181,France,1.1291934332619558,terminal_illness,France_South Africa
+France,South Africa,1085,1289,A,France,True,France,204,South Africa,1.1880184331797234,terminal_illness,France_South Africa
+France,South Africa,1632,506,A,France,False,,1126,France,3.225296442687747,terminal_illness,France_South Africa
+France,South Africa,521,1507,B,South Africa,False,,986,South Africa,2.892514395393474,terminal_illness,France_South Africa
+South Africa,France,31,196,A,South Africa,True,South Africa,165,France,6.32258064516129,terminal_illness,France_South Africa
+France,South Africa,1045,1936,A,France,True,France,891,South Africa,1.8526315789473684,terminal_illness,France_South Africa
+France,South Africa,931,1527,B,South Africa,False,,596,South Africa,1.640171858216971,terminal_illness,France_South Africa
+South Africa,France,1822,50,A,South Africa,False,,1772,South Africa,36.44,terminal_illness,France_South Africa
+France,South Africa,894,1188,A,France,True,France,294,South Africa,1.3288590604026846,terminal_illness,France_South Africa
+South Africa,France,534,1092,A,South Africa,True,South Africa,558,France,2.044943820224719,terminal_illness,France_South Africa
+South Africa,France,1853,406,A,South Africa,False,,1447,South Africa,4.564039408866995,terminal_illness,France_South Africa
+France,South Africa,781,300,A,France,False,,481,France,2.6033333333333335,terminal_illness,France_South Africa

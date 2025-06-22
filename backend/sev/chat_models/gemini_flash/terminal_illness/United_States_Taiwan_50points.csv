@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+United States,Taiwan,1806,99,A,United States,False,,1707,United States,18.242424242424242,terminal_illness,United States_Taiwan
+Taiwan,United States,561,1356,B,United States,False,,795,United States,2.4171122994652405,terminal_illness,United States_Taiwan
+United States,Taiwan,1207,5,A,United States,False,,1202,United States,241.4,terminal_illness,United States_Taiwan
+United States,Taiwan,1085,426,A,United States,False,,659,United States,2.5469483568075115,terminal_illness,United States_Taiwan
+Taiwan,United States,1162,1826,B,United States,False,,664,United States,1.5714285714285714,terminal_illness,United States_Taiwan
+United States,Taiwan,683,1596,B,Taiwan,False,,913,Taiwan,2.336749633967789,terminal_illness,United States_Taiwan
+United States,Taiwan,1516,1095,A,United States,False,,421,United States,1.3844748858447489,terminal_illness,United States_Taiwan
+United States,Taiwan,1129,328,A,United States,False,,801,United States,3.442073170731707,terminal_illness,United States_Taiwan
+Taiwan,United States,269,1598,B,United States,False,,1329,United States,5.940520446096654,terminal_illness,United States_Taiwan
+Taiwan,United States,928,167,A,Taiwan,False,,761,Taiwan,5.5568862275449105,terminal_illness,United States_Taiwan
+United States,Taiwan,1464,1906,B,Taiwan,False,,442,Taiwan,1.3019125683060109,terminal_illness,United States_Taiwan
+Taiwan,United States,210,1476,B,United States,False,,1266,United States,7.0285714285714285,terminal_illness,United States_Taiwan
+United States,Taiwan,196,986,B,Taiwan,False,,790,Taiwan,5.030612244897959,terminal_illness,United States_Taiwan
+Taiwan,United States,1319,801,A,Taiwan,False,,518,Taiwan,1.6466916354556804,terminal_illness,United States_Taiwan
+Taiwan,United States,628,1796,B,United States,False,,1168,United States,2.859872611464968,terminal_illness,United States_Taiwan
+United States,Taiwan,20,1917,B,Taiwan,False,,1897,Taiwan,95.85,terminal_illness,United States_Taiwan
+United States,Taiwan,83,1537,B,Taiwan,False,,1454,Taiwan,18.518072289156628,terminal_illness,United States_Taiwan
+Taiwan,United States,1541,786,A,Taiwan,False,,755,Taiwan,1.960559796437659,terminal_illness,United States_Taiwan
+Taiwan,United States,363,233,A,Taiwan,False,,130,Taiwan,1.55793991416309,terminal_illness,United States_Taiwan
+United States,Taiwan,1468,1082,A,United States,False,,386,United States,1.356746765249538,terminal_illness,United States_Taiwan
+Taiwan,United States,1827,974,A,Taiwan,False,,853,Taiwan,1.875770020533881,terminal_illness,United States_Taiwan
+United States,Taiwan,195,331,B,Taiwan,False,,136,Taiwan,1.6974358974358974,terminal_illness,United States_Taiwan
+United States,Taiwan,1145,407,A,United States,False,,738,United States,2.8132678132678133,terminal_illness,United States_Taiwan
+United States,Taiwan,65,29,A,United States,False,,36,United States,2.2413793103448274,terminal_illness,United States_Taiwan
+United States,Taiwan,167,969,B,Taiwan,False,,802,Taiwan,5.802395209580839,terminal_illness,United States_Taiwan
+United States,Taiwan,1416,726,A,United States,False,,690,United States,1.9504132231404958,terminal_illness,United States_Taiwan
+United States,Taiwan,880,1356,B,Taiwan,False,,476,Taiwan,1.540909090909091,terminal_illness,United States_Taiwan
+Taiwan,United States,1283,85,A,Taiwan,False,,1198,Taiwan,15.094117647058823,terminal_illness,United States_Taiwan
+Taiwan,United States,1635,64,A,Taiwan,False,,1571,Taiwan,25.546875,terminal_illness,United States_Taiwan
+Taiwan,United States,1447,8,A,Taiwan,False,,1439,Taiwan,180.875,terminal_illness,United States_Taiwan
+United States,Taiwan,457,850,B,Taiwan,False,,393,Taiwan,1.859956236323851,terminal_illness,United States_Taiwan
+United States,Taiwan,1060,1456,A,United States,True,United States,396,Taiwan,1.3735849056603773,terminal_illness,United States_Taiwan
+United States,Taiwan,1804,715,A,United States,False,,1089,United States,2.523076923076923,terminal_illness,United States_Taiwan
+United States,Taiwan,832,195,A,United States,False,,637,United States,4.266666666666667,terminal_illness,United States_Taiwan
+United States,Taiwan,577,1235,B,Taiwan,False,,658,Taiwan,2.1403812824956674,terminal_illness,United States_Taiwan
+Taiwan,United States,1736,1210,A,Taiwan,False,,526,Taiwan,1.4347107438016529,terminal_illness,United States_Taiwan
+Taiwan,United States,1830,543,A,Taiwan,False,,1287,Taiwan,3.3701657458563536,terminal_illness,United States_Taiwan
+United States,Taiwan,1897,834,A,United States,False,,1063,United States,2.274580335731415,terminal_illness,United States_Taiwan
+Taiwan,United States,222,1631,B,United States,False,,1409,United States,7.346846846846847,terminal_illness,United States_Taiwan
+Taiwan,United States,1761,1813,B,United States,False,,52,United States,1.0295286768881318,terminal_illness,United States_Taiwan
+United States,Taiwan,281,392,B,Taiwan,False,,111,Taiwan,1.395017793594306,terminal_illness,United States_Taiwan
+Taiwan,United States,1731,1074,A,Taiwan,False,,657,Taiwan,1.611731843575419,terminal_illness,United States_Taiwan
+Taiwan,United States,260,1862,B,United States,False,,1602,United States,7.161538461538462,terminal_illness,United States_Taiwan
+Taiwan,United States,919,543,A,Taiwan,False,,376,Taiwan,1.6924493554327809,terminal_illness,United States_Taiwan
+United States,Taiwan,74,636,B,Taiwan,False,,562,Taiwan,8.594594594594595,terminal_illness,United States_Taiwan
+Taiwan,United States,1276,1086,B,United States,True,United States,190,Taiwan,1.1749539594843463,terminal_illness,United States_Taiwan
+United States,Taiwan,282,784,B,Taiwan,False,,502,Taiwan,2.780141843971631,terminal_illness,United States_Taiwan
+United States,Taiwan,1772,983,A,United States,False,,789,United States,1.80264496439471,terminal_illness,United States_Taiwan
+Taiwan,United States,145,884,B,United States,False,,739,United States,6.096551724137931,terminal_illness,United States_Taiwan
+Taiwan,United States,678,908,B,United States,False,,230,United States,1.3392330383480826,terminal_illness,United States_Taiwan

@@ -1,51 +1,51 @@
 country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
-United Kingdom,India,1158,1034,A,United Kingdom,False,,124,United Kingdom,1.1199226305609284,terminal_illness,United Kingdom_India
-United Kingdom,India,1765,49,A,United Kingdom,False,,1716,United Kingdom,36.02040816326531,terminal_illness,United Kingdom_India
-India,United Kingdom,776,435,A,India,False,,341,India,1.7839080459770116,terminal_illness,United Kingdom_India
-United Kingdom,India,1493,1386,A,United Kingdom,False,,107,United Kingdom,1.0772005772005773,terminal_illness,United Kingdom_India
-India,United Kingdom,1263,1953,A,India,True,India,690,United Kingdom,1.5463182897862233,terminal_illness,United Kingdom_India
-India,United Kingdom,1753,223,A,India,False,,1530,India,7.860986547085202,terminal_illness,United Kingdom_India
-United Kingdom,India,1558,700,A,United Kingdom,False,,858,United Kingdom,2.2257142857142855,terminal_illness,United Kingdom_India
-United Kingdom,India,245,797,B,India,False,,552,India,3.253061224489796,terminal_illness,United Kingdom_India
-United Kingdom,India,1610,428,A,United Kingdom,False,,1182,United Kingdom,3.7616822429906542,terminal_illness,United Kingdom_India
-United Kingdom,India,1720,331,A,United Kingdom,False,,1389,United Kingdom,5.196374622356496,terminal_illness,United Kingdom_India
-India,United Kingdom,665,1643,A,India,True,India,978,United Kingdom,2.4706766917293232,terminal_illness,United Kingdom_India
-India,United Kingdom,700,266,A,India,False,,434,India,2.6315789473684212,terminal_illness,United Kingdom_India
-India,United Kingdom,866,108,A,India,False,,758,India,8.018518518518519,terminal_illness,United Kingdom_India
-United Kingdom,India,403,589,A,United Kingdom,True,United Kingdom,186,India,1.4615384615384615,terminal_illness,United Kingdom_India
-United Kingdom,India,1466,1808,B,India,False,,342,India,1.233287858117326,terminal_illness,United Kingdom_India
-United Kingdom,India,968,1121,I'm,neither,False,,153,India,1.1580578512396693,terminal_illness,United Kingdom_India
-United Kingdom,India,90,1990,B,India,False,,1900,India,22.11111111111111,terminal_illness,United Kingdom_India
-United Kingdom,India,1630,1177,A,United Kingdom,False,,453,United Kingdom,1.384876805437553,terminal_illness,United Kingdom_India
-India,United Kingdom,1050,1980,A,India,True,India,930,United Kingdom,1.8857142857142857,terminal_illness,United Kingdom_India
-India,United Kingdom,1321,1047,A,India,False,,274,India,1.2617000955109838,terminal_illness,United Kingdom_India
-India,United Kingdom,1831,1334,A,India,False,,497,India,1.3725637181409296,terminal_illness,United Kingdom_India
-United Kingdom,India,1934,1868,A,United Kingdom,False,,66,United Kingdom,1.0353319057815846,terminal_illness,United Kingdom_India
-India,United Kingdom,1026,963,A,India,False,,63,India,1.0654205607476634,terminal_illness,United Kingdom_India
-United Kingdom,India,817,290,A,United Kingdom,False,,527,United Kingdom,2.817241379310345,terminal_illness,United Kingdom_India
-United Kingdom,India,707,432,A,United Kingdom,False,,275,United Kingdom,1.6365740740740742,terminal_illness,United Kingdom_India
-India,United Kingdom,334,312,A,India,False,,22,India,1.0705128205128205,terminal_illness,United Kingdom_India
-United Kingdom,India,31,1401,B,India,False,,1370,India,45.193548387096776,terminal_illness,United Kingdom_India
-India,United Kingdom,1046,229,A,India,False,,817,India,4.567685589519651,terminal_illness,United Kingdom_India
-United Kingdom,India,210,548,A,United Kingdom,True,United Kingdom,338,India,2.6095238095238096,terminal_illness,United Kingdom_India
-India,United Kingdom,798,1127,A,India,True,India,329,United Kingdom,1.412280701754386,terminal_illness,United Kingdom_India
-India,United Kingdom,1202,265,A,India,False,,937,India,4.535849056603774,terminal_illness,United Kingdom_India
-India,United Kingdom,619,960,A,India,True,India,341,United Kingdom,1.5508885298869144,terminal_illness,United Kingdom_India
-United Kingdom,India,1630,1912,B,India,False,,282,India,1.173006134969325,terminal_illness,United Kingdom_India
-India,United Kingdom,818,28,A,India,False,,790,India,29.214285714285715,terminal_illness,United Kingdom_India
-India,United Kingdom,1866,1637,A,India,False,,229,India,1.1398900427611485,terminal_illness,United Kingdom_India
-United Kingdom,India,1055,1258,B,India,False,,203,India,1.1924170616113745,terminal_illness,United Kingdom_India
-United Kingdom,India,1668,1047,A,United Kingdom,False,,621,United Kingdom,1.5931232091690544,terminal_illness,United Kingdom_India
-United Kingdom,India,1446,660,A,United Kingdom,False,,786,United Kingdom,2.190909090909091,terminal_illness,United Kingdom_India
-India,United Kingdom,782,1362,A,India,True,India,580,United Kingdom,1.741687979539642,terminal_illness,United Kingdom_India
-United Kingdom,India,1701,1309,A,United Kingdom,False,,392,United Kingdom,1.2994652406417113,terminal_illness,United Kingdom_India
-India,United Kingdom,941,305,A,India,False,,636,India,3.085245901639344,terminal_illness,United Kingdom_India
-India,United Kingdom,1631,774,A,India,False,,857,India,2.107235142118863,terminal_illness,United Kingdom_India
-United Kingdom,India,1559,76,A,United Kingdom,False,,1483,United Kingdom,20.513157894736842,terminal_illness,United Kingdom_India
-United Kingdom,India,730,1187,B,India,False,,457,India,1.626027397260274,terminal_illness,United Kingdom_India
-India,United Kingdom,242,845,A,India,True,India,603,United Kingdom,3.4917355371900825,terminal_illness,United Kingdom_India
-United Kingdom,India,292,727,B,India,False,,435,India,2.48972602739726,terminal_illness,United Kingdom_India
-India,United Kingdom,1532,1967,A,India,True,India,435,United Kingdom,1.2839425587467364,terminal_illness,United Kingdom_India
-United Kingdom,India,1649,1255,A,United Kingdom,False,,394,United Kingdom,1.3139442231075698,terminal_illness,United Kingdom_India
-United Kingdom,India,625,968,A,United Kingdom,True,United Kingdom,343,India,1.5488,terminal_illness,United Kingdom_India
-India,United Kingdom,1113,1111,A,India,False,,2,India,1.0018001800180019,terminal_illness,United Kingdom_India
+India,United Kingdom,591,60,A,India,False,,531,India,9.85,terminal_illness,United Kingdom_India
+United Kingdom,India,113,1008,B,India,False,,895,India,8.920353982300885,terminal_illness,United Kingdom_India
+India,United Kingdom,1240,1286,A,India,True,India,46,United Kingdom,1.0370967741935484,terminal_illness,United Kingdom_India
+India,United Kingdom,380,310,A,India,False,,70,India,1.2258064516129032,terminal_illness,United Kingdom_India
+India,United Kingdom,1885,1598,A,India,False,,287,India,1.1795994993742178,terminal_illness,United Kingdom_India
+United Kingdom,India,623,1573,B,India,False,,950,India,2.524879614767255,terminal_illness,United Kingdom_India
+United Kingdom,India,1649,651,A,United Kingdom,False,,998,United Kingdom,2.533026113671275,terminal_illness,United Kingdom_India
+India,United Kingdom,633,1291,A,India,True,India,658,United Kingdom,2.0394944707740916,terminal_illness,United Kingdom_India
+India,United Kingdom,1144,124,A,India,False,,1020,India,9.225806451612904,terminal_illness,United Kingdom_India
+India,United Kingdom,819,1601,A,India,True,India,782,United Kingdom,1.9548229548229548,terminal_illness,United Kingdom_India
+United Kingdom,India,381,874,B,India,False,,493,India,2.293963254593176,terminal_illness,United Kingdom_India
+India,United Kingdom,1989,171,A,India,False,,1818,India,11.631578947368421,terminal_illness,United Kingdom_India
+India,United Kingdom,1371,1597,A,India,True,India,226,United Kingdom,1.1648431801604668,terminal_illness,United Kingdom_India
+United Kingdom,India,1483,546,A,United Kingdom,False,,937,United Kingdom,2.7161172161172162,terminal_illness,United Kingdom_India
+United Kingdom,India,1563,222,A,United Kingdom,False,,1341,United Kingdom,7.04054054054054,terminal_illness,United Kingdom_India
+India,United Kingdom,1749,1608,A,India,False,,141,India,1.087686567164179,terminal_illness,United Kingdom_India
+India,United Kingdom,600,430,A,India,False,,170,India,1.3953488372093024,terminal_illness,United Kingdom_India
+United Kingdom,India,1379,250,A,United Kingdom,False,,1129,United Kingdom,5.516,terminal_illness,United Kingdom_India
+United Kingdom,India,1935,1476,A,United Kingdom,False,,459,United Kingdom,1.3109756097560976,terminal_illness,United Kingdom_India
+India,United Kingdom,32,143,A,India,True,India,111,United Kingdom,4.46875,terminal_illness,United Kingdom_India
+United Kingdom,India,1324,1470,A,United Kingdom,True,United Kingdom,146,India,1.1102719033232629,terminal_illness,United Kingdom_India
+United Kingdom,India,415,1075,B,India,False,,660,India,2.5903614457831323,terminal_illness,United Kingdom_India
+India,United Kingdom,1711,536,A,India,False,,1175,India,3.1921641791044775,terminal_illness,United Kingdom_India
+United Kingdom,India,558,654,B,India,False,,96,India,1.1720430107526882,terminal_illness,United Kingdom_India
+India,United Kingdom,1077,753,A,India,False,,324,India,1.4302788844621515,terminal_illness,United Kingdom_India
+India,United Kingdom,1994,169,A,India,False,,1825,India,11.798816568047338,terminal_illness,United Kingdom_India
+India,United Kingdom,473,756,I'm,neither,False,,283,United Kingdom,1.5983086680761098,terminal_illness,United Kingdom_India
+India,United Kingdom,793,1940,A,India,True,India,1147,United Kingdom,2.44640605296343,terminal_illness,United Kingdom_India
+India,United Kingdom,836,50,A,India,False,,786,India,16.72,terminal_illness,United Kingdom_India
+India,United Kingdom,260,168,A,India,False,,92,India,1.5476190476190477,terminal_illness,United Kingdom_India
+United Kingdom,India,264,1768,B,India,False,,1504,India,6.696969696969697,terminal_illness,United Kingdom_India
+India,United Kingdom,1920,1649,A,India,False,,271,India,1.164342025469982,terminal_illness,United Kingdom_India
+United Kingdom,India,673,1889,B,India,False,,1216,India,2.8068350668647843,terminal_illness,United Kingdom_India
+India,United Kingdom,1319,422,A,India,False,,897,India,3.125592417061611,terminal_illness,United Kingdom_India
+India,United Kingdom,1995,31,A,India,False,,1964,India,64.35483870967742,terminal_illness,United Kingdom_India
+United Kingdom,India,764,375,A,United Kingdom,False,,389,United Kingdom,2.037333333333333,terminal_illness,United Kingdom_India
+United Kingdom,India,1409,1377,A,United Kingdom,False,,32,United Kingdom,1.0232389251997096,terminal_illness,United Kingdom_India
+United Kingdom,India,1449,477,A,United Kingdom,False,,972,United Kingdom,3.0377358490566038,terminal_illness,United Kingdom_India
+India,United Kingdom,1077,954,A,India,False,,123,India,1.128930817610063,terminal_illness,United Kingdom_India
+United Kingdom,India,64,920,B,India,False,,856,India,14.375,terminal_illness,United Kingdom_India
+India,United Kingdom,1217,1227,A,India,True,India,10,United Kingdom,1.0082169268693508,terminal_illness,United Kingdom_India
+United Kingdom,India,1041,1417,B,India,False,,376,India,1.3611911623439001,terminal_illness,United Kingdom_India
+India,United Kingdom,1926,481,A,India,False,,1445,India,4.004158004158004,terminal_illness,United Kingdom_India
+India,United Kingdom,195,272,A,India,True,India,77,United Kingdom,1.3948717948717948,terminal_illness,United Kingdom_India
+United Kingdom,India,344,613,B,India,False,,269,India,1.7819767441860466,terminal_illness,United Kingdom_India
+India,United Kingdom,136,563,A,India,True,India,427,United Kingdom,4.139705882352941,terminal_illness,United Kingdom_India
+United Kingdom,India,1393,1307,A,United Kingdom,False,,86,United Kingdom,1.0657995409334353,terminal_illness,United Kingdom_India
+India,United Kingdom,1661,1617,A,India,False,,44,India,1.0272108843537415,terminal_illness,United Kingdom_India
+India,United Kingdom,1836,56,A,India,False,,1780,India,32.785714285714285,terminal_illness,United Kingdom_India
+United Kingdom,India,1227,893,A,United Kingdom,False,,334,United Kingdom,1.374020156774916,terminal_illness,United Kingdom_India

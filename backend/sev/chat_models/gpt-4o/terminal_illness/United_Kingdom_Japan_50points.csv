@@ -1,51 +1,51 @@
 country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
-United Kingdom,Japan,659,1518,A,United Kingdom,True,United Kingdom,859,Japan,2.3034901365705616,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,1595,1301,A,Japan,False,,294,Japan,1.2259800153727902,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,1074,1509,A,United Kingdom,True,United Kingdom,435,Japan,1.405027932960894,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,487,506,A,Japan,True,Japan,19,United Kingdom,1.0390143737166324,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,697,388,A,Japan,False,,309,Japan,1.7963917525773196,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,1662,865,A,Japan,False,,797,Japan,1.9213872832369943,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,1877,1262,A,Japan,False,,615,Japan,1.487321711568938,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,1048,1370,A,United Kingdom,True,United Kingdom,322,Japan,1.3072519083969465,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,212,923,A,Japan,True,Japan,711,United Kingdom,4.35377358490566,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,1427,1168,A,United Kingdom,False,,259,United Kingdom,1.2217465753424657,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,265,771,A,Japan,True,Japan,506,United Kingdom,2.909433962264151,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,1707,379,A,United Kingdom,False,,1328,United Kingdom,4.503957783641161,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,591,1169,A,United Kingdom,True,United Kingdom,578,Japan,1.9780033840947546,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,153,343,A,Japan,True,Japan,190,United Kingdom,2.241830065359477,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,1940,396,A,Japan,False,,1544,Japan,4.898989898989899,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,499,1195,A,United Kingdom,True,United Kingdom,696,Japan,2.3947895791583167,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,127,1971,A,Japan,True,Japan,1844,United Kingdom,15.51968503937008,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,1257,1173,A,United Kingdom,False,,84,United Kingdom,1.0716112531969308,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,1510,42,A,United Kingdom,False,,1468,United Kingdom,35.95238095238095,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,1123,861,A,United Kingdom,False,,262,United Kingdom,1.3042973286875725,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,280,145,A,Japan,False,,135,Japan,1.9310344827586208,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,690,599,A,United Kingdom,False,,91,United Kingdom,1.1519198664440735,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,1244,1078,A,Japan,False,,166,Japan,1.1539888682745825,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,197,358,A,Japan,True,Japan,161,United Kingdom,1.8172588832487309,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,424,217,A,United Kingdom,False,,207,United Kingdom,1.9539170506912442,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,598,1625,A,Japan,True,Japan,1027,United Kingdom,2.717391304347826,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,176,698,A,Japan,True,Japan,522,United Kingdom,3.965909090909091,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,583,251,A,United Kingdom,False,,332,United Kingdom,2.3227091633466137,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,414,502,A,Japan,True,Japan,88,United Kingdom,1.21256038647343,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,1113,1818,A,Japan,True,Japan,705,United Kingdom,1.633423180592992,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,1940,205,A,United Kingdom,False,,1735,United Kingdom,9.463414634146341,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,791,1057,A,Japan,True,Japan,266,United Kingdom,1.336283185840708,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,956,1059,A,United Kingdom,True,United Kingdom,103,Japan,1.1077405857740585,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,1191,1120,A,Japan,False,,71,Japan,1.0633928571428573,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,907,1192,A,United Kingdom,True,United Kingdom,285,Japan,1.3142227122381478,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,259,1030,A,United Kingdom,True,United Kingdom,771,Japan,3.976833976833977,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,1369,1788,A,United Kingdom,True,United Kingdom,419,Japan,1.306062819576333,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,1018,278,A,United Kingdom,False,,740,United Kingdom,3.661870503597122,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,274,1035,A,United Kingdom,True,United Kingdom,761,Japan,3.7773722627737225,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,1924,1224,A,United Kingdom,False,,700,United Kingdom,1.5718954248366013,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,330,1380,A,Japan,True,Japan,1050,United Kingdom,4.181818181818182,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,993,1469,I'm,neither,False,,476,Japan,1.4793554884189326,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,1455,497,A,United Kingdom,False,,958,United Kingdom,2.9275653923541247,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,745,49,A,Japan,False,,696,Japan,15.204081632653061,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,1674,187,A,Japan,False,,1487,Japan,8.95187165775401,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,955,1659,A,United Kingdom,True,United Kingdom,704,Japan,1.73717277486911,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,1314,431,A,Japan,False,,883,Japan,3.0487238979118327,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,96,65,A,Japan,False,,31,Japan,1.476923076923077,terminal_illness,United Kingdom_Japan
-United Kingdom,Japan,1979,1469,A,United Kingdom,False,,510,United Kingdom,1.3471749489448603,terminal_illness,United Kingdom_Japan
-Japan,United Kingdom,150,1108,A,Japan,True,Japan,958,United Kingdom,7.386666666666667,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,465,1077,A,Japan,True,Japan,612,United Kingdom,2.3161290322580643,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,912,290,A,United Kingdom,False,,622,United Kingdom,3.1448275862068966,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,1087,1307,A,United Kingdom,True,United Kingdom,220,Japan,1.2023919043238271,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,989,1395,A,Japan,True,Japan,406,United Kingdom,1.4105156723963599,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,180,1794,B,Japan,False,,1614,Japan,9.966666666666667,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,1094,1639,A,United Kingdom,True,United Kingdom,545,Japan,1.4981718464351006,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,1592,996,A,Japan,False,,596,Japan,1.5983935742971886,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,669,734,A,United Kingdom,True,United Kingdom,65,Japan,1.0971599402092675,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,1094,439,A,Japan,False,,655,Japan,2.492027334851936,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,1607,748,A,Japan,False,,859,Japan,2.1483957219251337,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,1368,1793,A,United Kingdom,True,United Kingdom,425,Japan,1.310672514619883,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,572,269,A,United Kingdom,False,,303,United Kingdom,2.12639405204461,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,138,1644,A,Japan,True,Japan,1506,United Kingdom,11.91304347826087,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,1597,1636,A,United Kingdom,True,United Kingdom,39,Japan,1.0244207889793362,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,260,784,A,Japan,True,Japan,524,United Kingdom,3.0153846153846153,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,929,731,A,Japan,False,,198,Japan,1.2708618331053352,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,646,1451,A,United Kingdom,True,United Kingdom,805,Japan,2.2461300309597525,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,343,717,A,Japan,True,Japan,374,United Kingdom,2.0903790087463556,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,88,1515,A,United Kingdom,True,United Kingdom,1427,Japan,17.21590909090909,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,470,656,A,Japan,True,Japan,186,United Kingdom,1.3957446808510638,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,1608,1980,A,United Kingdom,True,United Kingdom,372,Japan,1.2313432835820894,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,1764,735,A,United Kingdom,False,,1029,United Kingdom,2.4,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,1389,1449,A,Japan,True,Japan,60,United Kingdom,1.043196544276458,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,66,1380,A,Japan,True,Japan,1314,United Kingdom,20.90909090909091,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,229,1261,A,Japan,True,Japan,1032,United Kingdom,5.506550218340611,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,987,369,A,United Kingdom,False,,618,United Kingdom,2.6747967479674797,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,850,927,A,Japan,True,Japan,77,United Kingdom,1.0905882352941176,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,1503,1012,A,United Kingdom,False,,491,United Kingdom,1.4851778656126482,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,805,869,A,Japan,True,Japan,64,United Kingdom,1.0795031055900621,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,240,1220,As,neither,False,,980,Japan,5.083333333333333,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,499,1850,A,Japan,True,Japan,1351,United Kingdom,3.7074148296593186,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,240,1902,A,Japan,True,Japan,1662,United Kingdom,7.925,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,1605,1568,A,Japan,False,,37,Japan,1.0235969387755102,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,499,235,A,United Kingdom,False,,264,United Kingdom,2.123404255319149,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,1093,1844,A,United Kingdom,True,United Kingdom,751,Japan,1.6870997255260751,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,1970,461,A,Japan,False,,1509,Japan,4.273318872017353,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,992,1904,A,United Kingdom,True,United Kingdom,912,Japan,1.9193548387096775,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,1584,577,A,Japan,False,,1007,Japan,2.7452339688041594,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,1796,1558,A,United Kingdom,False,,238,United Kingdom,1.152759948652118,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,350,1453,B,Japan,False,,1103,Japan,4.151428571428571,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,1676,493,A,Japan,False,,1183,Japan,3.3995943204868153,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,1808,1776,A,United Kingdom,False,,32,United Kingdom,1.018018018018018,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,898,1790,A,United Kingdom,True,United Kingdom,892,Japan,1.9933184855233852,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,286,584,A,Japan,True,Japan,298,United Kingdom,2.041958041958042,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,439,1576,A,United Kingdom,True,United Kingdom,1137,Japan,3.58997722095672,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,210,670,A,Japan,True,Japan,460,United Kingdom,3.1904761904761907,terminal_illness,United Kingdom_Japan
+United Kingdom,Japan,1472,261,A,United Kingdom,False,,1211,United Kingdom,5.639846743295019,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,1829,1887,A,Japan,True,Japan,58,United Kingdom,1.0317113176599235,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,14,1845,A,Japan,True,Japan,1831,United Kingdom,131.78571428571428,terminal_illness,United Kingdom_Japan
+Japan,United Kingdom,1951,307,A,Japan,False,,1644,Japan,6.355048859934853,terminal_illness,United Kingdom_Japan

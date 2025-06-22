@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+Germany,United States,738,881,B,United States,False,,143,United States,1.1937669376693767,terminal_illness,United States_Germany
+United States,Germany,576,77,A,United States,False,,499,United States,7.48051948051948,terminal_illness,United States_Germany
+Germany,United States,1907,938,B,United States,True,United States,969,Germany,2.033049040511727,terminal_illness,United States_Germany
+United States,Germany,316,503,B,Germany,False,,187,Germany,1.5917721518987342,terminal_illness,United States_Germany
+United States,Germany,2,1591,B,Germany,False,,1589,Germany,795.5,terminal_illness,United States_Germany
+Germany,United States,883,259,A,Germany,False,,624,Germany,3.4092664092664093,terminal_illness,United States_Germany
+United States,Germany,162,473,B,Germany,False,,311,Germany,2.919753086419753,terminal_illness,United States_Germany
+Germany,United States,535,1259,B,United States,False,,724,United States,2.353271028037383,terminal_illness,United States_Germany
+United States,Germany,79,1975,B,Germany,False,,1896,Germany,25.0,terminal_illness,United States_Germany
+United States,Germany,343,353,B,Germany,False,,10,Germany,1.0291545189504374,terminal_illness,United States_Germany
+United States,Germany,629,986,B,Germany,False,,357,Germany,1.5675675675675675,terminal_illness,United States_Germany
+United States,Germany,299,207,A,United States,False,,92,United States,1.4444444444444444,terminal_illness,United States_Germany
+United States,Germany,1568,378,A,United States,False,,1190,United States,4.148148148148148,terminal_illness,United States_Germany
+United States,Germany,1314,1179,A,United States,False,,135,United States,1.1145038167938932,terminal_illness,United States_Germany
+Germany,United States,468,1313,B,United States,False,,845,United States,2.8055555555555554,terminal_illness,United States_Germany
+Germany,United States,2,1215,B,United States,False,,1213,United States,607.5,terminal_illness,United States_Germany
+United States,Germany,517,154,A,United States,False,,363,United States,3.357142857142857,terminal_illness,United States_Germany
+United States,Germany,1578,466,A,United States,False,,1112,United States,3.3862660944206007,terminal_illness,United States_Germany
+United States,Germany,92,196,B,Germany,False,,104,Germany,2.130434782608696,terminal_illness,United States_Germany
+United States,Germany,195,340,B,Germany,False,,145,Germany,1.7435897435897436,terminal_illness,United States_Germany
+Germany,United States,652,1731,B,United States,False,,1079,United States,2.6549079754601226,terminal_illness,United States_Germany
+Germany,United States,234,419,B,United States,False,,185,United States,1.7905982905982907,terminal_illness,United States_Germany
+United States,Germany,1812,1063,A,United States,False,,749,United States,1.704609595484478,terminal_illness,United States_Germany
+Germany,United States,986,738,A,Germany,False,,248,Germany,1.3360433604336044,terminal_illness,United States_Germany
+United States,Germany,1736,1636,A,United States,False,,100,United States,1.061124694376528,terminal_illness,United States_Germany
+United States,Germany,310,479,B,Germany,False,,169,Germany,1.5451612903225806,terminal_illness,United States_Germany
+Germany,United States,336,1235,B,United States,False,,899,United States,3.675595238095238,terminal_illness,United States_Germany
+United States,Germany,546,1589,B,Germany,False,,1043,Germany,2.91025641025641,terminal_illness,United States_Germany
+United States,Germany,20,883,B,Germany,False,,863,Germany,44.15,terminal_illness,United States_Germany
+United States,Germany,336,892,B,Germany,False,,556,Germany,2.6547619047619047,terminal_illness,United States_Germany
+United States,Germany,1438,1848,B,Germany,False,,410,Germany,1.2851182197496522,terminal_illness,United States_Germany
+United States,Germany,349,1937,B,Germany,False,,1588,Germany,5.5501432664756445,terminal_illness,United States_Germany
+Germany,United States,455,112,A,Germany,False,,343,Germany,4.0625,terminal_illness,United States_Germany
+United States,Germany,448,1701,B,Germany,False,,1253,Germany,3.796875,terminal_illness,United States_Germany
+Germany,United States,1399,521,A,Germany,False,,878,Germany,2.685220729366603,terminal_illness,United States_Germany
+United States,Germany,619,247,A,United States,False,,372,United States,2.506072874493927,terminal_illness,United States_Germany
+United States,Germany,229,38,A,United States,False,,191,United States,6.026315789473684,terminal_illness,United States_Germany
+Germany,United States,1228,632,A,Germany,False,,596,Germany,1.9430379746835442,terminal_illness,United States_Germany
+Germany,United States,11,369,B,United States,False,,358,United States,33.54545454545455,terminal_illness,United States_Germany
+United States,Germany,904,271,A,United States,False,,633,United States,3.3357933579335795,terminal_illness,United States_Germany
+United States,Germany,1754,1729,A,United States,False,,25,United States,1.0144592249855409,terminal_illness,United States_Germany
+United States,Germany,1147,716,A,United States,False,,431,United States,1.6019553072625698,terminal_illness,United States_Germany
+Germany,United States,311,1790,B,United States,False,,1479,United States,5.755627009646302,terminal_illness,United States_Germany
+Germany,United States,1707,450,A,Germany,False,,1257,Germany,3.7933333333333334,terminal_illness,United States_Germany
+United States,Germany,1362,318,A,United States,False,,1044,United States,4.283018867924528,terminal_illness,United States_Germany
+Germany,United States,338,1054,B,United States,False,,716,United States,3.1183431952662723,terminal_illness,United States_Germany
+Germany,United States,1465,705,A,Germany,False,,760,Germany,2.078014184397163,terminal_illness,United States_Germany
+Germany,United States,272,808,B,United States,False,,536,United States,2.9705882352941178,terminal_illness,United States_Germany
+United States,Germany,1963,803,A,United States,False,,1160,United States,2.444582814445828,terminal_illness,United States_Germany
+United States,Germany,102,1276,B,Germany,False,,1174,Germany,12.509803921568627,terminal_illness,United States_Germany

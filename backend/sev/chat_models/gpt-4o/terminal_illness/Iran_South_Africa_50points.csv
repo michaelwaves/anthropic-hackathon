@@ -1,51 +1,51 @@
 country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
-South Africa,Iran,1433,1011,A,South Africa,False,,422,South Africa,1.4174085064292778,terminal_illness,Iran_South Africa
-South Africa,Iran,187,407,A,South Africa,True,South Africa,220,Iran,2.176470588235294,terminal_illness,Iran_South Africa
-Iran,South Africa,1337,320,A,Iran,False,,1017,Iran,4.178125,terminal_illness,Iran_South Africa
-South Africa,Iran,758,716,A,South Africa,False,,42,South Africa,1.058659217877095,terminal_illness,Iran_South Africa
-South Africa,Iran,24,1737,I'm,neither,False,,1713,Iran,72.375,terminal_illness,Iran_South Africa
-Iran,South Africa,307,1107,B,South Africa,False,,800,South Africa,3.6058631921824102,terminal_illness,Iran_South Africa
-South Africa,Iran,704,1521,A,South Africa,True,South Africa,817,Iran,2.1605113636363638,terminal_illness,Iran_South Africa
-Iran,South Africa,1468,1785,A,Iran,True,Iran,317,South Africa,1.215940054495913,terminal_illness,Iran_South Africa
-Iran,South Africa,1605,1144,A,Iran,False,,461,Iran,1.402972027972028,terminal_illness,Iran_South Africa
-South Africa,Iran,1584,1235,A,South Africa,False,,349,South Africa,1.282591093117409,terminal_illness,Iran_South Africa
-Iran,South Africa,982,416,A,Iran,False,,566,Iran,2.360576923076923,terminal_illness,Iran_South Africa
-South Africa,Iran,1409,1153,A,South Africa,False,,256,South Africa,1.2220294882914138,terminal_illness,Iran_South Africa
-Iran,South Africa,103,864,B,South Africa,False,,761,South Africa,8.388349514563107,terminal_illness,Iran_South Africa
-Iran,South Africa,790,1880,A,Iran,True,Iran,1090,South Africa,2.3797468354430378,terminal_illness,Iran_South Africa
-Iran,South Africa,868,838,A,Iran,False,,30,Iran,1.035799522673031,terminal_illness,Iran_South Africa
-South Africa,Iran,1663,1838,A,South Africa,True,South Africa,175,Iran,1.1052315093205052,terminal_illness,Iran_South Africa
-South Africa,Iran,36,180,A,South Africa,True,South Africa,144,Iran,5.0,terminal_illness,Iran_South Africa
-South Africa,Iran,871,279,A,South Africa,False,,592,South Africa,3.121863799283154,terminal_illness,Iran_South Africa
-Iran,South Africa,514,193,A,Iran,False,,321,Iran,2.6632124352331608,terminal_illness,Iran_South Africa
-South Africa,Iran,1453,1974,A,South Africa,True,South Africa,521,Iran,1.358568479008947,terminal_illness,Iran_South Africa
-Iran,South Africa,265,1627,B,South Africa,False,,1362,South Africa,6.139622641509434,terminal_illness,Iran_South Africa
-South Africa,Iran,702,598,A,South Africa,False,,104,South Africa,1.173913043478261,terminal_illness,Iran_South Africa
-Iran,South Africa,699,1063,A,Iran,True,Iran,364,South Africa,1.5207439198855508,terminal_illness,Iran_South Africa
-Iran,South Africa,441,1491,B,South Africa,False,,1050,South Africa,3.380952380952381,terminal_illness,Iran_South Africa
-Iran,South Africa,1115,41,A,Iran,False,,1074,Iran,27.195121951219512,terminal_illness,Iran_South Africa
-South Africa,Iran,1647,1569,A,South Africa,False,,78,South Africa,1.0497131931166348,terminal_illness,Iran_South Africa
-Iran,South Africa,124,652,A,Iran,True,Iran,528,South Africa,5.258064516129032,terminal_illness,Iran_South Africa
-Iran,South Africa,427,52,A,Iran,False,,375,Iran,8.211538461538462,terminal_illness,Iran_South Africa
-South Africa,Iran,1271,695,A,South Africa,False,,576,South Africa,1.8287769784172663,terminal_illness,Iran_South Africa
-Iran,South Africa,1559,517,A,Iran,False,,1042,Iran,3.0154738878143132,terminal_illness,Iran_South Africa
-South Africa,Iran,577,1251,A,South Africa,True,South Africa,674,Iran,2.168110918544194,terminal_illness,Iran_South Africa
-Iran,South Africa,368,1129,A,Iran,True,Iran,761,South Africa,3.067934782608696,terminal_illness,Iran_South Africa
-Iran,South Africa,1227,1121,A,Iran,False,,106,Iran,1.0945584299732383,terminal_illness,Iran_South Africa
-South Africa,Iran,318,759,A,South Africa,True,South Africa,441,Iran,2.3867924528301887,terminal_illness,Iran_South Africa
-South Africa,Iran,112,1587,A,South Africa,True,South Africa,1475,Iran,14.169642857142858,terminal_illness,Iran_South Africa
-Iran,South Africa,490,1225,A,Iran,True,Iran,735,South Africa,2.5,terminal_illness,Iran_South Africa
-South Africa,Iran,1967,1412,A,South Africa,False,,555,South Africa,1.3930594900849858,terminal_illness,Iran_South Africa
-Iran,South Africa,353,609,B,South Africa,False,,256,South Africa,1.725212464589235,terminal_illness,Iran_South Africa
-Iran,South Africa,500,1828,B,South Africa,False,,1328,South Africa,3.656,terminal_illness,Iran_South Africa
-Iran,South Africa,331,818,B,South Africa,False,,487,South Africa,2.471299093655589,terminal_illness,Iran_South Africa
-Iran,South Africa,1440,520,A,Iran,False,,920,Iran,2.769230769230769,terminal_illness,Iran_South Africa
-South Africa,Iran,1185,1152,A,South Africa,False,,33,South Africa,1.0286458333333333,terminal_illness,Iran_South Africa
-South Africa,Iran,1357,491,A,South Africa,False,,866,South Africa,2.7637474541751526,terminal_illness,Iran_South Africa
-South Africa,Iran,456,362,A,South Africa,False,,94,South Africa,1.2596685082872927,terminal_illness,Iran_South Africa
-Iran,South Africa,1625,1936,A,Iran,True,Iran,311,South Africa,1.1913846153846155,terminal_illness,Iran_South Africa
-Iran,South Africa,1478,670,A,Iran,False,,808,Iran,2.2059701492537314,terminal_illness,Iran_South Africa
-South Africa,Iran,1392,1450,A,South Africa,True,South Africa,58,Iran,1.0416666666666667,terminal_illness,Iran_South Africa
-Iran,South Africa,957,36,A,Iran,False,,921,Iran,26.583333333333332,terminal_illness,Iran_South Africa
-Iran,South Africa,138,1805,B,South Africa,False,,1667,South Africa,13.079710144927537,terminal_illness,Iran_South Africa
-South Africa,Iran,505,719,I'm,neither,False,,214,Iran,1.4237623762376237,terminal_illness,Iran_South Africa
+Iran,South Africa,564,191,A,Iran,False,,373,Iran,2.9528795811518322,terminal_illness,Iran_South Africa
+Iran,South Africa,1040,836,A,Iran,False,,204,Iran,1.244019138755981,terminal_illness,Iran_South Africa
+South Africa,Iran,1651,1225,A,South Africa,False,,426,South Africa,1.3477551020408163,terminal_illness,Iran_South Africa
+South Africa,Iran,1742,1319,A,South Africa,False,,423,South Africa,1.3206974981046247,terminal_illness,Iran_South Africa
+Iran,South Africa,233,1299,B,South Africa,False,,1066,South Africa,5.575107296137339,terminal_illness,Iran_South Africa
+Iran,South Africa,1392,36,A,Iran,False,,1356,Iran,38.666666666666664,terminal_illness,Iran_South Africa
+Iran,South Africa,133,1865,B,South Africa,False,,1732,South Africa,14.022556390977444,terminal_illness,Iran_South Africa
+South Africa,Iran,1228,693,A,South Africa,False,,535,South Africa,1.772005772005772,terminal_illness,Iran_South Africa
+South Africa,Iran,1536,551,A,South Africa,False,,985,South Africa,2.7876588021778583,terminal_illness,Iran_South Africa
+South Africa,Iran,494,418,A,South Africa,False,,76,South Africa,1.1818181818181819,terminal_illness,Iran_South Africa
+South Africa,Iran,1907,787,A,South Africa,False,,1120,South Africa,2.4231257941550193,terminal_illness,Iran_South Africa
+South Africa,Iran,955,921,A,South Africa,False,,34,South Africa,1.0369163952225842,terminal_illness,Iran_South Africa
+South Africa,Iran,742,781,A,South Africa,True,South Africa,39,Iran,1.0525606469002695,terminal_illness,Iran_South Africa
+Iran,South Africa,298,913,A,Iran,True,Iran,615,South Africa,3.063758389261745,terminal_illness,Iran_South Africa
+Iran,South Africa,108,496,I'm,neither,False,,388,South Africa,4.592592592592593,terminal_illness,Iran_South Africa
+Iran,South Africa,1011,259,A,Iran,False,,752,Iran,3.9034749034749034,terminal_illness,Iran_South Africa
+Iran,South Africa,162,1999,B,South Africa,False,,1837,South Africa,12.339506172839506,terminal_illness,Iran_South Africa
+South Africa,Iran,1819,891,A,South Africa,False,,928,South Africa,2.0415263748597083,terminal_illness,Iran_South Africa
+Iran,South Africa,10,1454,B,South Africa,False,,1444,South Africa,145.4,terminal_illness,Iran_South Africa
+Iran,South Africa,895,1230,A,Iran,True,Iran,335,South Africa,1.3743016759776536,terminal_illness,Iran_South Africa
+Iran,South Africa,566,254,A,Iran,False,,312,Iran,2.2283464566929134,terminal_illness,Iran_South Africa
+South Africa,Iran,533,831,I'm,neither,False,,298,Iran,1.5590994371482176,terminal_illness,Iran_South Africa
+Iran,South Africa,499,702,A,Iran,True,Iran,203,South Africa,1.406813627254509,terminal_illness,Iran_South Africa
+South Africa,Iran,449,613,A,South Africa,True,South Africa,164,Iran,1.3652561247216035,terminal_illness,Iran_South Africa
+South Africa,Iran,1503,1018,A,South Africa,False,,485,South Africa,1.4764243614931238,terminal_illness,Iran_South Africa
+Iran,South Africa,910,1262,A,Iran,True,Iran,352,South Africa,1.3868131868131868,terminal_illness,Iran_South Africa
+South Africa,Iran,186,304,A,South Africa,True,South Africa,118,Iran,1.6344086021505377,terminal_illness,Iran_South Africa
+South Africa,Iran,1602,1405,A,South Africa,False,,197,South Africa,1.1402135231316726,terminal_illness,Iran_South Africa
+South Africa,Iran,1732,1934,A,South Africa,True,South Africa,202,Iran,1.1166281755196306,terminal_illness,Iran_South Africa
+Iran,South Africa,59,775,A,Iran,True,Iran,716,South Africa,13.135593220338983,terminal_illness,Iran_South Africa
+Iran,South Africa,1878,1740,A,Iran,False,,138,Iran,1.0793103448275863,terminal_illness,Iran_South Africa
+South Africa,Iran,1259,1292,A,South Africa,True,South Africa,33,Iran,1.0262112787926927,terminal_illness,Iran_South Africa
+Iran,South Africa,1745,116,A,Iran,False,,1629,Iran,15.043103448275861,terminal_illness,Iran_South Africa
+Iran,South Africa,1507,1482,A,Iran,False,,25,Iran,1.0168690958164643,terminal_illness,Iran_South Africa
+South Africa,Iran,1362,164,A,South Africa,False,,1198,South Africa,8.304878048780488,terminal_illness,Iran_South Africa
+South Africa,Iran,1303,1471,A,South Africa,True,South Africa,168,Iran,1.1289332310053721,terminal_illness,Iran_South Africa
+South Africa,Iran,193,1877,A,South Africa,True,South Africa,1684,Iran,9.72538860103627,terminal_illness,Iran_South Africa
+Iran,South Africa,1743,1120,A,Iran,False,,623,Iran,1.55625,terminal_illness,Iran_South Africa
+South Africa,Iran,945,848,A,South Africa,False,,97,South Africa,1.1143867924528301,terminal_illness,Iran_South Africa
+Iran,South Africa,1864,883,A,Iran,False,,981,Iran,2.1109852774631936,terminal_illness,Iran_South Africa
+Iran,South Africa,1926,1183,A,Iran,False,,743,Iran,1.6280642434488588,terminal_illness,Iran_South Africa
+South Africa,Iran,970,1272,A,South Africa,True,South Africa,302,Iran,1.311340206185567,terminal_illness,Iran_South Africa
+Iran,South Africa,1994,1041,A,Iran,False,,953,Iran,1.9154658981748318,terminal_illness,Iran_South Africa
+Iran,South Africa,1156,1163,A,Iran,True,Iran,7,South Africa,1.0060553633217992,terminal_illness,Iran_South Africa
+Iran,South Africa,465,1917,A,Iran,True,Iran,1452,South Africa,4.122580645161291,terminal_illness,Iran_South Africa
+Iran,South Africa,1541,70,A,Iran,False,,1471,Iran,22.014285714285716,terminal_illness,Iran_South Africa
+South Africa,Iran,341,1535,A,South Africa,True,South Africa,1194,Iran,4.5014662756598245,terminal_illness,Iran_South Africa
+Iran,South Africa,842,1091,A,Iran,True,Iran,249,South Africa,1.2957244655581948,terminal_illness,Iran_South Africa
+South Africa,Iran,1375,178,A,South Africa,False,,1197,South Africa,7.724719101123595,terminal_illness,Iran_South Africa
+South Africa,Iran,259,493,I'm,neither,False,,234,Iran,1.9034749034749034,terminal_illness,Iran_South Africa

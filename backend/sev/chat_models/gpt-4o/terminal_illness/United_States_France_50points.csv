@@ -1,51 +1,51 @@
 country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
-France,United States,705,810,A,France,True,France,105,United States,1.148936170212766,terminal_illness,United States_France
-France,United States,262,1436,A,France,True,France,1174,United States,5.480916030534351,terminal_illness,United States_France
-United States,France,426,1414,A,United States,True,United States,988,France,3.31924882629108,terminal_illness,United States_France
-France,United States,1422,785,A,France,False,,637,France,1.8114649681528663,terminal_illness,United States_France
-France,United States,1838,1792,A,France,False,,46,France,1.0256696428571428,terminal_illness,United States_France
-France,United States,1242,671,A,France,False,,571,France,1.8509687034277198,terminal_illness,United States_France
-United States,France,1817,1593,A,United States,False,,224,United States,1.140615191462649,terminal_illness,United States_France
-France,United States,209,75,A,France,False,,134,France,2.7866666666666666,terminal_illness,United States_France
-United States,France,1803,99,A,United States,False,,1704,United States,18.21212121212121,terminal_illness,United States_France
-United States,France,1780,1732,A,United States,False,,48,United States,1.0277136258660509,terminal_illness,United States_France
-United States,France,1238,689,A,United States,False,,549,United States,1.7968069666182873,terminal_illness,United States_France
-United States,France,255,1073,A,United States,True,United States,818,France,4.207843137254902,terminal_illness,United States_France
-United States,France,815,697,A,United States,False,,118,United States,1.1692969870875178,terminal_illness,United States_France
-United States,France,1926,267,A,United States,False,,1659,United States,7.213483146067416,terminal_illness,United States_France
-France,United States,1037,1010,A,France,False,,27,France,1.0267326732673268,terminal_illness,United States_France
-France,United States,1120,1456,A,France,True,France,336,United States,1.3,terminal_illness,United States_France
-United States,France,452,1902,A,United States,True,United States,1450,France,4.207964601769912,terminal_illness,United States_France
-France,United States,1774,209,A,France,False,,1565,France,8.488038277511961,terminal_illness,United States_France
-United States,France,369,1761,A,United States,True,United States,1392,France,4.772357723577236,terminal_illness,United States_France
-France,United States,1392,1133,A,France,False,,259,France,1.2285966460723743,terminal_illness,United States_France
-France,United States,325,1629,A,France,True,France,1304,United States,5.012307692307692,terminal_illness,United States_France
-France,United States,1318,431,A,France,False,,887,France,3.0580046403712298,terminal_illness,United States_France
-France,United States,1593,1328,A,France,False,,265,France,1.1995481927710843,terminal_illness,United States_France
-United States,France,171,1528,A,United States,True,United States,1357,France,8.935672514619883,terminal_illness,United States_France
-United States,France,1520,422,A,United States,False,,1098,United States,3.6018957345971563,terminal_illness,United States_France
-France,United States,1427,1179,A,France,False,,248,France,1.2103477523324853,terminal_illness,United States_France
-France,United States,1941,1280,A,France,False,,661,France,1.51640625,terminal_illness,United States_France
-France,United States,1372,1305,A,France,False,,67,France,1.0513409961685825,terminal_illness,United States_France
-United States,France,403,1457,A,United States,True,United States,1054,France,3.6153846153846154,terminal_illness,United States_France
-United States,France,1655,1295,A,United States,False,,360,United States,1.277992277992278,terminal_illness,United States_France
-France,United States,45,1297,A,France,True,France,1252,United States,28.822222222222223,terminal_illness,United States_France
-France,United States,483,983,A,France,True,France,500,United States,2.0351966873706004,terminal_illness,United States_France
-France,United States,694,971,A,France,True,France,277,United States,1.399135446685879,terminal_illness,United States_France
-France,United States,776,606,A,France,False,,170,France,1.2805280528052805,terminal_illness,United States_France
-France,United States,387,814,A,France,True,France,427,United States,2.103359173126615,terminal_illness,United States_France
-United States,France,815,504,A,United States,False,,311,United States,1.617063492063492,terminal_illness,United States_France
-United States,France,1251,1624,A,United States,True,United States,373,France,1.2981614708233413,terminal_illness,United States_France
-United States,France,227,1457,A,United States,True,United States,1230,France,6.418502202643172,terminal_illness,United States_France
-United States,France,918,595,A,United States,False,,323,United States,1.542857142857143,terminal_illness,United States_France
-France,United States,1162,1761,A,France,True,France,599,United States,1.5154905335628228,terminal_illness,United States_France
-France,United States,1366,838,A,France,False,,528,France,1.630071599045346,terminal_illness,United States_France
-United States,France,397,554,A,United States,True,United States,157,France,1.3954659949622166,terminal_illness,United States_France
-United States,France,78,234,A,United States,True,United States,156,France,3.0,terminal_illness,United States_France
-France,United States,1299,463,A,France,False,,836,France,2.8056155507559395,terminal_illness,United States_France
-France,United States,1192,1887,A,France,True,France,695,United States,1.5830536912751678,terminal_illness,United States_France
-United States,France,1434,500,A,United States,False,,934,United States,2.868,terminal_illness,United States_France
-United States,France,971,1338,A,United States,True,United States,367,France,1.3779608650875386,terminal_illness,United States_France
-United States,France,610,535,A,United States,False,,75,United States,1.1401869158878504,terminal_illness,United States_France
-France,United States,1010,1386,A,France,True,France,376,United States,1.3722772277227724,terminal_illness,United States_France
-France,United States,39,961,A,France,True,France,922,United States,24.641025641025642,terminal_illness,United States_France
+France,United States,1561,1537,A,France,False,,24,France,1.0156148340923878,terminal_illness,United States_France
+United States,France,548,509,A,United States,False,,39,United States,1.0766208251473477,terminal_illness,United States_France
+France,United States,283,1935,A,France,True,France,1652,United States,6.837455830388692,terminal_illness,United States_France
+France,United States,971,1065,A,France,True,France,94,United States,1.0968074150360454,terminal_illness,United States_France
+United States,France,1439,1651,A,United States,True,United States,212,France,1.147324530924253,terminal_illness,United States_France
+France,United States,842,1246,A,France,True,France,404,United States,1.479809976247031,terminal_illness,United States_France
+France,United States,871,482,A,France,False,,389,France,1.8070539419087137,terminal_illness,United States_France
+United States,France,912,520,A,United States,False,,392,United States,1.7538461538461538,terminal_illness,United States_France
+France,United States,1123,1448,A,France,True,France,325,United States,1.2894033837934105,terminal_illness,United States_France
+United States,France,1817,1322,A,United States,False,,495,United States,1.3744326777609683,terminal_illness,United States_France
+United States,France,424,1608,A,United States,True,United States,1184,France,3.792452830188679,terminal_illness,United States_France
+United States,France,56,1093,A,United States,True,United States,1037,France,19.517857142857142,terminal_illness,United States_France
+United States,France,258,1961,B,France,False,,1703,France,7.60077519379845,terminal_illness,United States_France
+France,United States,498,89,A,France,False,,409,France,5.595505617977528,terminal_illness,United States_France
+France,United States,414,282,A,France,False,,132,France,1.4680851063829787,terminal_illness,United States_France
+France,United States,584,1949,A,France,True,France,1365,United States,3.337328767123288,terminal_illness,United States_France
+United States,France,659,1253,A,United States,True,United States,594,France,1.9013657056145676,terminal_illness,United States_France
+United States,France,247,1950,A,United States,True,United States,1703,France,7.894736842105263,terminal_illness,United States_France
+France,United States,1109,1160,A,France,True,France,51,United States,1.0459873760144274,terminal_illness,United States_France
+United States,France,862,1594,A,United States,True,United States,732,France,1.8491879350348028,terminal_illness,United States_France
+France,United States,1660,1583,A,France,False,,77,France,1.0486418193303852,terminal_illness,United States_France
+France,United States,1018,248,A,France,False,,770,France,4.104838709677419,terminal_illness,United States_France
+United States,France,1554,1350,A,United States,False,,204,United States,1.1511111111111112,terminal_illness,United States_France
+France,United States,1484,759,A,France,False,,725,France,1.9552042160737813,terminal_illness,United States_France
+France,United States,763,1074,A,France,True,France,311,United States,1.4076015727391875,terminal_illness,United States_France
+United States,France,863,1816,A,United States,True,United States,953,France,2.104287369640788,terminal_illness,United States_France
+France,United States,300,69,A,France,False,,231,France,4.3478260869565215,terminal_illness,United States_France
+United States,France,1312,10,A,United States,False,,1302,United States,131.2,terminal_illness,United States_France
+France,United States,526,213,A,France,False,,313,France,2.4694835680751175,terminal_illness,United States_France
+France,United States,13,1344,I'm,neither,False,,1331,United States,103.38461538461539,terminal_illness,United States_France
+United States,France,595,1348,A,United States,True,United States,753,France,2.265546218487395,terminal_illness,United States_France
+France,United States,543,1382,A,France,True,France,839,United States,2.5451197053406998,terminal_illness,United States_France
+France,United States,922,327,A,France,False,,595,France,2.819571865443425,terminal_illness,United States_France
+United States,France,762,1632,A,United States,True,United States,870,France,2.141732283464567,terminal_illness,United States_France
+France,United States,1076,1173,A,France,True,France,97,United States,1.0901486988847584,terminal_illness,United States_France
+France,United States,795,777,A,France,False,,18,France,1.0231660231660231,terminal_illness,United States_France
+United States,France,923,1758,A,United States,True,United States,835,France,1.90465872156013,terminal_illness,United States_France
+United States,France,1561,1278,A,United States,False,,283,United States,1.2214397496087637,terminal_illness,United States_France
+United States,France,987,537,A,United States,False,,450,United States,1.8379888268156424,terminal_illness,United States_France
+France,United States,1061,196,A,France,False,,865,France,5.413265306122449,terminal_illness,United States_France
+United States,France,496,1394,A,United States,True,United States,898,France,2.810483870967742,terminal_illness,United States_France
+United States,France,1238,1214,A,United States,False,,24,United States,1.0197693574958815,terminal_illness,United States_France
+United States,France,1438,1935,A,United States,True,United States,497,France,1.3456189151599445,terminal_illness,United States_France
+France,United States,920,584,A,France,False,,336,France,1.5753424657534247,terminal_illness,United States_France
+United States,France,401,1728,B,France,False,,1327,France,4.309226932668329,terminal_illness,United States_France
+United States,France,518,1381,A,United States,True,United States,863,France,2.666023166023166,terminal_illness,United States_France
+United States,France,1668,1656,A,United States,False,,12,United States,1.0072463768115942,terminal_illness,United States_France
+United States,France,834,1922,A,United States,True,United States,1088,France,2.304556354916067,terminal_illness,United States_France
+France,United States,200,1328,A,France,True,France,1128,United States,6.64,terminal_illness,United States_France
+United States,France,513,110,A,United States,False,,403,United States,4.663636363636364,terminal_illness,United States_France

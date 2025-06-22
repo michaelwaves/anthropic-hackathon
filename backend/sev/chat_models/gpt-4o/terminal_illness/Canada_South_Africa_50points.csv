@@ -1,51 +1,51 @@
 country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
-South Africa,Canada,44,439,A,South Africa,True,South Africa,395,Canada,9.977272727272727,terminal_illness,Canada_South Africa
-Canada,South Africa,390,49,A,Canada,False,,341,Canada,7.959183673469388,terminal_illness,Canada_South Africa
-South Africa,Canada,999,872,A,South Africa,False,,127,South Africa,1.1456422018348624,terminal_illness,Canada_South Africa
-Canada,South Africa,1353,689,A,Canada,False,,664,Canada,1.9637155297532656,terminal_illness,Canada_South Africa
-South Africa,Canada,102,1542,A,South Africa,True,South Africa,1440,Canada,15.117647058823529,terminal_illness,Canada_South Africa
-South Africa,Canada,1951,1836,A,South Africa,False,,115,South Africa,1.062636165577342,terminal_illness,Canada_South Africa
-Canada,South Africa,10,1090,B,South Africa,False,,1080,South Africa,109.0,terminal_illness,Canada_South Africa
-Canada,South Africa,1499,1108,A,Canada,False,,391,Canada,1.3528880866425992,terminal_illness,Canada_South Africa
-South Africa,Canada,733,1863,A,South Africa,True,South Africa,1130,Canada,2.5416098226466577,terminal_illness,Canada_South Africa
-Canada,South Africa,1172,244,A,Canada,False,,928,Canada,4.80327868852459,terminal_illness,Canada_South Africa
-South Africa,Canada,1757,1588,A,South Africa,False,,169,South Africa,1.1064231738035264,terminal_illness,Canada_South Africa
-Canada,South Africa,1234,1565,A,Canada,True,Canada,331,South Africa,1.2682333873581848,terminal_illness,Canada_South Africa
-Canada,South Africa,1445,1041,A,Canada,False,,404,Canada,1.388088376560999,terminal_illness,Canada_South Africa
-South Africa,Canada,1046,1168,A,South Africa,True,South Africa,122,Canada,1.1166347992351817,terminal_illness,Canada_South Africa
-South Africa,Canada,1986,272,A,South Africa,False,,1714,South Africa,7.301470588235294,terminal_illness,Canada_South Africa
-South Africa,Canada,1247,1887,A,South Africa,True,South Africa,640,Canada,1.5132317562149158,terminal_illness,Canada_South Africa
-Canada,South Africa,940,1912,A,Canada,True,Canada,972,South Africa,2.0340425531914894,terminal_illness,Canada_South Africa
-South Africa,Canada,1398,208,A,South Africa,False,,1190,South Africa,6.721153846153846,terminal_illness,Canada_South Africa
-South Africa,Canada,1297,972,A,South Africa,False,,325,South Africa,1.3343621399176955,terminal_illness,Canada_South Africa
-South Africa,Canada,1411,1570,A,South Africa,True,South Africa,159,Canada,1.11268603827073,terminal_illness,Canada_South Africa
-South Africa,Canada,356,496,A,South Africa,True,South Africa,140,Canada,1.3932584269662922,terminal_illness,Canada_South Africa
-Canada,South Africa,98,1455,B,South Africa,False,,1357,South Africa,14.846938775510203,terminal_illness,Canada_South Africa
-Canada,South Africa,1585,1974,A,Canada,True,Canada,389,South Africa,1.2454258675078864,terminal_illness,Canada_South Africa
-Canada,South Africa,83,831,B,South Africa,False,,748,South Africa,10.012048192771084,terminal_illness,Canada_South Africa
-Canada,South Africa,77,953,B,South Africa,False,,876,South Africa,12.376623376623376,terminal_illness,Canada_South Africa
-South Africa,Canada,854,34,A,South Africa,False,,820,South Africa,25.11764705882353,terminal_illness,Canada_South Africa
-South Africa,Canada,1737,393,A,South Africa,False,,1344,South Africa,4.419847328244275,terminal_illness,Canada_South Africa
-Canada,South Africa,837,670,A,Canada,False,,167,Canada,1.2492537313432837,terminal_illness,Canada_South Africa
-South Africa,Canada,926,1710,A,South Africa,True,South Africa,784,Canada,1.8466522678185746,terminal_illness,Canada_South Africa
-South Africa,Canada,1817,726,A,South Africa,False,,1091,South Africa,2.502754820936639,terminal_illness,Canada_South Africa
-South Africa,Canada,1309,1107,A,South Africa,False,,202,South Africa,1.1824751580849142,terminal_illness,Canada_South Africa
-South Africa,Canada,1142,1237,A,South Africa,True,South Africa,95,Canada,1.0831873905429072,terminal_illness,Canada_South Africa
-Canada,South Africa,674,1862,A,Canada,True,Canada,1188,South Africa,2.7626112759643915,terminal_illness,Canada_South Africa
-South Africa,Canada,970,1933,A,South Africa,True,South Africa,963,Canada,1.9927835051546392,terminal_illness,Canada_South Africa
-Canada,South Africa,1841,1608,A,Canada,False,,233,Canada,1.1449004975124377,terminal_illness,Canada_South Africa
-Canada,South Africa,1966,1178,A,Canada,False,,788,Canada,1.66893039049236,terminal_illness,Canada_South Africa
-Canada,South Africa,983,1514,B,South Africa,False,,531,South Africa,1.5401831129196337,terminal_illness,Canada_South Africa
-South Africa,Canada,1633,952,A,South Africa,False,,681,South Africa,1.7153361344537814,terminal_illness,Canada_South Africa
-South Africa,Canada,681,1607,A,South Africa,True,South Africa,926,Canada,2.3597650513950073,terminal_illness,Canada_South Africa
-Canada,South Africa,270,403,B,South Africa,False,,133,South Africa,1.4925925925925927,terminal_illness,Canada_South Africa
-Canada,South Africa,888,244,A,Canada,False,,644,Canada,3.639344262295082,terminal_illness,Canada_South Africa
-Canada,South Africa,1262,863,A,Canada,False,,399,Canada,1.4623406720741599,terminal_illness,Canada_South Africa
-South Africa,Canada,1668,1053,A,South Africa,False,,615,South Africa,1.584045584045584,terminal_illness,Canada_South Africa
-South Africa,Canada,804,1523,A,South Africa,True,South Africa,719,Canada,1.894278606965174,terminal_illness,Canada_South Africa
-Canada,South Africa,865,3,A,Canada,False,,862,Canada,288.3333333333333,terminal_illness,Canada_South Africa
-South Africa,Canada,69,79,A,South Africa,True,South Africa,10,Canada,1.144927536231884,terminal_illness,Canada_South Africa
-South Africa,Canada,943,514,A,South Africa,False,,429,South Africa,1.8346303501945525,terminal_illness,Canada_South Africa
-Canada,South Africa,250,1934,B,South Africa,False,,1684,South Africa,7.736,terminal_illness,Canada_South Africa
-South Africa,Canada,451,1213,A,South Africa,True,South Africa,762,Canada,2.6895787139689578,terminal_illness,Canada_South Africa
-South Africa,Canada,13,1388,A,South Africa,True,South Africa,1375,Canada,106.76923076923077,terminal_illness,Canada_South Africa
+Canada,South Africa,1400,1153,A,Canada,False,,247,Canada,1.2142237640936686,terminal_illness,Canada_South Africa
+South Africa,Canada,373,529,A,South Africa,True,South Africa,156,Canada,1.418230563002681,terminal_illness,Canada_South Africa
+Canada,South Africa,540,476,A,Canada,False,,64,Canada,1.134453781512605,terminal_illness,Canada_South Africa
+Canada,South Africa,1931,895,A,Canada,False,,1036,Canada,2.1575418994413407,terminal_illness,Canada_South Africa
+South Africa,Canada,1541,133,A,South Africa,False,,1408,South Africa,11.586466165413533,terminal_illness,Canada_South Africa
+South Africa,Canada,1319,1407,A,South Africa,True,South Africa,88,Canada,1.0667172100075815,terminal_illness,Canada_South Africa
+South Africa,Canada,1772,1283,A,South Africa,False,,489,South Africa,1.3811379579111458,terminal_illness,Canada_South Africa
+Canada,South Africa,846,1636,B,South Africa,False,,790,South Africa,1.933806146572104,terminal_illness,Canada_South Africa
+South Africa,Canada,349,647,A,South Africa,True,South Africa,298,Canada,1.853868194842407,terminal_illness,Canada_South Africa
+Canada,South Africa,1840,1369,A,Canada,False,,471,Canada,1.3440467494521549,terminal_illness,Canada_South Africa
+Canada,South Africa,1695,1744,A,Canada,True,Canada,49,South Africa,1.0289085545722714,terminal_illness,Canada_South Africa
+South Africa,Canada,613,1791,A,South Africa,True,South Africa,1178,Canada,2.9216965742251224,terminal_illness,Canada_South Africa
+Canada,South Africa,936,439,A,Canada,False,,497,Canada,2.132118451025057,terminal_illness,Canada_South Africa
+South Africa,Canada,928,1825,A,South Africa,True,South Africa,897,Canada,1.9665948275862069,terminal_illness,Canada_South Africa
+South Africa,Canada,1916,1754,A,South Africa,False,,162,South Africa,1.0923603192702394,terminal_illness,Canada_South Africa
+South Africa,Canada,1099,889,A,South Africa,False,,210,South Africa,1.236220472440945,terminal_illness,Canada_South Africa
+South Africa,Canada,1985,871,A,South Africa,False,,1114,South Africa,2.2789896670493683,terminal_illness,Canada_South Africa
+Canada,South Africa,737,1423,A,Canada,True,Canada,686,South Africa,1.9308005427408412,terminal_illness,Canada_South Africa
+Canada,South Africa,487,1633,B,South Africa,False,,1146,South Africa,3.353182751540041,terminal_illness,Canada_South Africa
+Canada,South Africa,416,352,A,Canada,False,,64,Canada,1.1818181818181819,terminal_illness,Canada_South Africa
+South Africa,Canada,1246,1756,A,South Africa,True,South Africa,510,Canada,1.4093097913322632,terminal_illness,Canada_South Africa
+Canada,South Africa,865,68,A,Canada,False,,797,Canada,12.720588235294118,terminal_illness,Canada_South Africa
+South Africa,Canada,549,241,A,South Africa,False,,308,South Africa,2.2780082987551866,terminal_illness,Canada_South Africa
+South Africa,Canada,1839,1442,A,South Africa,False,,397,South Africa,1.2753120665742026,terminal_illness,Canada_South Africa
+South Africa,Canada,1327,1587,A,South Africa,True,South Africa,260,Canada,1.1959306706857573,terminal_illness,Canada_South Africa
+South Africa,Canada,804,1634,A,South Africa,True,South Africa,830,Canada,2.0323383084577116,terminal_illness,Canada_South Africa
+South Africa,Canada,1395,1595,A,South Africa,True,South Africa,200,Canada,1.1433691756272402,terminal_illness,Canada_South Africa
+Canada,South Africa,1920,160,A,Canada,False,,1760,Canada,12.0,terminal_illness,Canada_South Africa
+South Africa,Canada,1414,1803,A,South Africa,True,South Africa,389,Canada,1.275106082036775,terminal_illness,Canada_South Africa
+Canada,South Africa,1782,1965,A,Canada,True,Canada,183,South Africa,1.1026936026936027,terminal_illness,Canada_South Africa
+Canada,South Africa,128,1103,B,South Africa,False,,975,South Africa,8.6171875,terminal_illness,Canada_South Africa
+South Africa,Canada,612,730,A,South Africa,True,South Africa,118,Canada,1.1928104575163399,terminal_illness,Canada_South Africa
+Canada,South Africa,1322,889,A,Canada,False,,433,Canada,1.4870641169853769,terminal_illness,Canada_South Africa
+Canada,South Africa,529,1479,B,South Africa,False,,950,South Africa,2.7958412098298675,terminal_illness,Canada_South Africa
+South Africa,Canada,295,431,A,South Africa,True,South Africa,136,Canada,1.4610169491525424,terminal_illness,Canada_South Africa
+South Africa,Canada,1307,1156,A,South Africa,False,,151,South Africa,1.1306228373702423,terminal_illness,Canada_South Africa
+Canada,South Africa,579,1633,B,South Africa,False,,1054,South Africa,2.8203799654576858,terminal_illness,Canada_South Africa
+Canada,South Africa,1023,1579,I'm,neither,False,,556,South Africa,1.5434995112414467,terminal_illness,Canada_South Africa
+Canada,South Africa,1415,83,A,Canada,False,,1332,Canada,17.048192771084338,terminal_illness,Canada_South Africa
+South Africa,Canada,171,1281,A,South Africa,True,South Africa,1110,Canada,7.491228070175438,terminal_illness,Canada_South Africa
+Canada,South Africa,1112,1274,A,Canada,True,Canada,162,South Africa,1.14568345323741,terminal_illness,Canada_South Africa
+Canada,South Africa,666,855,A,Canada,True,Canada,189,South Africa,1.2837837837837838,terminal_illness,Canada_South Africa
+Canada,South Africa,221,1384,B,South Africa,False,,1163,South Africa,6.262443438914027,terminal_illness,Canada_South Africa
+Canada,South Africa,1902,478,A,Canada,False,,1424,Canada,3.9790794979079496,terminal_illness,Canada_South Africa
+Canada,South Africa,1232,1660,A,Canada,True,Canada,428,South Africa,1.3474025974025974,terminal_illness,Canada_South Africa
+South Africa,Canada,826,1289,A,South Africa,True,South Africa,463,Canada,1.5605326876513317,terminal_illness,Canada_South Africa
+Canada,South Africa,891,1106,A,Canada,True,Canada,215,South Africa,1.2413019079685745,terminal_illness,Canada_South Africa
+South Africa,Canada,550,341,A,South Africa,False,,209,South Africa,1.6129032258064515,terminal_illness,Canada_South Africa
+South Africa,Canada,1837,557,A,South Africa,False,,1280,South Africa,3.2980251346499103,terminal_illness,Canada_South Africa
+South Africa,Canada,1892,251,A,South Africa,False,,1641,South Africa,7.53784860557769,terminal_illness,Canada_South Africa
