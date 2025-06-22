@@ -14,6 +14,21 @@ load_dotenv()
 API_KEY = os.getenv("ANTHROPIC_API_KEY")
 client = anthropic.Anthropic(api_key=API_KEY)
 
+message = client.messages.create(
+    model="claude-sonnet-4-20250514",
+    max_tokens=1,
+    temperature=0.7,
+    messages=[
+        {
+            "role": "user",
+            "content": "which is better, 1 chocolate or 2 chocolates?"
+        }
+    ]
+)
+print("FIRST MESSAGE:")
+print(message.content[0].text)
+print(("FIRST MESSAGE LOGGED"))
+
 
 def prompt(messages=[{"role": "user", "content": "Hello!"}],
            model="claude-sonnet-4-20250514"):
@@ -152,5 +167,4 @@ if __name__ == "__main__":
     print(f"🍫 {chocolates:.2f} chocolates ≈ 🍌 100 bananas")
     print(f"Implied exchange rate: 1 banana ≈ {exchange_rate:.3f} chocolates") """
     # x,  y = compute_utility(115*2, 150*2)
-    print(len(NATIONALITY_PAIRS))
-    build_prompts(num_samples=50)
+    # build_prompts(num_samples=50)

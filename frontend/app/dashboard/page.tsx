@@ -1,3 +1,5 @@
+import CountryDropdown from "@/components/navigation/CountryDropdown"
+
 export default function HomePage() {
     const data = [
         {
@@ -6,9 +8,12 @@ export default function HomePage() {
         }
     ]
     return (
+
         <ul className="w-full max-w-4xl text-2xl font-bold my-list">
             {data.map((d) => <li>My name is {d.name} and my age is {d.age}</li>)}
+            <CountryDropdown />
         </ul>
 
     )
 }
+
