@@ -1,6 +1,6 @@
 function ExperimentPage() {
     return (<div>
-        Run your own experiments here!
+        Run your own custom experiments here!
     </div>);
 }
 
