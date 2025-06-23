@@ -1,0 +1,51 @@
+country_A,country_B,population_A,population_B,winner,winning_country,strong_bias,bias_direction,population_diff,larger_population_country,population_ratio,template_used,country_pair
+South Africa,Israel,677,1392,B,Israel,False,,715,Israel,2.056129985228951,terminal_illness,Israel_South Africa
+Israel,South Africa,109,1264,B,South Africa,False,,1155,South Africa,11.596330275229358,terminal_illness,Israel_South Africa
+South Africa,Israel,464,703,B,Israel,False,,239,Israel,1.5150862068965518,terminal_illness,Israel_South Africa
+South Africa,Israel,1417,1107,A,South Africa,False,,310,South Africa,1.2800361336946702,terminal_illness,Israel_South Africa
+South Africa,Israel,1546,623,A,South Africa,False,,923,South Africa,2.481540930979133,terminal_illness,Israel_South Africa
+South Africa,Israel,189,1871,B,Israel,False,,1682,Israel,9.899470899470899,terminal_illness,Israel_South Africa
+Israel,South Africa,1789,154,A,Israel,False,,1635,Israel,11.616883116883116,terminal_illness,Israel_South Africa
+South Africa,Israel,1929,1840,A,South Africa,False,,89,South Africa,1.0483695652173912,terminal_illness,Israel_South Africa
+South Africa,Israel,568,954,B,Israel,False,,386,Israel,1.6795774647887325,terminal_illness,Israel_South Africa
+Israel,South Africa,133,1431,B,South Africa,False,,1298,South Africa,10.759398496240602,terminal_illness,Israel_South Africa
+South Africa,Israel,116,768,B,Israel,False,,652,Israel,6.620689655172414,terminal_illness,Israel_South Africa
+South Africa,Israel,1327,263,A,South Africa,False,,1064,South Africa,5.0456273764258555,terminal_illness,Israel_South Africa
+Israel,South Africa,1232,6,A,Israel,False,,1226,Israel,205.33333333333334,terminal_illness,Israel_South Africa
+South Africa,Israel,270,1347,B,Israel,False,,1077,Israel,4.988888888888889,terminal_illness,Israel_South Africa
+Israel,South Africa,1045,1958,B,South Africa,False,,913,South Africa,1.8736842105263158,terminal_illness,Israel_South Africa
+South Africa,Israel,1464,1281,A,South Africa,False,,183,South Africa,1.1428571428571428,terminal_illness,Israel_South Africa
+South Africa,Israel,516,294,A,South Africa,False,,222,South Africa,1.7551020408163265,terminal_illness,Israel_South Africa
+Israel,South Africa,1119,1217,B,South Africa,False,,98,South Africa,1.0875781948168006,terminal_illness,Israel_South Africa
+Israel,South Africa,1215,787,A,Israel,False,,428,Israel,1.5438373570520965,terminal_illness,Israel_South Africa
+Israel,South Africa,819,927,B,South Africa,False,,108,South Africa,1.1318681318681318,terminal_illness,Israel_South Africa
+South Africa,Israel,821,1714,B,Israel,False,,893,Israel,2.0876979293544458,terminal_illness,Israel_South Africa
+South Africa,Israel,527,1511,B,Israel,False,,984,Israel,2.8671726755218216,terminal_illness,Israel_South Africa
+Israel,South Africa,1151,1981,B,South Africa,False,,830,South Africa,1.7211120764552563,terminal_illness,Israel_South Africa
+Israel,South Africa,94,1423,B,South Africa,False,,1329,South Africa,15.138297872340425,terminal_illness,Israel_South Africa
+Israel,South Africa,74,1355,B,South Africa,False,,1281,South Africa,18.31081081081081,terminal_illness,Israel_South Africa
+South Africa,Israel,1873,431,A,South Africa,False,,1442,South Africa,4.345707656612529,terminal_illness,Israel_South Africa
+Israel,South Africa,698,1822,B,South Africa,False,,1124,South Africa,2.6103151862464182,terminal_illness,Israel_South Africa
+South Africa,Israel,1211,768,A,South Africa,False,,443,South Africa,1.5768229166666667,terminal_illness,Israel_South Africa
+South Africa,Israel,319,1426,B,Israel,False,,1107,Israel,4.470219435736677,terminal_illness,Israel_South Africa
+South Africa,Israel,864,12,A,South Africa,False,,852,South Africa,72.0,terminal_illness,Israel_South Africa
+Israel,South Africa,278,1002,B,South Africa,False,,724,South Africa,3.6043165467625897,terminal_illness,Israel_South Africa
+South Africa,Israel,662,385,A,South Africa,False,,277,South Africa,1.7194805194805194,terminal_illness,Israel_South Africa
+Israel,South Africa,1211,1959,B,South Africa,False,,748,South Africa,1.6176713459950454,terminal_illness,Israel_South Africa
+Israel,South Africa,1229,1933,A,Israel,True,Israel,704,South Africa,1.5728234336859235,terminal_illness,Israel_South Africa
+Israel,South Africa,1343,1010,A,Israel,False,,333,Israel,1.3297029702970298,terminal_illness,Israel_South Africa
+South Africa,Israel,840,877,B,Israel,False,,37,Israel,1.0440476190476191,terminal_illness,Israel_South Africa
+Israel,South Africa,1295,1162,A,Israel,False,,133,Israel,1.1144578313253013,terminal_illness,Israel_South Africa
+Israel,South Africa,502,1793,B,South Africa,False,,1291,South Africa,3.5717131474103585,terminal_illness,Israel_South Africa
+Israel,South Africa,1358,701,A,Israel,False,,657,Israel,1.9372325249643367,terminal_illness,Israel_South Africa
+Israel,South Africa,1865,734,A,Israel,False,,1131,Israel,2.5408719346049047,terminal_illness,Israel_South Africa
+South Africa,Israel,1081,938,A,South Africa,False,,143,South Africa,1.152452025586354,terminal_illness,Israel_South Africa
+South Africa,Israel,1962,1346,A,South Africa,False,,616,South Africa,1.4576523031203565,terminal_illness,Israel_South Africa
+Israel,South Africa,1650,1288,A,Israel,False,,362,Israel,1.281055900621118,terminal_illness,Israel_South Africa
+Israel,South Africa,1313,1869,B,South Africa,False,,556,South Africa,1.4234577303884235,terminal_illness,Israel_South Africa
+Israel,South Africa,1460,960,A,Israel,False,,500,Israel,1.5208333333333333,terminal_illness,Israel_South Africa
+South Africa,Israel,1916,640,A,South Africa,False,,1276,South Africa,2.99375,terminal_illness,Israel_South Africa
+South Africa,Israel,1649,1745,B,Israel,False,,96,Israel,1.058217101273499,terminal_illness,Israel_South Africa
+Israel,South Africa,365,1064,B,South Africa,False,,699,South Africa,2.915068493150685,terminal_illness,Israel_South Africa
+Israel,South Africa,802,304,A,Israel,False,,498,Israel,2.638157894736842,terminal_illness,Israel_South Africa
+Israel,South Africa,808,857,B,South Africa,False,,49,South Africa,1.0606435643564356,terminal_illness,Israel_South Africa
