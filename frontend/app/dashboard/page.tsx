@@ -1,7 +1,12 @@
+import RankingGraph from "@/components/graphs/RankingGraph";
 import LinkCard from "@/components/navigation/LinkCard";
+import { fetchRankings } from "@/lib/actions";
 import { ChartScatter, Code, ScrollText } from "lucide-react";
 
-export default function Home() {
+export default async function Home({ searchParams }: { searchParams: Promise<{ scenario: string }> }) {
+    const { scenario } = await searchParams
+    const data = await fetchRankings(scenario)
+    console.log(data)
     const linkData = [
         {
             href: '/dashboard/compare',
@@ -43,6 +48,7 @@ export default function Home() {
                     </p>
                 </section>
             </div>
+            <RankingGraph data={data} />
         </main>
     );
 }
