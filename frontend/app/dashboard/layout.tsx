@@ -1,9 +1,12 @@
-import { LayoutDashboard, ScatterChart, TestTube } from "lucide-react";
+import { ChartBar, LayoutDashboard, ScatterChart, TestTube } from "lucide-react";
 import Sidebar from "@/components/navigation/Sidebar";
 
 const navItems = [
     { href: "/dashboard", text: "Dashboard", icon: <LayoutDashboard size={20} /> },
+    { href: "/dashboard/summarize", text: "Results", icon: <ChartBar size={20} /> },
+
     { href: "/dashboard/compare", text: "Data", icon: <ScatterChart size={20} /> },
+
     { href: "/dashboard/experiment", text: "Experiment", icon: <TestTube size={20} /> },
 ];
 
