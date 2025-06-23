@@ -1,7 +1,6 @@
 "use client"
 
 import { RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar, Tooltip, ResponsiveContainer } from "recharts"
-import Image from "next/image"
 
 
 const formatLabel = (group: string) => {

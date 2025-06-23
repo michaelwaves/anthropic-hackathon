@@ -1,7 +1,7 @@
 import RankingGraph from "@/components/graphs/RankingGraph";
 import LinkCard from "@/components/navigation/LinkCard";
 import { fetchRankings } from "@/lib/actions";
-import { ChartScatter, Code, ScrollText } from "lucide-react";
+import { Briefcase, ChartScatter, Code, ScrollText, TrainTrack, Vote } from "lucide-react";
 
 export default async function Home({ searchParams }: { searchParams: Promise<{ scenario: string }> }) {
     const { scenario } = await searchParams
@@ -25,6 +25,24 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ s
         },
     ];
 
+    const scenarioLinkData = [
+        {
+            href: '/dashboard?scenario=trolley',
+            text: "Trolley Problem",
+            icon: <TrainTrack className="text-sky-500" />,
+        },
+        {
+            href: '/dashboard?scenario=voting',
+            text: "Voting",
+            icon: <Vote className="text-sky-500" />,
+        },
+        {
+            href: '/dashboard?scenario=hiring',
+            text: "Hiring",
+            icon: <Briefcase className="text-sky-500" />,
+        },
+    ]
+
     return (
         <main className="min-h-screen bg-sky-50 py-12 px-6 sm:px-12 lg:px-24">
             <div className="max-w-4xl mx-auto">
@@ -47,6 +65,11 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ s
                         Preference models—also known as reward models—play a central role in RLHF and the training of frontier AI systems by translating human feedback into a learned utility function that guides model behavior. No humans are perfectly unbiased and neither are these models. We investigate potential nationality-based biases in large language models' moral and utilitarian preferences, focusing specifically on a preference-ranking model used for alignment tuning. We designed a series of controlled ethical scenarios inspired by classical "trolley problems," involving hypothetical tradeoffs across three domains: lives saved, job automation, and hiring decisions. Our findings reveal several biases, particularly toward Nigerians. We further observed that the model’s decisions lack monotonic consistency; it sometimes favored saving fewer lives or automating fewer jobs based on seemingly arbitrary numeric thresholds, implying the influence of non-utilitarian heuristics. These findings raise important questions about fairness, representation, and unintended bias in AI preference modeling, with implications for alignment safety and global equity in human-AI interaction.
                     </p>
                 </section>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
+                {scenarioLinkData.map((d) => (
+                    <LinkCard key={d.text} {...d} />
+                ))}
             </div>
             <RankingGraph data={data} />
         </main>
