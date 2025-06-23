@@ -1,7 +1,12 @@
+import RankingGraph from "@/components/graphs/RankingGraph";
 import LinkCard from "@/components/navigation/LinkCard";
-import { ChartScatter, Code, ScrollText } from "lucide-react";
+import { fetchRankings } from "@/lib/actions";
+import { Briefcase, ChartScatter, Code, ScrollText, TrainTrack, Vote } from "lucide-react";
 
-export default function Home() {
+export default async function Home({ searchParams }: { searchParams: Promise<{ scenario: string }> }) {
+    const { scenario } = await searchParams
+    const data = await fetchRankings(scenario)
+    console.log(data)
     const linkData = [
         {
             href: '/dashboard/compare',
@@ -19,6 +24,24 @@ export default function Home() {
             icon: <Code className="text-sky-500" />,
         },
     ];
+
+    const scenarioLinkData = [
+        {
+            href: '/dashboard?scenario=trolley',
+            text: "Trolley Problem",
+            icon: <TrainTrack className="text-sky-500" />,
+        },
+        {
+            href: '/dashboard?scenario=voting',
+            text: "Voting",
+            icon: <Vote className="text-sky-500" />,
+        },
+        {
+            href: '/dashboard?scenario=hiring',
+            text: "Hiring",
+            icon: <Briefcase className="text-sky-500" />,
+        },
+    ]
 
     return (
         <main className="min-h-screen bg-sky-50 py-12 px-6 sm:px-12 lg:px-24">
@@ -43,6 +66,12 @@ export default function Home() {
                     </p>
                 </section>
             </div>
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
+                {scenarioLinkData.map((d) => (
+                    <LinkCard key={d.text} {...d} />
+                ))}
+            </div>
+            <RankingGraph data={data} />
         </main>
     );
 }

@@ -11,3 +11,13 @@ CREATE TABLE comparisons (
     created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
     updated_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
 );
+
+CREATE TABLE rankings (
+    id SERIAL PRIMARY KEY,
+    "group" TEXT ,
+    rating REAL ,
+    scenario TEXT ,
+    created_at TIMESTAMPTZ DEFAULT NOW(),
+    updated_at TIMESTAMPTZ DEFAULT NOW()
+);
+

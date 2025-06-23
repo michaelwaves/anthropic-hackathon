@@ -18,6 +18,20 @@ const fetchComparisons = async (group1: string, group2: string, scenario = "trol
     return comparisons
 }
 
+const fetchRankings = async (scenario = "trolley") => {
+
+    const rankings = await db.manyOrNone(
+        `
+        SELECT *
+        FROM rankings
+        WHERE scenario = $1
+        `,
+        [scenario]
+    )
+    return rankings
+}
+
+
 const fetchPreference = async (messages: any[]) => {
     const res = await anthropic.messages.create({
         model: "as-hackathon-pm-rollout",
@@ -31,4 +45,4 @@ const fetchPreference = async (messages: any[]) => {
 }
 
 
-export { fetchComparisons, fetchPreference }
+export { fetchComparisons, fetchPreference, fetchRankings }
