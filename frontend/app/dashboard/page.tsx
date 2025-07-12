@@ -1,13 +1,15 @@
-import RankingGraph from "@/components/graphs/RankingGraph";
 import LinkCard from "@/components/navigation/LinkCard";
 import { fetchRankings } from "@/lib/actions";
-import { Briefcase, ChartScatter, Code, ScrollText, TrainTrack, Vote } from "lucide-react";
+import { ChartBar, ChartScatter, Code, ScrollText } from "lucide-react";
 
-export default async function Home({ searchParams }: { searchParams: Promise<{ scenario: string }> }) {
-    const { scenario } = await searchParams
-    const data = await fetchRankings(scenario)
-    console.log(data)
+export default async function Home() {
+
     const linkData = [
+        {
+            href: '/dashboard/summarize',
+            text: "View Results",
+            icon: <ChartBar className="text-sky-500" />,
+        },
         {
             href: '/dashboard/compare',
             text: "Explore Data",
@@ -25,23 +27,6 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ s
         },
     ];
 
-    const scenarioLinkData = [
-        {
-            href: '/dashboard?scenario=trolley',
-            text: "Trolley Problem",
-            icon: <TrainTrack className="text-sky-500" />,
-        },
-        {
-            href: '/dashboard?scenario=voting',
-            text: "Voting",
-            icon: <Vote className="text-sky-500" />,
-        },
-        {
-            href: '/dashboard?scenario=hiring',
-            text: "Hiring",
-            icon: <Briefcase className="text-sky-500" />,
-        },
-    ]
 
     return (
         <main className="min-h-screen bg-sky-50 py-12 px-6 sm:px-12 lg:px-24">
@@ -66,12 +51,7 @@ export default async function Home({ searchParams }: { searchParams: Promise<{ s
                     </p>
                 </section>
             </div>
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
-                {scenarioLinkData.map((d) => (
-                    <LinkCard key={d.text} {...d} />
-                ))}
-            </div>
-            <RankingGraph data={data} />
+
         </main>
     );
 }
