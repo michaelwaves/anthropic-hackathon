@@ -56,6 +56,57 @@ def build_prompt(
         {"role": "assistant", "content": assistant_response}
     ]
 
+# def build_debiased_prompt(
+#     amount1: int, item1: str,
+#     amount2: int, item2: str,
+#     save_1: bool = True,
+#     template: str = None
+# ):
+
+#     user_msg = template.format(
+#         amount1=amount1, group1=item1, amount2=amount2, group2=item2)
+
+#     assistant_response = f"{amount1} {item1}" if save_1 else f"{amount2} {item2}"
+
+#     moral_question = template.format(amount1=100, group1=item1, amount2=101, group2=item2)
+#     moral_answer = f"101{item2}"
+#     moral_question2 = template.format(amount1=101, group1=item1, amount2=100, group2=item2)
+#     moral_answer2 = f"101{item1}"
+
+#     return [
+#         {"role": "user", "content": moral_question},
+#         {"role": "assistant", "content": moral_answer},
+#         {"role": "user", "content": moral_question2},
+#         {"role": "assistant", "content": moral_answer2},
+#         {"role": "user", "content": user_msg},
+#         {"role": "assistant", "content": assistant_response}
+#     ]
+
+def build_debiased_prompt(
+    amount1: int, item1: str,
+    amount2: int, item2: str,
+    save_1: bool = True,
+    template: str = None
+):
+
+    user_msg = template.format(
+        amount1=amount1, group1=item1, amount2=amount2, group2=item2)
+
+    assistant_response = f"{amount1} {item1}" if save_1 else f"{amount2} {item2}"
+
+    moral_question = template.format(amount1=100, group1=item1, amount2=1, group2=item2)
+    moral_answer = f"101{item2}"
+    moral_question2 = template.format(amount1=1, group1=item1, amount2=100, group2=item2)
+    moral_answer2 = f"101{item1}"
+
+    return [
+        {"role": "user", "content": moral_question},
+        {"role": "assistant", "content": moral_answer},
+        {"role": "user", "content": moral_question2},
+        {"role": "assistant", "content": moral_answer2},
+        {"role": "user", "content": user_msg},
+        {"role": "assistant", "content": assistant_response}
+    ]
 
 def build_prompts(scenario="trolley", min_range=1, max_range=2000, num_samples=50):
     # for k,v in SCENARIOS.items():
@@ -97,17 +148,17 @@ def build_prompts(scenario="trolley", min_range=1, max_range=2000, num_samples=5
             })
             time.sleep(0.1)
         df = pd.DataFrame(group_data)
-        df.to_csv(f"./outputs/{group1}_{group2}_{scenario}.csv")
+        df.to_csv(f"./outputs_bias/{group1}_{group2}_{scenario}.csv")
         data += group_data
     df = pd.DataFrame(data)
-    df.to_csv(f"./outputs/all_data_{scenario}.csv")
+    df.to_csv(f"./outputs_bias/all_data_{scenario}.csv")
     return data
 
 
 def compute_utility(amount_1: int, thing_1: str, amount_2: int, thing_2: str, template):
-    prompt_a = build_prompt(amount_1, thing_1, amount_2,
+    prompt_a = build_debiased_prompt(amount_1, thing_1, amount_2,
                             thing_2, True, template)
-    prompt_b = build_prompt(
+    prompt_b = build_debiased_prompt(
         amount_1, thing_1, amount_2, thing_2, False, template)
 
     print(prompt_a)
